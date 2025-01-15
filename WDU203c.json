@@ -1,0 +1,406 @@
+{
+  "quizUrls": [],
+  "strictQuizMode": true,
+  "quizSrc": [
+    {
+      "term": "Which of the following is NOT a reason why building products with great UX is hard?A. You are not the userB. Computers are weirdC. Software is (usually) complexD. There is no known process that we can follow to create good UX",
+      "definition": "D. There is no known process that we can follow to create good UX"
+    },
+    {
+      "term": "True or false: You need to have a degree in psychology in order to understand the principles behind good UX.A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "True or false: \"User Experience\" only describes the experience that people have while actually using a product, and not other related experiences like acquiring the product or fixing it when it breaks.A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "True or false: One of your goals in designing products with a good user experience should be to fail as early and often as possible.A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "Which of the following is not a phase in the iterative design process?A. BuildB. DesignC. StylizeD. Assess",
+      "definition": "C. Stylize"
+    },
+    {
+      "term": "A model of the design process that shows both the iterative nature and also how it progresses towards an end goal is:A. The spiral modelB. The waterfall modelC. The hub-and-spoke modelD. The wave model",
+      "definition": "A. The spiral model"
+    },
+    {
+      "term": "Interviews, Observations, Surveys, User Testing, and Inspection Methods are all examples of:A. Common UX mistakesB. UX Design methodsC. UX Research methodsD. UX Marketing methods",
+      "definition": "C. UX Research methods"
+    },
+    {
+      "term": "Which of the following components of UX were discussed in this week's lectures? Check all that apply.A. ValueB. UsabilityC. DesirabilityD. AdoptabilityE. ScrollabilityF. Monetizability",
+      "definition": "A. Value, B. Usability, C. Desirability, D. Adoptability"
+    },
+    {
+      "term": "Which of the following questions would be most relevant to the UX criterion of \"Adoptability\"?A. Where do users currently look for products or services like the one we will offer?B. Do users prefer bright or muted colors for graphics in this product category?C. How much would people be willing to pay for the product or service we plan to offer?D. What percentage of people succeed in completing key tasks using the product?",
+      "definition": "A. Where do users currently look for products or services like the one we will offer?"
+    },
+    {
+      "term": "True or false: In this course, you will \"get your hands dirty\" and gain hands-on experience with UX Research and Design methods.A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "True or false: In UX, \"Design\" is concerned only with the aesthetic (or beauty-related) aspects of products.A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "Which of the following is not part of a typical UX design process?A. Understanding the problemB. Generating possible solutionsC. Establishing the sale price for a productD. Assessing prototypes and finding new problems",
+      "definition": "C. Establishing the sale price for a product"
+    },
+    {
+      "term": "_____________ means \"to make an idea real or concrete.\"A. AssessmentB. CommunicationC. ReificationD. Reflection",
+      "definition": "C. Reification"
+    },
+    {
+      "term": "According to Bill Moggridge, \"A representation of a design, made before the final solution exists\" is called a:A. Time capsuleB. Prototype C. BrainstormD. Design representation",
+      "definition": "B. Prototype"
+    },
+    {
+      "term": "Which of the following is not an advantage of lo-fi prototyping?A. You can identify problems before investing significant resources into a design direction.B. You can work out aspects of graphic design such as fonts and color schemes, which have the largest impact on user experience.C. Stakeholders are more likely to give honest feedback if they perceive that design ideas are \"sketchy\" rather than highly polished.D. Lo-fi prototypes are easy to change, allowing you to iterate more rapidly than you could if you were creating more complex prototypes.",
+      "definition": "B. You can work out aspects of graphic design such as fonts and color schemes, which have the largest impact on user experience."
+    },
+    {
+      "term": "Bill Buxton claims that __________ is not just a byproduct of design, but is central to design thinking and learning.A. SketchingB. BeautyC. FunctionalityD. User Testing",
+      "definition": "A. Sketching"
+    },
+    {
+      "term": "True or false: it is important to be good at drawing to use sketching in UX Design.A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "True or false: in the \"generation\" phase, your goal should be to sketch many different design ideas rather than to perfect a single idea.A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "True or false: when sketching to come up with different design solutions, you should stop the first time you run out of ideas.A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "0Brainstorming, morphological analysis, and \"the worst idea\" are examples of what kind of technique?A. IdeationB. Lo-fi prototypingC. ConvergenceD. Poor",
+      "definition": "A. Ideation"
+    },
+    {
+      "term": "The \"central vision\" portion of the human field of view, in which people can read text and recognize details in images, is approximately how wide?A. 5°B. 18°C. 30°D. 180°",
+      "definition": "A. 5°"
+    },
+    {
+      "term": "The pattern of eye fixations that people perform when processing a web page has been shown to resemble what shape?A. A circleB. A spiralC. The letter 'F'D. The letter 'Z'",
+      "definition": "C. The letter 'F'"
+    },
+    {
+      "term": "The effect that makes it easy to recognize objects in a visual field that differ from their background and all other objects in simple visual features like color and texture is called:A. saccadeB. gestaltC. brightnessD. Pop-out",
+      "definition": "D. Pop-out"
+    },
+    {
+      "term": "Which of the following is not considered a primitive visual feature that is processed in the first, and fastest, stage of visual processing?A. angle of intersectionB. proximityC. shade/contrastD. motion",
+      "definition": "B. proximity"
+    },
+    {
+      "term": "According to the original research on short-term memory, how many \"items\" can a person retain in short-term memory at one time?A. One or twoB. About 7C. About 10D. There is no measurable limit",
+      "definition": "B. About 7"
+    },
+    {
+      "term": "A collection of associated concepts in long-term memory is called what?A. A thoughtB. A schemaC. A muleD. A gestalt",
+      "definition": "B. A schema"
+    },
+    {
+      "term": "Which of the following does not impact the likelihood that something in long-term memory will be recalled?A. strength of associationB. frequency of useC. recency of useD. accuracy of information",
+      "definition": "D. accuracy of information"
+    },
+    {
+      "term": "About how long does an item remain in short-term memory if it is not actively maintained through rehearsal?A. Less than one secondB. A few secondsC. A few minutesD. Up to an hour",
+      "definition": "B. A few seconds"
+    },
+    {
+      "term": "The recommendation \"keep lists of options short\" is given because:A. short lists load faster on a web page.B. designing long lists of options is a waste of time because most users will only ever choose one or two of them.C. due to the limits of short-term memory, users will have forgotten the first items by the time they've gotten to the end of a long list.D. long lists exceed users' useful field of view, and they aren't able to scan them effectively using",
+      "definition": "C. due to the limits of short-term memory, users will have forgotten the first items by the time they've gotten to the end of a long list."
+    },
+    {
+      "term": "0In the context of this lesson, the use of consistency, standards, and metaphor is recommended because:A. people are afraid of things that are new and different.B. they allow a design to take advantage of users' existing schema.C. they are typically required by platform guideline documents.D. borrowing ideas from others is easier than coming up with your own.",
+      "definition": "B. they allow a design to take advantage of users' existing schema."
+    },
+    {
+      "term": "Write the stages of action in the correct order in the text box below. There is no need to number them, and feel free to separate each stage with a comma:I. Interpreting the State of the WorldII. Selecting the ActionIII. Evaluating the OutcomeIV. Executing the ActionV. Forming the IntentionVI. Perceiving the State of the WorldA. V, II, IV, VI, I, IIIB. I, II, III, IV, V, VI",
+      "definition": "A. V, II, IV, VI, I, III"
+    },
+    {
+      "term": "If a user of a system is unable to find an option for action that they believe will move them closer to achieving their goal, we would say that the system fails to bridge:A. The Gulf of InspectionB. The Gulf of ExpectationC. The Gulf of ExecutionD. The Gulf of Evaluation",
+      "definition": "C. The Gulf of Execution"
+    },
+    {
+      "term": "If a user of a system is unable to determine whether an action they took helped to move them closer to achieving their goal, we would say that the system fails to bridge:A. The Gulf of InspectionB. The Gulf of ExpectationC. The Gulf of EvaluationD. The Gulf of Execution",
+      "definition": "C. The Gulf of Evaluation"
+    },
+    {
+      "term": "A feature of an environment or system that, by its shape and appearance, suggests to a person that a particular action could be taken is called:A. An affordanceB. A signalC. A constraintD. A signpost",
+      "definition": "A. An affordance"
+    },
+    {
+      "term": "A feature of an environment or system that communicates through verbiage or imagery what will happen if an action is taken is called:A. A signifierB. A signalC. FeedbackD. An icon",
+      "definition": "A. A signifier"
+    },
+    {
+      "term": "A change in an environment or system that indicates that a user's action was recognized and communicates the result of that action is called:A. Response timeB. A signalC. FeedbackD. A dialogue box",
+      "definition": "C. Feedback"
+    },
+    {
+      "term": "Reducing the set of available actions to only those that are possible given a particular state of the system would be an example of applying:A. FeedbackB. ConstraintsC. Conceptual ModelsD. Mapping",
+      "definition": "B. Constraints"
+    },
+    {
+      "term": "By helping users form effective ________, we can help users to predict the results of actions they haven't yet performed using a system.A. system imagesB. assumptionsC. feedbackD. conceptual models",
+      "definition": "D. conceptual models"
+    },
+    {
+      "term": "Neilsen's set of 10 heuristics was designed to meet all of the following criteria except:A. The heuristics are exhaustive and detailed enough to tell a designer exactly what elements to include in every possible part of every possible user interfaceB. The heuristics are applicable to a wide range of different platforms and interaction modalities (e.g., mouse-and-keyboard, touch-based mobile, speech)C. The heuristics are compact enough to be taught to a non-expert within a few hoursD. The heuristics are backed up by systematic research showing that the set of heuristics could explain a range of usability problems observed across numerous usability tests with multiple systems",
+      "definition": "A. The heuristics are exhaustive and detailed enough to tell a designer exactly what elements to include in every possible part of every possible user interface"
+    },
+    {
+      "term": "For a system's response to user input to be perceived as \"instantaneous\" by the user, what is the maximum time that can elapse between the user's action and the system response?A. 10 millisecondsB. 100 millisecondsC. 1 secondD. 1 minute",
+      "definition": "B. 100 milliseconds"
+    },
+    {
+      "term": "Using obscure system codes or non-intuitive imagery to represent system features and/or feedback violates which heuristic?A. User control and freedomB. Flexibility and efficiency of useC. Aesthetic and minimalist designD. Match between system and the real world",
+      "definition": "D. Match between system and the real world"
+    },
+    {
+      "term": "Because some users learn how to use a system through trial and error, it is important to:A. provide extensive documentation to ensure that users always do the right thingB. force users to undergo training before using a system so they don't break anythingC. provide users with only one option at a time so that they cannot make mistakesD. support \"undo\" and \"redo\" to help users recover from mistakes",
+      "definition": "D. support \"undo\" and \"redo\" to help users recover from mistakes"
+    },
+    {
+      "term": "According to Nielsen's heuristics, \"platform standards\" are important to support in user interface design because:A. Platform standards are always better than anything you could come up with on your ownB. Supporting standards allows users to leverage \"schemas\" they have developed through prior experiences with similar systemsC. Platform owners may refuse to allow your system to run on their platform if you do not conformD. You can use pre-existing code libraries, which saves development time",
+      "definition": "B. Supporting standards allows users to leverage \"schemas\" they have developed through prior experiences with similar systems"
+    },
+    {
+      "term": "Some web forms give instantaneous feedback about the validity of data entered into a form field every time a user types a character. This type of \"in-process feedback\" helps usability because:A. It can be used to manipulate users into providing data they didn't intend to provideB. It encourages users to look up help and documentation to understand how the system worksC. It helps prevent errors before they happenD. It keeps users focused on the current task rather than getting distracted",
+      "definition": "C. It helps prevent errors before they happen"
+    },
+    {
+      "term": "According to Wikipedia, a \"direct manipulation interface\" is one that features \"continuous representation of objects of interest and rapid, reversible, and incremental actions and feedback.\" The \"continuous representation of objects of interest\" is best aligned with which principle of good UI design?A. Prevent errors before they happenB. Support recognition over recallC. Employ aesthetic and minimalist designD. Support user control and freedom",
+      "definition": "B. Support recognition over recall"
+    },
+    {
+      "term": "A recommended technique for supporting \"flexibility and efficiency of use\" is:A. the use of keyboard \"accelerator\" shortcutsB. make sure all commands are represented graphically on the screenC. streamline the design to minimize page load timesD. eliminate as many commands as possible to prevent possible errors",
+      "definition": "A. the use of keyboard \"accelerator\" shortcuts"
+    },
+    {
+      "term": "From a usability point of view, it's important to use an \"aesthetic and minimalist design\" because:A. a pleasing design can increase brand awareness, which can increase salesB. reducing clutter and organizing information makes it easier for people to find what they are looking forC. a simpler design is more cost-effective to develop and maintainD. an ugly design will provoke users to make errors on purpose, as a form of protest",
+      "definition": "B. reducing clutter and organizing information makes it easier for people to find what they are looking for"
+    },
+    {
+      "term": "0Nielsen provides several recommendations for help and documentation. Which of the following is not one of his recommendations?A. help should be focused on users' tasksB. help should be small and searchableC. help should include step-by-step instructionsD. help should be written from the system developers' point of view",
+      "definition": "D. help should be written from the system developers' point of view"
+    },
+    {
+      "term": "Which of the following is NOT a reason to conduct a user needs assessment?A. To understand why a user would want to use a product or service at all.B. To test whether one version of a product or service is better than another.C. To learn how users actually use a product or service.D. To see what problems users have when using a product or service.",
+      "definition": "B. To test whether one version of a product or service is better than another."
+    },
+    {
+      "term": "At what point in a product or service's life-cycle should one conduct a user needs assessment?I. Before designing a new product or service.II. Before considering a re-design of an existing product or service.III. Just before releasing a new product or service that has already been designed.A. I onlyB. II onlyC. I and IID. II and III",
+      "definition": "C. I and II"
+    },
+    {
+      "term": "Which of the following steps will you be learning about in this user needs assessment course?I. Preparing for and conducting interviews.II. Observing users using a product or service.III. Analyzing qualitative data to arrive at insights.A. I and IIB. I and IIIC. II and IIID. I, II, and III",
+      "definition": "D. I, II, and III"
+    },
+    {
+      "term": "Which of the following tasks is most representative of the kind of work involved in qualitative research?A. Conducting interviews about how people use Excel spreadsheetsB. Analyzing statistical data about visits to AmazonC. Writing software to classify user posts on FacebookD. Running an experimental trial to see if users like Google with banner ads",
+      "definition": "A. Conducting interviews about how people use Excel spreadsheets"
+    },
+    {
+      "term": "Which of the following describes potential relationships between qualitative and quantitative research?I. Qualitative research generates hypotheses that can be verified with quantitative research.II. Qualitative research offers potential explanations for outcomes from quantitative research.III. Qualitative research tends to provide close-up, in-depth description while quantitative research tends to provide aggregate, large-scale description.A. I and IIB. I and IIIC. II and IIID. I, II, and III",
+      "definition": "D. I, II, and III"
+    },
+    {
+      "term": "Which of the following questions is best answered by a qualitative research methodology?A. What proportion of Gadget X users love Feature Y?B. What are the different ways in which Gadget X frustrates its users?C. How will total revenue change if Gadget X's price is reduced by 10%?D. Does Gadget X tend to increase traffic accidents among its users?",
+      "definition": "B. What are the different ways in which Gadget X frustrates its users?"
+    },
+    {
+      "term": "For the purposes of this course, which of the following is the best-scoped question for a small user needs assessment project?A. What kinds of problems do users face when using Microsoft Word's spell-checking feature?B. What kinds of problems do users face when using Microsoft products?C. What kinds of problems do users face when using Microsoft Word?D. What kinds of problems do users face when fixing a spelling error identified by Microsoft Word's spell-checking feature?",
+      "definition": "A. What kinds of problems do users face when using Microsoft Word's spell-checking feature?"
+    },
+    {
+      "term": "For the purposes of this course, which of the following is the best-scoped question for a small user needs assessment project?A. How could the \"on/off\" switch of the device you are using be better designed to accommodate users?B. How could the local grocery store be designed better to accommodate customers?C. How could the city/town/village you live in be designed better to accommodate residents?D. How could the customer queue at the local post office be designed better to accommodate customers?",
+      "definition": "D. How could the customer queue at the local post office be designed better to accommodate customers?"
+    },
+    {
+      "term": "For the purposes of this course, which of the following is the best-scoped question for a small user needs assessment project?A. How do users feel about MOOCs (massive open online courses)?B. How do users feel about the interface for this particular question in this quiz?C. How do users feel about websites in general?D. How do users feel about Coursera's interface for quizzes?",
+      "definition": "D. How do users feel about Coursera's interface for quizzes?"
+    },
+    {
+      "term": "0For the purposes of this course, which of the following is the best-scoped question for a small user needs assessment project?A. How can the world economy be improved for human beings?B. What do people who take this course want out of it?C. How could the solar system be better designed for alien visitors?D. What do sentient beings expect from the universe?",
+      "definition": "B. What do people who take this course want out of it?"
+    },
+    {
+      "term": "What kind of interviews are you learning about in this course?A. Group, remote, semi-structured.B. Individual, remote, structured.C. Individual, in-person, semi-structured.D. Group, in-person, unstructured.",
+      "definition": "C. Individual, in-person, semi-structured."
+    },
+    {
+      "term": "Which of the following should you aim for when arranging interviews?I. The participant should be a user or potential user of the product or service.II. The interview should be held where the product or service would normally be used.III. The time should be when the product or service would normally be used.A. I and IIB. I and IIIC. II and IIID. I, II and III",
+      "definition": "D. I, II and III"
+    },
+    {
+      "term": "What is one quality that distinguishes a semi-structured interview from other kinds of interviews?A. Half of the interview will be a questionnaire, the other half will be open-ended.B. Half of the interview will be a questionnaire, the other half will be based on an interview protocol.C. While the interviewer uses an interview protocol as a guideline, the interview itself will often go off-script.D. The interviewer and the interview participant should each expect to speak about half of the time.",
+      "definition": "C. While the interviewer uses an interview protocol as a guideline, the interview itself will often go off-script."
+    },
+    {
+      "term": "What is the value of having an overarching question in an interview protocol?A. It provides a focus for the interview that the interviewer keeps in mind throughout the interview.B. It serves as a catch-all question to ask at the end of an interview.C. It is a good opening question to ask during the interview.D. It is a good way to elicit a summary of the interview participant's thoughts.",
+      "definition": "A. It provides a focus for the interview that the interviewer keeps in mind throughout the interview."
+    },
+    {
+      "term": "Which of the following topics are not a common part of the introduction to an interview?A. How confidentiality will be handledB. Expected duration of the interviewC. How many other interview participants there areD. Overall goals of the interview",
+      "definition": "C. How many other interview participants there are"
+    },
+    {
+      "term": "Which of the following is a good open-ended question to ask in a semi-structured interview?A. How many times a week do you use a GPS device recently?B. Can you tell me about the most recent time when you used a GPS device?C. Was the GPS interface poorly designed?D. Why didn't you use the landmark feature on your GPS device?",
+      "definition": "B. Can you tell me about the most recent time when you used a GPS device?"
+    },
+    {
+      "term": "Once you have a list of core questions to ask, what should you do next in constructing the interview protocol?I. Cluster related questions together.II. Try the questions on a potential subject.III. Add follow-up questions.A. I and IIB. I and IIIC. II and IIID. I, II and III",
+      "definition": "B. I and III"
+    },
+    {
+      "term": "Which of the following is a bad question to ask during a user needs assessment interview?A. Could you tell me about a recent time when you used the \"undo\" feature?B. Tell me more -- what was the context when you used the \"undo\" feature?C. What functionality would you have liked to have to complete the task?D. Was it because you didn't know about the \"undo\" feature that you were unable to complete the task?",
+      "definition": "D. Was it because you didn't know about the \"undo\" feature that you were unable to complete the task?"
+    },
+    {
+      "term": "In a semi-structured interview, why would you want to avoid a question such as \"Was it because you didn't know about the 'undo' feature that you were unable to complete the task?\"I. It is leading -- you are feeding a possible answer to the participant.II. It is closed-ended -- this is a yes-or-no question.III. It is judgmental -- you are suggesting that the participant's lack of knowledge was a problem.A. I and IIB. I and IIIC. II and IIID. I, II and III",
+      "definition": "D. I, II and III"
+    },
+    {
+      "term": "0Which of the following are good guidelines for using an interview protocol?I. Memorize the protocol, so that you don't have to refer to it that much during the interview itself.II. Avoid asking any questions that are not open-ended.III. Ask the questions exactly as they are written and in the order they are written.A. I onlyB. II onlyC. III onlyD. I and III",
+      "definition": "A. I only"
+    },
+    {
+      "term": "Which of the following should you NOT do when trying to establish rapport with an interview participant?A. Talk about what other participants have been saying.B. Make small talk at first.C. Listen and observe how they respond.D. Adopt a learning mindset.",
+      "definition": "A. Talk about what other participants have been saying."
+    },
+    {
+      "term": "Conducting an actual semi-structured interview is most consistently like which of the following activities?A. Golf, because negative events can affect your performance.B. Driving, because you have to navigate adversarial situations.C. Playing jazz, because improvisation is required.D. Running a marathon, because it is exhausting.",
+      "definition": "C. Playing jazz, because improvisation is required."
+    },
+    {
+      "term": "Among responses by interview participants that are relevant to your overarching question, what should you be paying particular attention to?A. Answers that confirm what you know.B. Answers that are surprising or unexpected.C. Answers delivered without emotion.D. Answers that show off the participant's cleverness.",
+      "definition": "B. Answers that are surprising or unexpected."
+    },
+    {
+      "term": "What should you keep in mind throughout the interview?A. Your overarching question(s).B. \"The Force\" from Star Wars.C. The name of the interview participant.D. The next question in your interview protocol.",
+      "definition": "A. Your overarching question(s)."
+    },
+    {
+      "term": "Which of the following is the right way to take notes?A. To write only the key points in short phrases.B. To capture only what audio recording definitely will not.C. There is no one right way to take notes.D. To jot down only follow-up questions you want to ask later.",
+      "definition": "C. There is no one right way to take notes."
+    },
+    {
+      "term": "Which of the following is worth noticing in an observation?I. The physical context where the user is.II. Pauses or missteps the user makes.III. Comments the user makes during a task.A. II onlyB. III onlyC. II and IIID. I, II and III",
+      "definition": "D. I, II and III"
+    },
+    {
+      "term": "What should you do during the think-aloud protocol?A. Let the participant hear what you're thinking while you observe them.B. Prompt the user to convey their thinking out loud with short questions.C. Respond to the participant by telling whether what they're saying is correct or not.D. Sit quietly and observe, even if the participant says nothing.",
+      "definition": "B. Prompt the user to convey their thinking out loud with short questions."
+    },
+    {
+      "term": "What is an affinity note?A. A sticky note on which you write relevant bits from your interview notes/recording and which is probably relevant for the user needs assessment.B. A comment you write during an interview that indicates a common, recurring theme.C. A short summary that includes your analysis of a single interview.D. A follow-up message from an interview participant that contains additional information.",
+      "definition": "A. A sticky note on which you write relevant bits from your interview notes/recording and which is probably relevant for the user needs assessment."
+    },
+    {
+      "term": "Which of the following should you avoid when writing affinity notes?A. Make each note understandable on its own.B. Be concrete.C. Aim for about one affinity note per minute of interview.D. Provide thorough, detailed explanations.",
+      "definition": "D. Provide thorough, detailed explanations."
+    },
+    {
+      "term": "0With respect to semi-structured interviews, what is the point of the Carnegie Hall joke about practice?A. Interviewing is a state of mind.B. The location where you conduct an interview is as important as the interview itself.C. Like any skill, practice is essential.D. Musicians make good interviewers.",
+      "definition": "C. Like any skill, practice is essential."
+    },
+    {
+      "term": "What is qualitative data analysis?A. The formal analysis of data that is not all quantified or quantifiable.B. The formal analysis of numerical information.C. The formal analysis of product quality.D. The formal analysis of how good something is.",
+      "definition": "A. The formal analysis of data that is not all quantified or quantifiable."
+    },
+    {
+      "term": "What kinds of information might be part of qualitative data analysis?I. Quotations from interviews.II. Observed actions or events.III. Inferred facts from interviews.A. I onlyB. I and II onlyC. II onlyD. I, II and III",
+      "definition": "D. I, II and III"
+    },
+    {
+      "term": "Which of the following are techniques that might be used in qualitative data analysis?I. ClusteringII. Running a statistical regressionIII. Finding patternsA. I onlyB. III onlyC. I and IIID. I, II and III",
+      "definition": "C. I and III"
+    },
+    {
+      "term": "What should you do when clustering data for qualitative data analysis?A. Ensure each cluster is the same size.B. Make clusters out of related information.C. Throw out data that doesn't fit in any cluster.D. Focus on the arrangement of items in each cluster.",
+      "definition": "B. Make clusters out of related information."
+    },
+    {
+      "term": "According to the instructor, ________ information is understanding, and understanding is intelligence. Fill in the blank.A. RearrangingB. CondensingC. CreatingD. Eliminating",
+      "definition": "B. Condensing"
+    },
+    {
+      "term": "Which of the following is true about affinity walls?I. They are one way of doing qualitative data analysis.II. They use affinity notes as raw data.III. They must be conducted against a wall.A. I onlyB. II onlyC. I and IID. I, II and III",
+      "definition": "C. I and II"
+    },
+    {
+      "term": "What should you do when you create clusters in an affinity wall?A. Avoid mistakes, because once a cluster is formed, it cannot be undone.B. Create clusters of more than seven affinity notes.C. Put all notes that use the same word in a single cluster.D. Be willing to move notes and re-form clusters.",
+      "definition": "D. Be willing to move notes and re-form clusters."
+    },
+    {
+      "term": "What should a new note you write (after data extraction is completed) during construction of an affinity wall contain?A. A self-contained summary of the knowledge in the associated cluster.B. Spelling or grammar corrections for affinity notes.C. A new question to ask in a future user needs assessment.D. A salience ranking of the affinity notes in the associated cluster.",
+      "definition": "A. A self-contained summary of the knowledge in the associated cluster."
+    },
+    {
+      "term": "What does it mean to balance abstraction and precision in an affinity wall cluster summary?A. The summary should be neither too long nor too short.B. The summary should use some of the same vocabulary used in the notes in the cluster.C. The summary should be applicable to most but not all of the notes in the cluster.D. The summary should represent all of the notes in the cluster while being as specific and insightful as possible.",
+      "definition": "D. The summary should represent all of the notes in the cluster while being as specific and insightful as possible."
+    },
+    {
+      "term": "0In the affinity wall demo video about toaster ovens, why were the two affinity notes related to \"burning\" eventually separated?A. Because \"burning toast\" and \"burning fingers\" were associated with two different concepts that went better with other affinity notes.B. Because that cluster grew to exceed seven affinity notes.C. Because they were about two different interview participants.D. Because \"burning toast\" tends to happen before \"burning fingers.\"",
+      "definition": "A. Because \"burning toast\" and \"burning fingers\" were associated with two different concepts that went better with other affinity notes."
+    },
+    {
+      "term": "What was the title of this course?A. Understanding User NeedsB. Designing User ExperienceC. Surveying Users at ScaleD. Analyzing User Data",
+      "definition": "A. Understanding User Needs"
+    },
+    {
+      "term": "Which of the following research techniques were taught in this specific course?A. Experience samplingB. A/B testingC. Semi-structured interviewsD. Surveys and questionnaires",
+      "definition": "C. Semi-structured interviews"
+    },
+    {
+      "term": "The methodology you learned in this course is often labeled \"human-centered.\" Why?A. Because it cannot be applied to animals.B. Because it requires mindfulness training and centeredness to execute well.C. Because it focuses on the needs, preferences, and perspectives of a human user (or potential user).D. Because it focuses only on the human user and ignores the user's environment.",
+      "definition": "C. Because it focuses on the needs, preferences, and perspectives of a human user (or potential user)."
+    },
+    {
+      "term": "What is another name for the affinity wall technique?A. The KJ MethodB. Relatedness clusteringC. Holmes deductionD. Jiro Dreams of Sushi",
+      "definition": "A. The KJ Method"
+    },
+    {
+      "term": "Which of the following is not another name for the kind of qualitative research methodology you learned in this course?A. Ethnographic research.B. Contextual inquiry.C. User needs assessment.D. Socio-technical extraction.",
+      "definition": "D. Socio-technical extraction."
+    },
+    {
+      "term": "Which of the following is not one of the three things you learned in this course?A. Conducting semi-structured interviewsB. Observing usersC. Coding of qualitative textsD. Analyzing data with affinity walls",
+      "definition": "C. Coding of qualitative texts"
+    },
+    {
+      "term": "What should be your approach in conducting a semi-structured interview?A. Maintain a conversational tone and use the interview protocol as a loose guideline.B. Maintain a formal tone and read the interview protocol questions exactly in the listed order.C. Maintain a relaxed tone and discuss whatever the interview participant feels is relevant.D. Maintain a professional tone and never refer to the interview protocol.",
+      "definition": "A. Maintain a conversational tone and use the interview protocol as a loose guideline."
+    },
+    {
+      "term": "In which of the following contexts can you use qualitative data analysis?I. Understanding user needsII. Making sense of non-quantitative dataIII. Condensing complex informationA. I onlyB. I and IIC. I and IIID. I, II, and III",
+      "definition": "D. I, II, and III"
+    },
+    {
+      "term": "Which of the following observation methodologies did you learn in this course?A. Sit-and-stare methodologyB. Shock-and-awe techniqueC. Think-aloud protocolD. Poke-or-nudge routine",
+      "definition": "C. Think-aloud protocol"
+    },
+    {
+      "term": "0How do you get to Carnegie Hall?A. Practice, practice, practice!B. Go down three blocks and take a right.C. Buy a ticket online.D. Use a GPS device.",
+      "definition": "A. Practice, practice, practice!"
+    },
+    {
+      "term": "Your client wants you to conduct a user test of their pre-release prototype to find the most important user interface problems to be fixed before the product is released. What kind of user test is your client asking you to perform?A. SummativeB. FormativeC. CompetitiveD. A/B",
+      "definition": "B. Formative"
+    },
+    {
+      "term": "You are working on assessing the usability of a medical device. For regulatory reasons, you need to demonstrate that 99% of medical professionals can perform a certain task in under one minute. What kind of user test should you perform?A. ComparativeB. FormativeC. BenchmarkD. Microusability",
+      "definition": "C. Benchmark"
+    }
+  ]
+}
