@@ -17,7 +17,7 @@
   "strictQuizMode": true,
   "quizSrc": [
     {
-      "term": "The PMBOK® Guide and in the preceding lesson describes 10 Project Management Knowledge Areas.  Identify 3 out of the 10:",
+      "term": "The PMBOK® Guide and in the preceding lesson describes 10 Project Management Knowledge Areas. Identify 3 out of the 10:",
       "definition": "A. Quality, Process, Scope"
     },
     {
@@ -705,7 +705,7 @@
       "definition": "A. The project scope keeps changing and team members are not sure why and the project seems like it will never end."
     },
     {
-      "term": "While looking at the project cost baseline graph shown below, a project manager sees that the stair-step line's last point is higher than the estimate at completion (EAC). What does this relationship mean for the project? A. The project is running over budget  B. The management reserve is too large  C. Total funding for the project exceeds the project's anticipated needs D. The project is behind schedule",
+      "term": "While looking at the project cost baseline graph shown below, a project manager sees that the stair-step line's last point is higher than the estimate at completion (EAC). What does this relationship mean for the project? A. The project is running over budget B. The management reserve is too large C. Total funding for the project exceeds the project's anticipated needs D. The project is behind schedule",
       "definition": "C. Total funding for the project exceeds the project's anticipated needs"
     },
     {
@@ -809,7 +809,7 @@
       "definition": "C. Control Schedule"
     },
     {
-      "term": "You are managing a hotel construction project, and you have asked your project team to calculate the current earned value metrics to determine the project performance. Your team reports back that the project's to-complete performance index (TCPI) is 0.9 based on the budget at completion (BAC). Which of the following is true regarding your project's current situation as reflected by this TCPI value? A. The project is within budget  B. The project is over budget  C. The project is behind schedule D. The project is ahead of schedule",
+      "term": "You are managing a hotel construction project, and you have asked your project team to calculate the current earned value metrics to determine the project performance. Your team reports back that the project's to-complete performance index (TCPI) is 0.9 based on the budget at completion (BAC). Which of the following is true regarding your project's current situation as reflected by this TCPI value? A. The project is within budget B. The project is over budget C. The project is behind schedule D. The project is ahead of schedule",
       "definition": "A. The project is within budget"
     },
     {

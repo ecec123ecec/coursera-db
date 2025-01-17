@@ -47,7 +47,7 @@
       "definition": "a. IT governances impacts IT-Business Alignment, and IT-Business Alignment impacts Firm Performance."
     },
     {
-      "term": "If a company has a well-functioning IT steering committee, the company is more likely to achieve IT-Business alignment?a. Trueb. False",
+      "term": "If a company has a well functioning IT steering committee, the company is more likely to achieve IT-Business alignment? a. True b. False",
       "definition": "a. True"
     },
     {
@@ -207,7 +207,7 @@
       "definition": "a. Proving aggregated information for decision making."
     },
     {
-      "term": "Investments in strategic systems are like R&amp;D investments.a. Trueb. False",
+      "term": "Investments in strategic systems are like R&D investments.a. Trueb. False",
       "definition": "a. True"
     },
     {
@@ -391,7 +391,7 @@
       "definition": "b. Project Manager"
     },
     {
-      "term": "In what deliverable does a PM identify phases &amp; deliverables, create WBS, estimate tasks, create dependencies, and assign people to tasks?a. Work Planb. Triple Constraintc. Critical Path",
+      "term": "In what deliverable does a PM identify phases & deliverables, create WBS, estimate tasks, create dependencies, and assign people to tasks?a. Work Planb. Triple Constraintc. Critical Path",
       "definition": "a. Work Plan"
     },
     {
@@ -439,8 +439,8 @@
       "definition": "e. All of the above"
     },
     {
-      "term": "Which of the following is good sample syntax for writing a good requirement.a. [Condition] [Subject] [Action] [Object] [Constraint]b. [Subject] [Condition] [Action] [Object] [Constraint]c. [Subject] [Action] [Value]d. a &amp; ce. b &amp; c",
-      "definition": "d. a &amp; c"
+      "term": "Which of the following is good sample syntax for writing a good requirement.a. [Condition] [Subject] [Action] [Object] [Constraint]b. [Subject] [Condition] [Action] [Object] [Constraint]c. [Subject] [Action] [Value]d. a & ce. b & c",
+      "definition": "d. a & c"
     },
     {
       "term": "Which of the following is good sample syntax for writing a good requirement.a. [Subject] [Action] [Subject] [Value]b. [Condition] [Action or Constraint] [Value]",
@@ -487,7 +487,7 @@
       "definition": "a. A start event, sequence flow, task, gateway \"decision\", and end event"
     },
     {
-      "term": "When balancing DFDs and ERDs, what will data stores &amp; some external entities become in an ERD?a. Entitiesb. Attributes",
+      "term": "When balancing DFDs and ERDs, what will data stores & some external entities become in an ERD?a. Entitiesb. Attributes",
       "definition": "a. Entities"
     },
     {
@@ -607,7 +607,7 @@
       "definition": "a. True"
     },
     {
-      "term": "What are some of the roles of the Project Manager during ERP implementation?a. Assess the risks of the implementation in terms of cost and durationb. Secure resources for the implementation teamc. Purchase and select the right ERP systemd. A and B only",
+      "term": "What are some of the roles of the Project Manager during ERP implementation? a. Assess the risks of the implementation in terms of cost and durationb. Secure resources for the implementation team c. Purchase and select the right ERP system d. A and B only",
       "definition": "d. A and B only"
     },
     {
@@ -767,164 +767,164 @@
       "definition": "b. Time and Material"
     },
     {
-      "term": "Businesses can use virtualization technology to:a. Improve efficiencyb. Lower costc. Provide faster maintenanced. All of the above",
-      "definition": "d. All of the above"
+      "term": "Businesses can use virtualization technology to:a. Improve efficiencyb. Lower costc. Provide faster maintenance (d) All of the above",
+      "definition": "(d) All of the above"
     },
     {
-      "term": "Why does the opex model (such as pay-as-you-go) work for the cloud providers?a. It allows them to generate a steady source of revenue over time from their clientsb. It allows them to offer freemium model to potential clients who can try out the service without significant commitmentc. It allows them to offer any available resources on-demand and charge based on usaged. All of the above",
-      "definition": "d. All of the above"
+      "term": "Why does the opex model (such as pay-as-you-go) work for the cloud providers?a. It allows them to generate a steady source of revenue over time from their clientsb. It allows them to offer freemium model to potential clients who can try out the service without significant commitmentc. It allows them to offer any available resources on-demand and charge based on usage (d) All of the above",
+      "definition": "(d) All of the above"
     },
     {
-      "term": "Which of the following is used to distribute incoming requests among various servers that form a computer cluster?a. Hypervisorb. Load balancerc. Databased. None of the above",
-      "definition": "b. Load balancer"
+      "term": "Which of the following is used to distribute incoming requests among various servers that form a computer cluster?a. Hypervisor (b) Load balancerc. Databased. None of the above",
+      "definition": "(b) Load balancer"
     },
     {
-      "term": "Which of the following statements is NOT true for web applications?a. Software runs on the web app provider's serverb. They can be accesses using a client's web browserc. Even if client machines can fail, the data and applications can be still accessed from another client deviced. Requires virtualization of the client's machine",
-      "definition": "d. Requires virtualization of the client's machine"
+      "term": "Which of the following statements is NOT true for web applications?a. Software runs on the web app provider's serverb. They can be accesses using a client's web browserc. Even if client machines can fail, the data and applications can be still accessed from another client device (d) Requires virtualization of the client's machine",
+      "definition": "(d) Requires virtualization of the client's machine"
     },
     {
-      "term": "Which of the following is an example of a hypervisor?a. VMware ESXib. Citrix Xenserverc. Microsoft Hyper-Vd. All of the above",
-      "definition": "d. All of the above"
+      "term": "Which of the following is an example of a hypervisor?a. VMware ESXib. Citrix Xenserverc. Microsoft Hyper-V (d) All of the above",
+      "definition": "(d) All of the above"
     },
     {
-      "term": "Which is the core technology behind \"cloud computing\"?a. HTTPb. Virtualizationc. Thin clientsd. Remote Desktop",
-      "definition": "b. Virtualization"
+      "term": "Which is the core technology behind \"cloud computing\"? a. HTTP (b) Virtualizationc. Thin clientsd. Remote Desktop",
+      "definition": "(b) Virtualization"
     },
     {
-      "term": "Google's cloud platform offering is a:a. Public cloudb. Private cloudc. Hybrid cloudd. None of the above",
-      "definition": "a. Public cloud"
+      "term": "Google's cloud platform offering is a: (a) Public cloud b. Private cloudc. Hybrid cloudd. None of the above",
+      "definition": "(a) Public cloud"
     },
     {
-      "term": "Which kind of infrastructure will you prefer if you are operating a business in which some applications have to comply with strict regulatory compliance requirements on data security, while others require automated scalability and load balancing?a. Fog computingb. Private Cloudc. Public Cloudd. Hybrid Cloud",
-      "definition": "d. Hybrid Cloud"
+      "term": "Which kind of infrastructure will you prefer if you are operating a business in which some applications have to comply with strict regulatory compliance requirements on data security, while others require automated scalability and load balancing?a. Fog computingb. Private Cloudc. Public Cloud (d) Hybrid Cloud",
+      "definition": "(d) Hybrid Cloud"
     },
     {
-      "term": "You are the CIO of a company that wants to create a new software application that would require customizing the operating system for optimal performance. What kind of cloud service are you basically looking for?a. SaaSb. PaaSc. IaaS",
-      "definition": "c. IaaS"
+      "term": "You are the CIO of a company that wants to create a new software application that would require customizing the operating system for optimal performance. What kind of cloud service are you basically looking for?a. SaaSb. PaaS (c) IaaS",
+      "definition": "(c) IaaS"
     },
     {
-      "term": "Which of the following statements is true for data centers?a.Datacenters with fully connected topology improves host-to-host capacityb. Blade servers in a rack are interconnected using the TOR switchc. Hardware maintenance on a server in a datacenter can be performed without interrupting the software applications because of virtualizationd. All of the above",
-      "definition": "d. All of the above"
+      "term": "Which of the following statements is true for data centers?a.Datacenters with fully connected topology improves host-to-host capacityb. Blade servers in a rack are interconnected using the TOR switchc. Hardware maintenance on a server in a datacenter can be performed without interrupting the software applications because of virtualization (d) All of the above",
+      "definition": "(d) All of the above"
     },
     {
-      "term": "Which of the following statements is NOT true?a. Different wireless technologies occupy different frequency bands.b. WiFi is a wireless technology that offers higher data speed but lower coverage area than cellular network technologyc. Wireless technologies that offer high data speed/rate also offer greater coverage aread. None of the above",
-      "definition": "c. Wireless technologies that offer high data speed/rate also offer greater coverage area"
+      "term": "Which of the following statements is NOT true?a. Different wireless technologies occupy different frequency bands.b. WiFi is a wireless technology that offers higher data speed but lower coverage area than cellular network technology (c) Wireless technologies that offer high data speed/rate also offer greater coverage aread. None of the above",
+      "definition": "(c) Wireless technologies that offer high data speed/rate also offer greater coverage area"
     },
     {
-      "term": "Which of the following statements is true about base stations in a cellular network?a. Base stations provide coverage over the area of a cellb. Base stations will use different frequencies in adjacent sectorsc. Adjacent base stations participate in the handover process of ongoing mobile conversationsd. All of the above",
-      "definition": "d. All of the above"
+      "term": "Which of the following statements is true about base stations in a cellular network?a. Base stations provide coverage over the area of a cellb. Base stations will use different frequencies in adjacent sectorsc. Adjacent base stations participate in the handover process of ongoing mobile conversations(d) All of the above",
+      "definition": "(d) All of the above"
     },
     {
-      "term": "Suppose an airport is using RFID tags on ventilation units for monitoring and reporting of their functional status, PDAs for technicians, and SAP Mobile Asset Management software. Which of the following activities can be achieved using these solutions?a. Inspectors can easily check the status of the units from the ground without having to get up and manually inspect them, thus increasing operational efficiency.b. Automatic reporting from the ventilation units will improve error-free reporting and safety of the building.c. Automatic reporting also serves as evidence for genuine repairsd. All of the above",
-      "definition": "d. All of the above"
+      "term": "Suppose an airport is using RFID tags on ventilation units for monitoring and reporting of their functional status, PDAs for technicians, and SAP Mobile Asset Management software. Which of the following activities can be achieved using these solutions?a. Inspectors can easily check the status of the units from the ground without having to get up and manually inspect them, thus increasing operational efficiency.b. Automatic reporting from the ventilation units will improve error-free reporting and safety of the building.c. Automatic reporting also serves as evidence for genuine repairs(d) All of the above",
+      "definition": "(d) All of the above"
     },
     {
-      "term": "Which of the following will be most useful for enabling wider usage of QR codes?a. Include built-in QR scanner app in the smartphonesb. Encourage creation of ad-supported third-party apps for QR code scannersc. Encourage creation of QR code scanning app by individual vendorsd. None of the above",
-      "definition": "a. Include built-in QR scanner app in the smartphones"
+      "term": "Which of the following will be most useful for enabling wider usage of QR codes?(a) Include built-in QR scanner app in the smartphonesb. Encourage creation of ad-supported third-party apps for QR code scannersc. Encourage creation of QR code scanning app by individual vendorsd. None of the above",
+      "definition": "(a) Include built-in QR scanner app in the smartphones"
     },
     {
-      "term": "Which of the following statements is NOT true about WiFi networks?a. WiFi operates in an unlicensed spectrum bandb. WiFi and cellular networks use the same set of frequenciesc. WiFi is an example of Wireless Local Area Networks (WLAN)d. All of the above",
-      "definition": "b. WiFi and cellular networks use the same set of frequencies"
+      "term": "Which of the following statements is NOT true about WiFi networks?a. WiFi operates in an unlicensed spectrum band (b) WiFi and cellular networks use the same set of frequenciesc. WiFi is an example of Wireless Local Area Networks (WLAN)d. All of the above",
+      "definition": "(b) WiFi and cellular networks use the same set of frequencies"
     },
     {
-      "term": "Which of the following statements is NOT true about femtocells?a. When registered mobile phone users arrive under coverage area of a femtocell, they switch over from the cellular network to femtocell automaticallyb. When mobile phone users leave the coverage area of a femtocell, they switch over from the femtocell to a cellular network seamlesslyc. Existing WiFi or DSL routers can be upgraded to a femtocell without the need for any new hardwared. All of the above",
-      "definition": "c. Existing WiFi or DSL routers can be upgraded to a femtocell without the need for any new hardware"
+      "term": "Which of the following statements is NOT true about femtocells?a. When registered mobile phone users arrive under coverage area of a femtocell, they switch over from the cellular network to femtocell automaticallyb. When mobile phone users leave the coverage area of a femtocell, they switch over from the femtocell to a cellular network seamlessly (c) Existing WiFi or DSL routers can be upgraded to a femtocell without the need for any new hardwared. All of the above",
+      "definition": "(c) Existing WiFi or DSL routers can be upgraded to a femtocell without the need for any new hardware"
     },
     {
-      "term": "Which of the following pairing of technology to its coverage area is mismatched?a. Bluetooth - Wireless Personal Area Network (WPAN)b. GSM - Wireless Wide Area Network (WWAN)c. WiFi - Wirelss Metropolitan Area Network (WMAN)d. CDMA - Wireless Wide Area Network (WWAN)",
-      "definition": "c. WiFi - Wirelss Metropolitan Area Network (WMAN)"
+      "term": "Which of the following pairing of technology to its coverage area is mismatched?a. Bluetooth - Wireless Personal Area Network (WPAN)b. GSM - Wireless Wide Area Network (WWAN) (c) WiFi - Wirelss Metropolitan Area Network (WMAN) d. CDMA - Wireless Wide Area Network (WWAN)",
+      "definition": "(c) WiFi - Wirelss Metropolitan Area Network (WMAN)"
     },
     {
-      "term": "Which of the following is the primary technology used in a mobile payment system like Apple Pay?a. Near Field Communication (NFC)b. QR codec. Radio Frequency Identification (RFID)d. None of the above",
-      "definition": "a. Near Field Communication (NFC)"
+      "term": "Which of the following is the primary technology used in a mobile payment system like Apple Pay?(a) Near Field Communication (NFC)b. QR codec. Radio Frequency Identification (RFID)d. None of the above",
+      "definition": "(a) Near Field Communication (NFC)"
     },
     {
-      "term": "A shopping mall plans to send targeted offers to customers connected to their WiFi network. Which type of data about the customer will be most valuable to send these offers?a. Time of dayb. Geolocationc. Weatherd. None of the above",
-      "definition": "b. Geolocation"
+      "term": "A shopping mall plans to send targeted offers to customers connected to their WiFi network. Which type of data about the customer will be most valuable to send these offers? a. Time of day (b) Geolocationc. Weatherd. None of the above",
+      "definition": "(b) Geolocation"
     },
     {
-      "term": "Which of the following issues cannot be addressed effectively with flat rate pricing of network bandwidth?a. There is a large differential between peak and off-peak hour demandb. Some users are consuming a disproportionate amount of bandwidth in peak timec. Some applications are poorly designed and consume too much bandwidthd. All of the above",
-      "definition": "d. All of the above"
+      "term": "Which of the following issues cannot be addressed effectively with flat rate pricing of network bandwidth?a. There is a large differential between peak and off-peak hour demandb. Some users are consuming a disproportionate amount of bandwidth in peak timec. Some applications are poorly designed and consume too much bandwidth (d) All of the above",
+      "definition": "(d) All of the above"
     },
     {
-      "term": "Denial of service (DOS) security attacks are intended to compromise a system's _______.a. Confidentialityb. Availabilityc. Integrityd. Authenticity",
-      "definition": "b. Availability"
+      "term": "Denial of service (DOS) security attacks are intended to compromise a system's _______.a. Confidentiality (b) Availabilityc. Integrityd. Authenticity",
+      "definition": "(b) Availability"
     },
     {
-      "term": "Which of the following statements is true for malwares?a. They are computer programs that can infect other programsb. Many of them can propagate by attaching themselves to files and emailsc. They may not always do outright damaged. All of the above",
-      "definition": "d. All of the above"
+      "term": "Which of the following statements is true for malwares?a. They are computer programs that can infect other programsb. Many of them can propagate by attaching themselves to files and emailsc. They may not always do outright damage (d) All of the above",
+      "definition": "(d) All of the above"
     },
     {
-      "term": "Which of the following techniques system administrators use to reduce the risk of password hacking?a. Preventing users from using alphanumeric passwordsb. Enforcing a cap on the number of password retries at login before the account gets lockedc. Encouraging usage of easy to remember dictionary words as passwordsd. All of the above",
-      "definition": "b. Enforcing a cap on the number of password retries at login before the account gets locked"
+      "term": "Which of the following techniques system administrators use to reduce the risk of password hacking?a. Preventing users from using alphanumeric passwords (b) Enforcing a cap on the number of password retries at login before the account gets lockedc. Encouraging usage of easy to remember dictionary words as passwordsd. All of the above",
+      "definition": "(b) Enforcing a cap on the number of password retries at login before the account gets locked"
     },
     {
-      "term": "Which of the following statements about basic encryption techniques NOT true?a. The key used in Caesar cipher should be kept private between the sender and the receiverb. The key used in Caesar cipher should be made publicly available to allow the receiver to decrypt the messagec. The keys used in one-time pads need to be kept private between the sender and the receiverd. The keys used in one-time pads are a pre-selected sequence of random numbers",
-      "definition": "b. The key used in Caesar cipher should be made publicly available to allow the receiver to decrypt the message"
+      "term": "Which of the following statements about basic encryption techniques NOT true?a. The key used in Caesar cipher should be kept private between the sender and the receiver (b) The key used in Caesar cipher should be made publicly available to allow the receiver to decrypt the messagec. The keys used in one-time pads need to be kept private between the sender and the receiverd. The keys used in one-time pads are a pre-selected sequence of random numbers",
+      "definition": "(b) The key used in Caesar cipher should be made publicly available to allow the receiver to decrypt the message"
     },
     {
-      "term": "Which of the following statements about private key cryptography is true?a. The same key is used by both the sender and the receiver to encrypt and decrypt a messageb. The sender uses one key to encrypt a message and the receiver uses another key to decrypt it.c. The sender and the receiver do not have to agree upon a shared key in advanced. All of the above",
-      "definition": "a. The same key is used by both the sender and the receiver to encrypt and decrypt a message"
+      "term": "Which of the following statements about private key cryptography is true?(a) The same key is used by both the sender and the receiver to encrypt and decrypt a messageb. The sender uses one key to encrypt a message and the receiver uses another key to decrypt it.c. The sender and the receiver do not have to agree upon a shared key in advanced. All of the above",
+      "definition": "(a) The same key is used by both the sender and the receiver to encrypt and decrypt a message"
     },
     {
-      "term": "Which of the following statements is true for public key cryptosystem?a. A secret message should be encrypted using the public key of the sender and decrypted using the private key of the receiverb. A secret message should be encrypted using the private key of the sender and decrypted using the public key of the receiverc. A secret message should be encrypted using the private key of the sender and decrypted using the public key of the receiverd. A secret message should be encrypted using the public key of the receiver and decrypted using the private key of the receiver",
-      "definition": "d. A secret message should be encrypted using the public key of the receiver and decrypted using the private key of the receiver"
+      "term": "Which of the following statements is true for public key cryptosystem?a. A secret message should be encrypted using the public key of the sender and decrypted using the private key of the receiverb. A secret message should be encrypted using the private key of the sender and decrypted using the public key of the receiverc. A secret message should be encrypted using the private key of the sender and decrypted using the public key of the receiver (d) A secret message should be encrypted using the public key of the receiver and decrypted using the private key of the receiver",
+      "definition": "(d) A secret message should be encrypted using the public key of the receiver and decrypted using the private key of the receiver"
     },
     {
-      "term": "In case of digital signatures, which of the following statements will be true? (Digital signatures are not meant to be secret messages, instead they are used to demonstrate that the message must have originated from a particular sender who signed it).a. The message will need to be encrypted using the sender's private key. Anyone can then use the sender's public key to decrypt it, and thereby verify that it must have been encrypted (signed) by that particular sender.b. The message will need to be encrypted using the sender's public key. Anyone can then use the sender's private key to decrypt it, and thereby verify that it must have been encrypted (signed) by that particular senderc. The message will need to be encrypted using the sender's private key. Anyone can then use the sender's private key to decrypt it, and thereby verify that it must have been encrypted (signed) by that particular sender.d. The message will need to be encrypted using the sender's public key. Anyone can then use the sender's public key to decrypt it, and thereby verify that it must have been encrypted (signed) by that particular sender.",
-      "definition": "a. The message will need to be encrypted using the sender's private key. Anyone can then use the sender's public key to decrypt it, and thereby verify that it must have been encrypted (signed) by that particular sender."
+      "term": "In case of digital signatures, which of the following statements will be true? (Digital signatures are not meant to be secret messages, instead they are used to demonstrate that the message must have originated from a particular sender who signed it).(a) The message will need to be encrypted using the sender's private key. Anyone can then use the sender's public key to decrypt it, and thereby verify that it must have been encrypted (signed) by that particular sender.b. The message will need to be encrypted using the sender's public key. Anyone can then use the sender's private key to decrypt it, and thereby verify that it must have been encrypted (signed) by that particular senderc. The message will need to be encrypted using the sender's private key. Anyone can then use the sender's private key to decrypt it, and thereby verify that it must have been encrypted (signed) by that particular sender.d. The message will need to be encrypted using the sender's public key. Anyone can then use the sender's public key to decrypt it, and thereby verify that it must have been encrypted (signed) by that particular sender.",
+      "definition": "(a) The message will need to be encrypted using the sender's private key. Anyone can then use the sender's public key to decrypt it, and thereby verify that it must have been encrypted (signed) by that particular sender."
     },
     {
-      "term": "Which of the following statements is NOT true about these cyber defense systems?a. Honeypots are legitimate parts of the site that are actually isolated and monitored, and act as traps for attackersb. Honeypots can be used to learn about organization's security weaknessesc. Intrusion detection systems cannot look inside the contents of the data packets, and therefore only use traffic filtering rules.d. None of the above",
-      "definition": "c. Intrusion detection systems cannot look inside the contents of the data packets, and therefore only use traffic filtering rules."
+      "term": "Which of the following statements is NOT true about these cyber defense systems?a. Honeypots are legitimate parts of the site that are actually isolated and monitored, and act as traps for attackersb. Honeypots can be used to learn about organization's security weaknesses (c) Intrusion detection systems cannot look inside the contents of the data packets, and therefore only use traffic filtering rules.d. None of the above",
+      "definition": "(c) Intrusion detection systems cannot look inside the contents of the data packets, and therefore only use traffic filtering rules."
     },
     {
-      "term": "Which of the following should be practiced to prevent confidential data loss from cyberattacks?a. Store the encrypted data and the encryption key at different locationsb. Use a two-factor access controlc. Limit third-party access to the internal networkd. All of the above",
-      "definition": "d. All of the above"
+      "term": "Which of the following should be practiced to prevent confidential data loss from cyberattacks?a. Store the encrypted data and the encryption key at different locationsb. Use a two-factor access controlc. Limit third-party access to the internal network(d) All of the above",
+      "definition": "(d) All of the above"
     },
     {
-      "term": "The type of disclosure process in which a new bug discovery is first reported to the software vendor whose product contains the bug is known as:a. Responsible Disclosureb. Full Disclosurec. Market Disclosured. None of the above",
-      "definition": "a. Responsible Disclosure"
+      "term": "The type of disclosure process in which a new bug discovery is first reported to the software vendor whose product contains the bug is known as:(a) Responsible Disclosureb. Full Disclosurec. Market Disclosured. None of the above",
+      "definition": "(a) Responsible Disclosure"
     },
     {
-      "term": "Which of the following statements regarding Blockchain is NOT true?a. Blockchain is a list of records, called blocks, which are linked using cryptography and are accessible for verification by the public.b. Blockchain is a distributed digital ledger in which transactions can be recorded chronologically and publicly.c. Traditional databases also store transaction information chronologically. But secure databases are kept under the centralized control of a host organization and maintained by IT administrators.d. Blockchain is designed as a centralized solution so that a single entity can control it and validate all transactions.",
-      "definition": "d. Blockchain is designed as a centralized solution so that a single entity can control it and validate all transactions."
+      "term": "Which of the following statements regarding Blockchain is NOT true?a. Blockchain is a list of records, called blocks, which are linked using cryptography and are accessible for verification by the public.b. Blockchain is a distributed digital ledger in which transactions can be recorded chronologically and publicly.c. Traditional databases also store transaction information chronologically. But secure databases are kept under the centralized control of a host organization and maintained by IT administrators. (d) Blockchain is designed as a centralized solution so that a single entity can control it and validate all transactions.",
+      "definition": "(d) Blockchain is designed as a centralized solution so that a single entity can control it and validate all transactions."
     },
     {
-      "term": "Which of the following statements is NOT true?a. Ethereum is an example of a blockchainb. The cryptocurrency used in Ethereum are called Bitcoinsc. Hyperledger is an example of open-source blockchaind. The cryptocurrency used in Ethereum are called Ethers",
-      "definition": "b. The cryptocurrency used in Ethereum are called Bitcoins"
+      "term": "Which of the following statements is NOT true?a. Ethereum is an example of a blockchain(b) The cryptocurrency used in Ethereum are called Bitcoinsc. Hyperledger is an example of open-source blockchaind. The cryptocurrency used in Ethereum are called Ethers",
+      "definition": "(b) The cryptocurrency used in Ethereum are called Bitcoins"
     },
     {
-      "term": "Which of the following statements is true?a. In blockchains, any change or new transactions can be realized only by adding a new block of information to the historical transaction records.b. In blockchains, one doesn't erase or override the past records, it adds transactions in a chronological order to a growing list.c. Unlike the ledgers maintained by banks, Bitcoin's blockchain is replicated on networked machines around the world; hence it is called a \"Distributed Ledger\".d. All of the above.",
-      "definition": "d. All of the above."
+      "term": "Which of the following statements is true?a. In blockchains, any change or new transactions can be realized only by adding a new block of information to the historical transaction records.b. In blockchains, one doesn't erase or override the past records, it adds transactions in a chronological order to a growing list.c. Unlike the ledgers maintained by banks, Bitcoin's blockchain is replicated on networked machines around the world; hence it is called a \"Distributed Ledger\".(d) All of the above.",
+      "definition": "(d) All of the above."
     },
     {
-      "term": "Which of the following is NOT true for Bitcoin mining?a. The technology uses a pair of keys for encryptionb. The private key is used by the sender to encrypt the payment messagec. Miners use the sender's public key to validate that the payment request was indeed made by the senderd. Miners will use the public key to compute the private key of the sender",
-      "definition": "d. Miners will use the public key to compute the private key of the sender"
+      "term": "Which of the following is NOT true for Bitcoin mining?a. The technology uses a pair of keys for encryptionb. The private key is used by the sender to encrypt the payment messagec. Miners use the sender's public key to validate that the payment request was indeed made by the sender(d) Miners will use the public key to compute the private key of the sender",
+      "definition": "(d) Miners will use the public key to compute the private key of the sender"
     },
     {
-      "term": "Which of the following statement is true?a. The process of adding blocks to a blockchain is computationally expensive, and even more so to change blocks further back in the chain.b. Any miner trying to add a new block of data is required to provide a cryptographic proof called Proof of Work.c. To produce the Proof of Work, a miner will have to perform multiple rounds of hashing with the data of the previous block such that the resultant hash value begins with a specified number of zeros.d. All of the above.",
-      "definition": "d. All of the above."
+      "term": "Which of the following statement is true?a. The process of adding blocks to a blockchain is computationally expensive, and even more so to change blocks further back in the chain.b. Any miner trying to add a new block of data is required to provide a cryptographic proof called Proof of Work.c. To produce the Proof of Work, a miner will have to perform multiple rounds of hashing with the data of the previous block such that the resultant hash value begins with a specified number of zeros.(d) All of the above.",
+      "definition": "(d) All of the above."
     },
     {
-      "term": "Which of the following is an application area for smart contracts?a. Supply chains are often inefficient because of paper-based systems and need for multi-party approvals, validation cost, potential for loss and fraud. Smart contracts can provide a secure, accessible digital version to all parties on the blockchain to automate contracts and payment.b. Peer-to-peer buying and selling of goods and services (e.g., in electricity smart grids and ridesharing services) can benefit from smart contracts executed between various parties participating in the blockchain.c. Buyers and sellers of insurance can agree on and claim reparation compensation using smart contracts.d. All of the above.",
-      "definition": "d. All of the above."
+      "term": "Which of the following is an application area for smart contracts?a. Supply chains are often inefficient because of paper-based systems and need for multi-party approvals, validation cost, potential for loss and fraud. Smart contracts can provide a secure, accessible digital version to all parties on the blockchain to automate contracts and payment.b. Peer-to-peer buying and selling of goods and services (e.g., in electricity smart grids and ridesharing services) can benefit from smart contracts executed between various parties participating in the blockchain.c. Buyers and sellers of insurance can agree on and claim reparation compensation using smart contracts.(d) All of the above.",
+      "definition": "(d) All of the above."
     },
     {
-      "term": "Suppose your organization needs multiple people to store and update transaction records while ensuring immutability. Which one should you choose?a. Traditional databaseb. Blockchain",
-      "definition": "b. Blockchain"
+      "term": "Suppose your organization needs multiple people to store and update transaction records while ensuring immutability. Which one should you choose?a. Traditional database(b) Blockchain",
+      "definition": "(b) Blockchain"
     },
     {
-      "term": "Suppose the requirements that your organization has in regards to storing transaction information can be met with either a traditional database or a blockchain. Which one should you choose?a. Traditional databaseb. Blockchain",
-      "definition": "a. Traditional database"
+      "term": "Suppose the requirements that your organization has in regards to storing transaction information can be met with either a traditional database or a blockchain. Which one should you choose?(a) Traditional databaseb. Blockchain",
+      "definition": "(a) Traditional database"
     },
     {
-      "term": "Suppose your organization needs to store transaction data that should be kept private, immutable, verifiable, but also control who can read and write to it in order to maintain scalability. What should you choose?a. Traditional databaseb. Permissioned blockchainc. Public blockchaind. None of the above",
-      "definition": "b. Permissioned blockchain"
+      "term": "Suppose your organization needs to store transaction data that should be kept private, immutable, verifiable, but also control who can read and write to it in order to maintain scalability. What should you choose?a. Traditional database (b) Permissioned blockchainc. Public blockchaind. None of the above",
+      "definition": "(b) Permissioned blockchain"
     },
     {
-      "term": "Which of the following statements is true?a. A blockchain's technology and process ensure truthful-reporting and provides incentives for participation.b. Cryptography principles implement validation of digital signatures, security, and immutability in a blockchain.c. A blockchain's distributed realization and public accessibility helps overcome censorship.d. All of the above.",
-      "definition": "d. All of the above."
+      "term": "Which of the following statements is true?a. A blockchain's technology and process ensure truthful-reporting and provides incentives for participation.b. Cryptography principles implement validation of digital signatures, security, and immutability in a blockchain.c. A blockchain's distributed realization and public accessibility helps overcome censorship.(d) All of the above.",
+      "definition": "(d) All of the above."
     },
     {
       "term": "Can you use a swim-lane diagram to document a business process?a. Yesb. No",
@@ -963,8 +963,16 @@
       "definition": "e. All of the above"
     },
     {
-      "term": "Which of the following is a good sample syntax for writing a good requirementa. [Condition] [Subject] [Action] [Object] [Constraint]b. [Condition] [Action or Constraint] [Value]c. [Subject] [Action] [Value]d. All of the above",
+      "term": "Which of the following is a good sample syntax for writing a good requirement. a. [Condition] [Subject] [Action] [Object] [Constraint] b. [Condition] [Action or Constraint] [Value] c. [Subject] [Action] [Value] d. All of the above",
       "definition": "d. All of the above"
+    },
+    {
+      "term": "Which of the following is a good sample syntax for writing a good requirement. a. [Condition] [Subject] [Action] [Object] [Constraint] b. [Subject] [Condition] [Action] [Object] [Constraint]",
+      "definition": "a. [Condition] [Subject] [Action] [Object] [Constraint]"
+    },
+    {
+      "term": "Which of the following is a good sample syntax for writing a good requirement. a. [Subject] [Action] [Value] b. [Condition] [Action or Constraint] [Value]",
+      "definition": "b. [Condition] [Action or Constraint] [Value]"
     },
     {
       "term": "Nonfuctional requirements are usually discussed with subject-matter experts.a. Trueb. False",
@@ -1011,7 +1019,7 @@
       "definition": "a. Cardinality"
     },
     {
-      "term": "When balancing DFDs and ERDs, what will data stores &amp; some external entities be represented as in an ERD?a. Entitiesb. Attributes",
+      "term": "When balancing DFDs and ERDs, what will data stores & some external entities be represented as in an ERD?a. Entitiesb. Attributes",
       "definition": "a. Entities"
     },
     {
@@ -1303,7 +1311,7 @@
       "definition": "(c) Caesar cipher is a stronger encryption technique than one-time pads"
     },
     {
-      "term": "Which of the following private key based data encryption system is the strongest?(a) DES(b) 3DES(c) AES(d) All of them are of similar strength",
+      "term": "Which of the following private key based data encryption system is the strongest?(a) DES(b) 3DES (c) AES (d) All of them are of similar strength",
       "definition": "(c) AES"
     },
     {
