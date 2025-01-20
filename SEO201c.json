@@ -1,5 +1,4 @@
 {
-  "strictQuizMode": false,
   "quizSrc": [
     {
       "term": "What is the primary method by which robots (crawlers, spiders) discover new web pages?A. Robots follow the path created by websites linking to each otherB. Google and other search engines manually add new sites to an index on a regular basisC. User queries activate robots and cause them to begin searching the webD. Webmasters submit their sites to be indexed",
@@ -355,7 +354,7 @@
     },
     {
       "term": "Why is it important to estimate the competitiveness of a potential keyword? (Select all that apply.)  | Estimating the competitiveness will help you to set appropriate expectations for clients , Estimating keyword competitiveness will help manage the size of the keyword list , Estimating the competitiveness will help determine how long it will take to see results",
-      "definition": "Estimating the competitiveness will help you to set appropriate expectations for clients , Estimating keyword competitiveness will help manage the size of the keyword list , Estimating the competitiveness will help determine how long it will take to see results"
+      "definition": "Estimating the competitiveness will help you to set appropriate expectations for clients , Estimating the competitiveness will help determine how long it will take to see results"
     },
     {
       "term": "True or False: Analytics tools such as Google Webmaster are usually not very useful in assessing customer intent.",
@@ -1035,7 +1034,7 @@
     },
     {
       "term": "Which of the following factors are considered part of Core Web Vitals? Select all that apply.",
-      "definition": "Cumulative Layout Shift (CLS), Largest Contentful Paint (LCP)"
+      "definition": "Cumulative Layout Shift (CLS), Largest Contentful Paint (LCP) , Interaction to Next Paint (INP)"
     },
     {
       "term": "Which of the following strategies is essential for building a strong brand presence online?",
@@ -1131,7 +1130,7 @@
     },
     {
       "term": "How do advancements in search engine technology impact user behavior? Select all that apply. | Users are more likely to find relevant information quickly , Users spend less time on websites , Users are more likely to scroll further down the page , Users are less likely to click on ads , Users prefer to use only one search engine",
-      "definition": "Users are more likely to find relevant information quickly"
+      "definition": "Users are more likely to find relevant information quickly , Users are more likely to scroll further down the page"
     },
     {
       "term": "Which of the following best explains how search engines evaluate web pages? | By counting the number of images on the web page. , By calculating the amount of time a user spends on a web page. , By checking if the web page is updated daily. , By analyzing content, structure, and backlinks to determine relevance and authority.",
@@ -1186,7 +1185,7 @@
       "definition": "Developing cross-disciplinary skills , Building a strong professional network , Continual learning and staying updated with industry trends"
     },
     {
-      "term": "Imagine that one of your client’s primary goals is to increase the amount of traffic to their site. The chart below compares this year’s data (in blue) to last year’s data (in red). Is this year’s dip (in blue) after June an indicator that you are likely to have trouble meeting the client’s goal?",
+      "term": "Imagine that one of your client's primary goals is to increase the amount of traffic to their site. The chart below compares this year's data (in blue) to last year's data (in red). Is this year's dip (in blue) after June an indicator that you are likely to have trouble meeting the client's goal?",
       "definition": "Probably not. The traffic is still significantly higher than where it was at the same time last year. There is some reason to think that this is a seasonal dip."
     },
     {
@@ -1235,7 +1234,7 @@
     },
     {
       "term": "Which of the following is NOT a type of content marketing campaign? (Select all that apply.) | Physical billboard campaign , Social media  , User-generated content , Brand awareness campaign",
-      "definition": "Physical billboard campaign , Social media"
+      "definition": "Physical billboard campaign"
     },
     {
       "term": "Why is a 'Thought leadership campaign' considered a type of content marketing campaign? | It involves promoting a product through paid advertising. , It involves creating and sharing content that establishes the brand as a leader in its industry. , It involves distributing physical promotional materials. , It involves creating user-generated content.",
@@ -1246,15 +1245,15 @@
       "definition": "Brand awareness campaigns focus on building long-term recognition and trust"
     },
     {
-      "term": "What are characteristics of successful data-driven studies? (Select all that apply.) | It provides a broad overview of your market. , It’s carefully promoted to the media that writes about related topics. , Contains data that you’ve assembled based on research , It contains information that addresses knowledge gaps related to a hot topic in your market.",
-      "definition": "It provides a broad overview of your market. , It’s carefully promoted to the media that writes about related topics. , Contains data that you’ve assembled based on research , It contains information that addresses knowledge gaps related to a hot topic in your market."
+      "term": "What are characteristics of successful data-driven studies? (Select all that apply.) | It provides a broad overview of your market. , It's carefully promoted to the media that writes about related topics. , Contains data that you've assembled based on research , It contains information that addresses knowledge gaps related to a hot topic in your market.",
+      "definition": "It's carefully promoted to the media that writes about related topics. , Contains data that you've assembled based on research , It contains information that addresses knowledge gaps related to a hot topic in your market."
     },
     {
       "term": "Which of the following factors are considered in link valuation? (Select all that apply.) | The position of the link on the page , The authority of the linking site , The number of other links on the page , The size of the link , The color of the link , The relevance of the linking site",
       "definition": "The authority of the linking site , The relevance of the linking site"
     },
     {
-      "term": "What are the characteristics of Skyscraper content? (Select all that apply.) | It tends to be on more specific topics as they’re easier to rank for. , It’s designed to steal rankings from competitors. , It tends to be on broad topics as these are more valuable search terms. , It contains authoritative information on a topic.",
+      "term": "What are the characteristics of Skyscraper content? (Select all that apply.) | It tends to be on more specific topics as they're easier to rank for. , It's designed to steal rankings from competitors. , It tends to be on broad topics as these are more valuable search terms. , It contains authoritative information on a topic.",
       "definition": "It tends to be on more specific topics as they're easier to rank for. , It contains authoritative information on a topic."
     },
     {
@@ -1362,8 +1361,8 @@
       "definition": "Because it increases the likelihood of their audience being interested in your content, product or service"
     },
     {
-      "term": "What would be the potential downside of partnering with an influencer whose audience does not align with your target market? (Select all that apply.) | The influencer may not agree to partner , There is less chance that the influencer’s activities will result in backlinks to your site , The SEO optimization might become too complex , The website might crash due to increased traffic",
-      "definition": "There is less chance that the influencer’s activities will result in backlinks to your site"
+      "term": "What would be the potential downside of partnering with an influencer whose audience does not align with your target market? (Select all that apply.) | The influencer may not agree to partner , There is less chance that the influencer's activities will result in backlinks to your site , The SEO optimization might become too complex , The website might crash due to increased traffic",
+      "definition": "There is less chance that the influencer's activities will result in backlinks to your site"
     },
     {
       "term": "What is the primary role of influencers in SEO optimization? | To increase your brand and reputation online , To manage the website , To design the website layout , To write the website content",
@@ -1386,8 +1385,8 @@
       "definition": "Sites that publish data-driven content , Prominent news sites"
     },
     {
-      "term": "What makes up anchor content? (Select all that apply.) | Content that is mobile optimized , Content that addresses topics that aren’t well covered by other content on the web , Content that links out to lots of other websites , Content that is authoritative",
-      "definition": "Content that addresses topics that aren’t well covered by other content on the web , Content that is authoritative"
+      "term": "What makes up anchor content? (Select all that apply.) | Content that is mobile optimized , Content that addresses topics that aren't well covered by other content on the web , Content that links out to lots of other websites , Content that is authoritative",
+      "definition": "Content that addresses topics that aren't well covered by other content on the web , Content that is authoritative"
     },
     {
       "term": "Based on the case study of Ahrefs content marketing case study, which of the following tactics were used? (Select all that apply.) | Improving site speed , Utilizing social media for increased reach , Creating valuable content for users , Researching media needs related to their target market (SEO) , Focusing on mobile optimization",
@@ -1406,16 +1405,16 @@
       "definition": "Alignment with your target audience"
     },
     {
-      "term": "How do you determine whether a media person is someone you should reach out to? | You should only reach out to media people for whom you get a personal introduction. , You should reach out to everyone that covers your market space. , If you’re able to find their email address, you should reach out to them , You’ve built a list of media contacts that have written about closely related topics",
-      "definition": "You’ve built a list of media contacts that have written about closely related topics"
+      "term": "How do you determine whether a media person is someone you should reach out to? | You should only reach out to media people for whom you get a personal introduction. , You should reach out to everyone that covers your market space. , If you're able to find their email address, you should reach out to them , You've built a list of media contacts that have written about closely related topics",
+      "definition": "You've built a list of media contacts that have written about closely related topics"
     },
     {
       "term": "How should you approach outreach to media people? (Select all that apply.) | Include a brief but clear list of the key points of interest in your content. , Send the same email to all the media people you reach out to. , Limit the length of your pitch to 3 or 4 paragraphs , Personalize your pitch",
       "definition": "Include a brief but clear list of the key points of interest in your content. , Personalize your pitch"
     },
     {
-      "term": "Identify key elements of a successful content marketing campaign. (Select all that apply.) | Copying someone else’s content marketing ideas and publishing something nearly identical , High word count , Keeping the content up to date , You’ve completed detailed research of the market and identified gaps in available information and believe you can create content that fills those gaps. , Publishing only very high quality, up to date, information , You’ve researched the media that covers your market and identified numerous potential targets that may be willing to link to your content.",
-      "definition": "You’ve completed detailed research of the market and identified gaps in available information and believe you can create content that fills those gaps. , You’ve researched the media that covers your market and identified numerous potential targets that may be willing to link to your content."
+      "term": "Identify key elements of a successful content marketing campaign. (Select all that apply.) | Copying someone else's content marketing ideas and publishing something nearly identical , High word count , Keeping the content up to date , You've completed detailed research of the market and identified gaps in available information and believe you can create content that fills those gaps. , Publishing only very high quality, up to date, information , You've researched the media that covers your market and identified numerous potential targets that may be willing to link to your content.",
+      "definition": "You've completed detailed research of the market and identified gaps in available information and believe you can create content that fills those gaps. , You've researched the media that covers your market and identified numerous potential targets that may be willing to link to your content."
     },
     {
       "term": "After analyzing your data, you find that infographics are the most linked to content on your website. What should be your next step? | Invest in paid advertising for infographics , All of these are correct , Stop creating other types of content , Consider creating more infographics",
@@ -1426,11 +1425,11 @@
       "definition": "BuzzSumo"
     },
     {
-      "term": "When considering whether or not a campaign makes sense should you consider piggybacking on recent news events? | Yes, by creating content that introduces new angles to the trending news stories , Yes, creating content similar to new stories published by major media sites is a great way to attract links. , No, this type of content doesn’t get many links. , No, unless you have a major media site this type of content won’t work for you.",
+      "term": "When considering whether or not a campaign makes sense should you consider piggybacking on recent news events? | Yes, by creating content that introduces new angles to the trending news stories , Yes, creating content similar to new stories published by major media sites is a great way to attract links. , No, this type of content doesn't get many links. , No, unless you have a major media site this type of content won't work for you.",
       "definition": "Yes, by creating content that introduces new angles to the trending news stories"
     },
     {
-      "term": "In the AGCO case study they used YouTube as a channel to promote their brand. But isn’t this a bad idea since links to YouTube won’t help your website? | No, the links to YouTube do have direct SEO value for your website. , No, building your brand in a significant way will raise your visibility, and this can lead to third parties implementing links to your website. , Yes, since all the links will go to YouTube this won’t have any value. , Yes, because links to YouTube are harmful as they distract people from linking to your site.",
+      "term": "In the AGCO case study they used YouTube as a channel to promote their brand. But isn't this a bad idea since links to YouTube won't help your website? | Yes, because links to YouTube are harmful as they distract people from linking to your site. | Yes, since all the links will go to YouTube this won't have any value. | No, building your brand in a significant way will raise your visibility, and this can lead to third parties implementing links to your website. | No, the links to YouTube do have direct SEO value for your website.",
       "definition": "No, building your brand in a significant way will raise your visibility, and this can lead to third parties implementing links to your website."
     },
     {
@@ -1444,6 +1443,10 @@
     {
       "term": "Which of the following tactics can be used in a content marketing campaign to improve SEO rankings? (Select all that apply.) | Attracting backlinks from reputable websites , Creating high-quality, relevant content , Using keywords naturally in the content , Plagiarizing content from high-ranking websites",
       "definition": "Attracting backlinks from reputable websites , Creating high-quality, relevant content , Using keywords naturally in the content"
+    },
+    {
+      "term": "If you reshare the social posts of influencers will it help you build a relationship with them? | Yes, reshare all of their content. | Yes, share every third post that they make. | No, don't reshare their content. | Yes, share their content that aligns most closely with your interests",
+      "definition": "Yes, share their content that aligns most closely with your interests"
     },
     { "term": "aaaaaaaaaaa", "definition": "bbbbbbbbbb" },
     { "term": "aaaaaaaaaaa", "definition": "bbbbbbbbbb" },
