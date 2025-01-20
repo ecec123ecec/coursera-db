@@ -1,23 +1,4 @@
 {
-  "quizUrls": [
-    "https://www.coursera.org/learn/fundamentals-network-communications/assignment-submission/dVp4Q/graded-assessment-communication-networks-and-services",
-    "https://www.coursera.org/learn/fundamentals-network-communications/assignment-submission/86NSN/graded-assessment-layered-architecture",
-    "https://www.coursera.org/learn/fundamentals-network-communications/assignment-submission/YyusA/graded-assessment-socket-api-digital-transmissions",
-    "https://www.coursera.org/learn/fundamentals-network-communications/assignment-submission/4eNt7/graded-assessment-error-control",
-    "https://www.coursera.org/learn/peer-to-peer-protocols-local-area-networks/assignment-submission/EPvrO/graded-assessment-peer-to-peer-protocols",
-    "https://www.coursera.org/learn/peer-to-peer-protocols-local-area-networks/assignment-submission/g1M5r/graded-assessment-reliable-services-and-data-link-controls",
-    "https://www.coursera.org/learn/peer-to-peer-protocols-local-area-networks/assignment-submission/XFcss/graded-assessment-medium-access-controls",
-    "https://www.coursera.org/learn/peer-to-peer-protocols-local-area-networks/assignment-submission/RpkEW/graded-assessment-local-area-networks",
-    "https://www.coursera.org/learn/packet-switching-networks-algorithms/assignment-submission/sYMNc/graded-assessment-frame-switching-and-packet-switching",
-    "https://www.coursera.org/learn/packet-switching-networks-algorithms/assignment-submission/Q4k0m/graded-assessment-routing-in-packet-networks",
-    "https://www.coursera.org/learn/packet-switching-networks-algorithms/assignment-submission/sPpGK/graded-assessment-shortest-path-routing",
-    "https://www.coursera.org/learn/packet-switching-networks-algorithms/assignment-submission/mG3UX/graded-assessment-traffic-management",
-    "https://www.coursera.org/learn/tcp-ip-advanced/assignment-submission/ClsC0/tcp-ip-and-advanced-topics",
-    "https://www.coursera.org/learn/tcp-ip-advanced/assignment-submission/Tt7ir/graded-assessment-ip-addressing",
-    "https://www.coursera.org/learn/tcp-ip-advanced/assignment-submission/t25i4/graded-assessment-transmission-control-protocol",
-    "https://www.coursera.org/learn/tcp-ip-advanced/assignment-submission/IerNW/graded-assessment-advanced-topics"
-  ],
-  "strictQuizMode": true,
   "quizSrc": [
     {
       "term": "Which of following protocol is HTTP built upon?a.SMTPb.UDPc.TCPd.IP",
@@ -1242,6 +1223,10 @@
     {
       "term": "In Head of Line (HOL) priority queueing, which of the following statement is true for this approach(Choose 2)a.High priority queue has higher waiting timeb.Buffers can be dimensioned for different loss probabilitiesc.High priority queue has lower waiting timed.High priority queue services until empty",
       "definition": "c.High priority queue has lower waiting time, d.High priority queue services until empty"
+    },
+    {
+      "term": "Consider the network as shown in the figure. We use the Dijkstra’s algorithm to find the set of shortest paths from all nodes to the destination node 4. In Dijkstra’s algorithm, each iteration the next closet node is added to the set with the root node. At the first iteration, which node will be added to the set N? | 2 | 1 | 3 | 5",
+      "definition": "2"
     }
   ]
 }

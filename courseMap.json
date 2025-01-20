@@ -1,4 +1,113 @@
 {
+  "ANO301c": {
+    "status": "ongoing",
+    "related": []
+  },
+  "AID301c": {
+    "status": "ongoing",
+    "related": []
+  },
+  "AIG202c": {
+    "status": "ongoing",
+    "related": []
+  },
+  "BDI301c": {
+    "status": "ongoing",
+    "related": []
+  },
+  "BDI302c": {
+    "status": "ongoing",
+    "related": []
+  },
+  "CMC201c": {
+    "status": "ongoing",
+    "related": []
+  },
+  "CRY303c": {
+    "status": "ongoing",
+    "related": []
+  },
+  "CHN132c": {
+    "status": "ongoing",
+    "related": []
+  },
+  "DWP301c": {
+    "status": "ongoing",
+    "related": []
+  },
+  "ELP321c": {
+    "status": "ongoing",
+    "related": []
+  },
+  "ELP311c": {
+    "status": "ongoing",
+    "related": []
+  },
+  "ECC301c": {
+    "status": "ongoing",
+    "related": []
+  },
+  "ENG302c": {
+    "status": "ongoing",
+    "related": []
+  },
+  "EBC301c": {
+    "status": "ongoing",
+    "related": []
+  },
+  "ENM221c": {
+    "status": "ongoing",
+    "related": []
+  },
+  "ENW492c": {
+    "status": "ongoing",
+    "related": []
+  },
+  "EPE301c": {
+    "status": "ongoing",
+    "related": []
+  },
+  "FRS401c": {
+    "status": "ongoing",
+    "related": []
+  },
+  "HOM301c": {
+    "status": "ongoing",
+    "related": [
+      "https://www.coursera.org/learn/fundamentals-of-revenue-management/assignment-submission/hjBZj/final-exam",
+      "https://www.coursera.org/learn/demandmanagement/assignment-submission/LB0L3/module-1-assessment",
+      "https://www.coursera.org/learn/demandmanagement/assignment-submission/M4FsO/module-2-assessment",
+      "https://www.coursera.org/learn/demandmanagement/assignment-submission/l2sPi/module-3-assessment",
+      "https://www.coursera.org/learn/demandmanagement/assignment-submission/RtA9a/module-4-assessment"
+    ]
+  },
+  "HRM201c": {
+    "status": "ongoing",
+    "related": []
+  },
+  "ITE302c": {
+    "status": "ongoing",
+    "related": []
+  },
+
+  "ITB302c": {
+    "status": "ongoing",
+    "related": []
+  },
+
+  "ITE303c": {
+    "status": "ongoing",
+    "related": []
+  },
+
+  "IFT201c": {
+    "status": "ongoing",
+    "related": []
+  },
+  "ITA203c": {
+    "status": "ongoing",
+    "related": []
+  },
   "LAB221c": {
     "status": "ongoing",
     "related": [
@@ -15,6 +124,51 @@
       "https://www.coursera.org/learn/java-programming-design-principles/assignment-submission/ikapQ/n-grams-predictive-text",
       "https://www.coursera.org/learn/java-programming-design-principles/assignment-submission/e6Xuz/java-tools-and-libraries-for-everyone"
     ]
+  },
+  "LAW201c": {
+    "status": "ongoing",
+    "related": []
+  },
+  "MKT205c": {
+    "status": "ongoing",
+    "related": []
+  },
+  "MSM201c": {
+    "status": "ongoing",
+    "related": []
+  },
+  "MKT208c": {
+    "status": "ongoing",
+    "related": []
+  },
+  "NLP301c": {
+    "status": "ongoing",
+    "related": []
+  },
+  "NWC203c": {
+    "status": "done",
+    "related": [
+      "https://www.coursera.org/learn/fundamentals-network-communications/assignment-submission/dVp4Q/graded-assessment-communication-networks-and-services",
+      "https://www.coursera.org/learn/fundamentals-network-communications/assignment-submission/86NSN/graded-assessment-layered-architecture",
+      "https://www.coursera.org/learn/fundamentals-network-communications/assignment-submission/YyusA/graded-assessment-socket-api-digital-transmissions",
+      "https://www.coursera.org/learn/fundamentals-network-communications/assignment-submission/4eNt7/graded-assessment-error-control",
+      "https://www.coursera.org/learn/peer-to-peer-protocols-local-area-networks/assignment-submission/EPvrO/graded-assessment-peer-to-peer-protocols",
+      "https://www.coursera.org/learn/peer-to-peer-protocols-local-area-networks/assignment-submission/g1M5r/graded-assessment-reliable-services-and-data-link-controls",
+      "https://www.coursera.org/learn/peer-to-peer-protocols-local-area-networks/assignment-submission/XFcss/graded-assessment-medium-access-controls",
+      "https://www.coursera.org/learn/peer-to-peer-protocols-local-area-networks/assignment-submission/RpkEW/graded-assessment-local-area-networks",
+      "https://www.coursera.org/learn/packet-switching-networks-algorithms/assignment-submission/sYMNc/graded-assessment-frame-switching-and-packet-switching",
+      "https://www.coursera.org/learn/packet-switching-networks-algorithms/assignment-submission/Q4k0m/graded-assessment-routing-in-packet-networks",
+      "https://www.coursera.org/learn/packet-switching-networks-algorithms/assignment-submission/sPpGK/graded-assessment-shortest-path-routing",
+      "https://www.coursera.org/learn/packet-switching-networks-algorithms/assignment-submission/mG3UX/graded-assessment-traffic-management",
+      "https://www.coursera.org/learn/tcp-ip-advanced/assignment-submission/ClsC0/tcp-ip-and-advanced-topics",
+      "https://www.coursera.org/learn/tcp-ip-advanced/assignment-submission/Tt7ir/graded-assessment-ip-addressing",
+      "https://www.coursera.org/learn/tcp-ip-advanced/assignment-submission/t25i4/graded-assessment-transmission-control-protocol",
+      "https://www.coursera.org/learn/tcp-ip-advanced/assignment-submission/IerNW/graded-assessment-advanced-topics"
+    ]
+  },
+  "OBE102c": {
+    "status": "ongoing",
+    "related": []
   },
   "PMG201c": {
     "status": "done",
@@ -34,85 +188,23 @@
       "https://www.coursera.org/learn/project-risk-management/assignment-submission/W08Xd/final-exam"
     ]
   },
-  "HOM301c": {
-    "status": "ongoing",
-    "related": [
-      "https://www.coursera.org/learn/fundamentals-of-revenue-management/assignment-submission/hjBZj/final-exam",
-      "https://www.coursera.org/learn/demandmanagement/assignment-submission/LB0L3/module-1-assessment",
-      "https://www.coursera.org/learn/demandmanagement/assignment-submission/M4FsO/module-2-assessment",
-      "https://www.coursera.org/learn/demandmanagement/assignment-submission/l2sPi/module-3-assessment",
-      "https://www.coursera.org/learn/demandmanagement/assignment-submission/RtA9a/module-4-assessment"
-    ]
-  },
-  "ITE302c": {
-    "status": "ongoing",
-    "related": []
-  },
-  "ELP321c": {
-    "status": "ongoing",
-    "related": []
-  },
-  "ELP311c": {
-    "status": "ongoing",
-    "related": []
-  },
-  "OBE102c": {
-    "status": "ongoing",
-    "related": []
-  },
-  "BDI302c": {
-    "status": "ongoing",
-    "related": []
-  },
-  "BDI301c": {
-    "status": "ongoing",
-    "related": []
-  },
-  "ITB302c": {
-    "status": "ongoing",
-    "related": []
-  },
   "PRP201c": {
     "status": "ongoing",
     "related": []
   },
-  "ANO301c": {
+  "PRC391c": {
     "status": "ongoing",
     "related": []
   },
-  "AID301c": {
+  "PRN292c": {
     "status": "ongoing",
     "related": []
   },
-  "FRS401c": {
+  "PMG202c": {
     "status": "ongoing",
     "related": []
   },
-  "CHN132c": {
-    "status": "ongoing",
-    "related": []
-  },
-  "ECC301c": {
-    "status": "ongoing",
-    "related": []
-  },
-  "ENG302c": {
-    "status": "ongoing",
-    "related": []
-  },
-  "ITE303c": {
-    "status": "ongoing",
-    "related": []
-  },
-  "LAW201c": {
-    "status": "ongoing",
-    "related": []
-  },
-  "MKT205c": {
-    "status": "ongoing",
-    "related": []
-  },
-  "MSM201c": {
+  "PRC392c": {
     "status": "ongoing",
     "related": []
   },
@@ -120,18 +212,50 @@
     "status": "done",
     "related": []
   },
-  "PRC391c": {
-    "status": "ongoing",
-    "related": []
-  },
-  "IFT201c": {
-    "status": "ongoing",
-    "related": []
-  },
   "SSL101c": {
     "status": "ongoing",
     "related": []
   },
+  "SWE201c": {
+    "status": "ongoing",
+    "related": []
+  },
+  "SSC302c": {
+    "status": "ongoing",
+    "related": []
+  },
+
+  "SYB302c": {
+    "status": "done",
+    "related": [
+      "https://www.coursera.org/learn/innovative-ideas/assignment-submission/OX6NK/entrepreneurial-perspective",
+      "https://www.coursera.org/learn/innovative-ideas/assignment-submission/sVRrU/entrepreneurial-mindset-motivations-and-behaviors",
+      "https://www.coursera.org/learn/innovative-ideas/assignment-submission/i020C/industry-analysis",
+      "https://www.coursera.org/learn/innovative-ideas/assignment-submission/f04PH/customer-analysis",
+      "https://www.coursera.org/learn/innovative-ideas/assignment-submission/FF5H8/business-plan-evaluation",
+      "https://www.coursera.org/learn/innovative-entrepreneur/assignment-submission/tbWvj/initial-business-model-canvas",
+      "https://www.coursera.org/learn/innovative-entrepreneur/assignment-submission/Hh1KE/discovering-and-interviewing-your-customers",
+      "https://www.coursera.org/learn/innovative-entrepreneur/assignment-submission/CFGD9/product-understanding-and-marketing",
+      "https://www.coursera.org/learn/innovative-entrepreneur/assignment-submission/TTsze/prototyping-and-testing",
+      "https://www.coursera.org/learn/innovative-entrepreneur/assignment-submission/rINPX/building-the-team",
+      "https://www.coursera.org/learn/innovative-entrepreneur/assignment-submission/fTdRG/final-business-model-canvas",
+      "https://www.coursera.org/learn/startup-funding/assignment-submission/q0BNN/early-stage-investment-landscape",
+      "https://www.coursera.org/learn/startup-funding/assignment-submission/JgX1i/newco-project",
+      "https://www.coursera.org/learn/startup-funding/assignment-submission/qGhA5/sources-of-capital",
+      "https://www.coursera.org/learn/startup-funding/assignment-submission/r4L4o/project-sources-of-capital",
+      "https://www.coursera.org/learn/startup-funding/assignment-submission/6lnHA/principles-of-funding-strategies",
+      "https://www.coursera.org/learn/startup-funding/assignment-submission/ldx9Y/create-a-funding-strategy-for-a-new-venture-concept",
+      "https://www.coursera.org/learn/startup-funding/assignment-submission/ZUfd4/fundamentals-of-the-pitch",
+      "https://www.coursera.org/learn/startup-funding/assignment-submission/IDPjs/create-the-pitch-for-a-new-venture-concept",
+      "https://www.coursera.org/learn/entrepreneurship-capstone/assignment-submission/0C8SM/initial-business-model-canvas",
+      "https://www.coursera.org/learn/entrepreneurship-capstone/assignment-submission/qdPND/customer-interviews-and-analysis-part-1-of-2",
+      "https://www.coursera.org/learn/entrepreneurship-capstone/assignment-submission/CWtXd/customer-interviews-and-analysis-part-2-of-2",
+      "https://www.coursera.org/learn/entrepreneurship-capstone/assignment-submission/Q8h4E/marketing-and-sales-strategy",
+      "https://www.coursera.org/learn/entrepreneurship-capstone/assignment-submission/YYhFR/final-business-model-canvas",
+      "https://www.coursera.org/learn/entrepreneurship-capstone/assignment-submission/lzu8H/business-plan"
+    ]
+  },
+
   "WDU202c": {
     "status": "ongoing",
     "related": []
@@ -154,26 +278,7 @@
       "https://www.coursera.org/learn/responsivedesign/exam/NKHvB/responsive-design-final-assessment"
     ]
   },
-  "DWP301c": {
-    "status": "ongoing",
-    "related": []
-  },
-  "ITA203c": {
-    "status": "ongoing",
-    "related": []
-  },
-  "AIG202c": {
-    "status": "ongoing",
-    "related": []
-  },
-  "PRN292c": {
-    "status": "ongoing",
-    "related": []
-  },
-  "EBC301c": {
-    "status": "ongoing",
-    "related": []
-  },
+
   "WDU203c": {
     "status": "done",
     "related": [
@@ -213,104 +318,5 @@
       "https://www.coursera.org/learn/user-experience-capstone/assignment-submission/ui17o/quiz-user-testing",
       "https://www.coursera.org/learn/user-experience-capstone/assignment-submission/cpD7W/quiz-iterative-prototyping"
     ]
-  },
-  "CMC201c": {
-    "status": "ongoing",
-    "related": []
-  },
-  "CRY303c": {
-    "status": "ongoing",
-    "related": []
-  },
-  "SWE201c": {
-    "status": "ongoing",
-    "related": []
-  },
-  "PMG202c": {
-    "status": "ongoing",
-    "related": []
-  },
-  "PRC392c": {
-    "status": "ongoing",
-    "related": []
-  },
-  "HRM201c": {
-    "status": "ongoing",
-    "related": []
-  },
-  "ENM221c": {
-    "status": "ongoing",
-    "related": []
-  },
-  "SSC302c": {
-    "status": "ongoing",
-    "related": []
-  },
-  "NWC203c": {
-    "status": "ongoing",
-    "related": [
-      "https://www.coursera.org/learn/fundamentals-network-communications/assignment-submission/dVp4Q/graded-assessment-communication-networks-and-services",
-      "https://www.coursera.org/learn/fundamentals-network-communications/assignment-submission/86NSN/graded-assessment-layered-architecture",
-      "https://www.coursera.org/learn/fundamentals-network-communications/assignment-submission/YyusA/graded-assessment-socket-api-digital-transmissions",
-      "https://www.coursera.org/learn/fundamentals-network-communications/assignment-submission/4eNt7/graded-assessment-error-control",
-      "https://www.coursera.org/learn/peer-to-peer-protocols-local-area-networks/assignment-submission/EPvrO/graded-assessment-peer-to-peer-protocols",
-      "https://www.coursera.org/learn/peer-to-peer-protocols-local-area-networks/assignment-submission/g1M5r/graded-assessment-reliable-services-and-data-link-controls",
-      "https://www.coursera.org/learn/peer-to-peer-protocols-local-area-networks/assignment-submission/XFcss/graded-assessment-medium-access-controls",
-      "https://www.coursera.org/learn/peer-to-peer-protocols-local-area-networks/assignment-submission/RpkEW/graded-assessment-local-area-networks",
-      "https://www.coursera.org/learn/packet-switching-networks-algorithms/assignment-submission/sYMNc/graded-assessment-frame-switching-and-packet-switching",
-      "https://www.coursera.org/learn/packet-switching-networks-algorithms/assignment-submission/Q4k0m/graded-assessment-routing-in-packet-networks",
-      "https://www.coursera.org/learn/packet-switching-networks-algorithms/assignment-submission/sPpGK/graded-assessment-shortest-path-routing",
-      "https://www.coursera.org/learn/packet-switching-networks-algorithms/assignment-submission/mG3UX/graded-assessment-traffic-management",
-      "https://www.coursera.org/learn/tcp-ip-advanced/assignment-submission/ClsC0/tcp-ip-and-advanced-topics",
-      "https://www.coursera.org/learn/tcp-ip-advanced/assignment-submission/Tt7ir/graded-assessment-ip-addressing",
-      "https://www.coursera.org/learn/tcp-ip-advanced/assignment-submission/t25i4/graded-assessment-transmission-control-protocol",
-      "https://www.coursera.org/learn/tcp-ip-advanced/assignment-submission/IerNW/graded-assessment-advanced-topics"
-    ]
-  },
-  "ENW492c": {
-    "status": "ongoing",
-    "related": []
-  },
-  "SYB302c": {
-    "status": "done",
-    "related": [
-      "https://www.coursera.org/learn/innovative-ideas/assignment-submission/OX6NK/entrepreneurial-perspective",
-      "https://www.coursera.org/learn/innovative-ideas/assignment-submission/sVRrU/entrepreneurial-mindset-motivations-and-behaviors",
-      "https://www.coursera.org/learn/innovative-ideas/assignment-submission/i020C/industry-analysis",
-      "https://www.coursera.org/learn/innovative-ideas/assignment-submission/f04PH/customer-analysis",
-      "https://www.coursera.org/learn/innovative-ideas/assignment-submission/FF5H8/business-plan-evaluation",
-      "https://www.coursera.org/learn/innovative-entrepreneur/assignment-submission/tbWvj/initial-business-model-canvas",
-      "https://www.coursera.org/learn/innovative-entrepreneur/assignment-submission/Hh1KE/discovering-and-interviewing-your-customers",
-      "https://www.coursera.org/learn/innovative-entrepreneur/assignment-submission/CFGD9/product-understanding-and-marketing",
-      "https://www.coursera.org/learn/innovative-entrepreneur/assignment-submission/TTsze/prototyping-and-testing",
-      "https://www.coursera.org/learn/innovative-entrepreneur/assignment-submission/rINPX/building-the-team",
-      "https://www.coursera.org/learn/innovative-entrepreneur/assignment-submission/fTdRG/final-business-model-canvas",
-      "https://www.coursera.org/learn/startup-funding/assignment-submission/q0BNN/early-stage-investment-landscape",
-      "https://www.coursera.org/learn/startup-funding/assignment-submission/JgX1i/newco-project",
-      "https://www.coursera.org/learn/startup-funding/assignment-submission/qGhA5/sources-of-capital",
-      "https://www.coursera.org/learn/startup-funding/assignment-submission/r4L4o/project-sources-of-capital",
-      "https://www.coursera.org/learn/startup-funding/assignment-submission/6lnHA/principles-of-funding-strategies",
-      "https://www.coursera.org/learn/startup-funding/assignment-submission/ldx9Y/create-a-funding-strategy-for-a-new-venture-concept",
-      "https://www.coursera.org/learn/startup-funding/assignment-submission/ZUfd4/fundamentals-of-the-pitch",
-      "https://www.coursera.org/learn/startup-funding/assignment-submission/IDPjs/create-the-pitch-for-a-new-venture-concept",
-      "https://www.coursera.org/learn/entrepreneurship-capstone/assignment-submission/0C8SM/initial-business-model-canvas",
-      "https://www.coursera.org/learn/entrepreneurship-capstone/assignment-submission/qdPND/customer-interviews-and-analysis-part-1-of-2",
-      "https://www.coursera.org/learn/entrepreneurship-capstone/assignment-submission/CWtXd/customer-interviews-and-analysis-part-2-of-2",
-      "https://www.coursera.org/learn/entrepreneurship-capstone/assignment-submission/Q8h4E/marketing-and-sales-strategy",
-      "https://www.coursera.org/learn/entrepreneurship-capstone/assignment-submission/YYhFR/final-business-model-canvas",
-      "https://www.coursera.org/learn/entrepreneurship-capstone/assignment-submission/lzu8H/business-plan"
-    ]
-  },
-  "MKT208c": {
-    "status": "ongoing",
-    "related": []
-  },
-  "EPE301c": {
-    "status": "ongoing",
-    "related": []
-  },
-  "NLP301c": {
-    "status": "ongoing",
-    "related": []
   }
 }
