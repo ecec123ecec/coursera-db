@@ -39,7 +39,7 @@
 [] PRC392c
 [x] SEO201c
 [] SSL101c
-[] SWE201c
+[x] SWE201c
 [] SSC302c
 [x] SYB302c
 [] WED201c
