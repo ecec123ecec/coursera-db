@@ -82,6 +82,14 @@
     ]
   },
   "HRM201c": {
+    "status": "done",
+    "related": []
+  },
+  "ITA203c": {
+    "status": "ongoing",
+    "related": []
+  },
+  "ITB302c": {
     "status": "ongoing",
     "related": []
   },
@@ -89,22 +97,11 @@
     "status": "ongoing",
     "related": []
   },
-
-  "ITB302c": {
-    "status": "ongoing",
-    "related": []
-  },
-
   "ITE303c": {
     "status": "ongoing",
     "related": []
   },
-
   "IFT201c": {
-    "status": "ongoing",
-    "related": []
-  },
-  "ITA203c": {
     "status": "ongoing",
     "related": []
   },
@@ -256,10 +253,6 @@
     ]
   },
 
-  "WDU202c": {
-    "status": "ongoing",
-    "related": []
-  },
   "WED201c": {
     "status": "ongoing",
     "related": [
@@ -278,7 +271,10 @@
       "https://www.coursera.org/learn/responsivedesign/exam/NKHvB/responsive-design-final-assessment"
     ]
   },
-
+  "WDU202c": {
+    "status": "ongoing",
+    "related": []
+  },
   "WDU203c": {
     "status": "done",
     "related": [
