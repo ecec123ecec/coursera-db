@@ -20,7 +20,7 @@
 [x] HRM201c
 [] ITA203c
 [] ITB302c
-[] ITE302c
+[x] ITE302c
 [] ITE303c
 [] IFT201c
 [] LAB221c
