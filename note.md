@@ -13,7 +13,7 @@
 [] ENG302c
 [] EBC301c
 [] ENM221c
-[] ENW492c
+[x] ENW492c
 [] EPE301c
 [] FRS401c
 [] HOM301c
