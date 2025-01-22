@@ -1261,27 +1261,27 @@
       "definition": "4"
     },
     {
-      "term": "class Airplane {private:int customerCapacity; string _Manufacturer;public: Airplane (int capacity, string manufacturer);int load_Customers(Customer *);};Which of the following are style errors for the code on Line 2?A. variable name should not be separatedB. variable should have trailing underscoreC. variables should be publicD. method names should be separated by hyphensE. class name should be lowercaseF. variable name should be separated by underscoreG. Spacing between elementsH. variable should have no underscoreI. method names should be lower caseJ. order of access restrictionsK. method names should be CamelCaseL. variable name should be uppercaseM. variable name should be lowercaseN. method Airplane should be privateO. indentation",
+      "term": "Which of the following are style errors for the code on Line 2?",
       "definition": "J. order of access restrictions  O. indentation"
     },
     {
-      "term": "class Airplane {private:int customerCapacity; string _Manufacturer;public: Airplane (int capacity, string manufacturer);int load_Customers(Customer *);};Which of the following are style errors for the code on Line 3?A. order of access restrictionsB. indentationC. variable name should be lowercaseD. class name should be lowercaseE. variable name should be uppercaseF. variable should have trailing underscoreG. method names should be lower caseH. method Airplane should be privateI. Spacing between elementsJ. variables should be publicK. method names should be separated by hyphensL. variable name should not be separatedM. variable name should be separated by underscoreN. variable should have no underscoreO. method names should be CamelCase",
+      "term": "Which of the following are style errors for the code on Line 3?",
       "definition": "C. variable name should be lowercase  F. variable should have trailing underscore  I. Spacing between elements  M. variable name should be separated by underscore"
     },
     {
-      "term": "class Airplane {private:int customerCapacity; string _Manufacturer;public: Airplane (int capacity, string manufacturer);int load_Customers(Customer *);};Which of the following are style errors for the code on Line 4?A. class name should be lowercaseB. variables should be publicC. variable should have no underscoreD. variable name should be separated by underscoreE. variable should have trailing underscoreF. order of access restrictionsG. variable name should be lowercaseH. method names should be CamelCaseI. variable name should be uppercaseJ. Spacing between elementsK. method Airplane should be privateL. method names should be lower caseM. method names should be separated by hyphensN. indentationO. variable name should not be separated",
+      "term": "Which of the following are style errors for the code on Line 4?",
       "definition": "E. variable should have trailing underscore  G. variable name should be lowercase"
     },
     {
-      "term": "class Airplane {private:int customerCapacity; string _Manufacturer;public: Airplane (int capacity, string manufacturer);int load_Customers(Customer *);};Which of the following are style errors for the code on Line 5?A. Spacing between elementsB. variable should have trailing underscoreC. indentationD. method names should be separated by hyphensE. variable name should be lowercaseF. method names should be CamelCaseG. variable name should not be separatedH. variable name should be separated by underscoreI. method names should be lower caseJ. order of access restrictionsK. variables should be publicL. method Airplane should be privateM. variable should have no underscoreN. variable name should be uppercaseO. class name should be lowercase",
+      "term": "Which of the following are style errors for the code on Line 5?",
       "definition": "C. indentation  J. order of access restrictions"
     },
     {
-      "term": "class Airplane {private:int customerCapacity; string _Manufacturer;public: Airplane (int capacity, string manufacturer);int load_Customers(Customer *);};Which of the following are style errors for the code on Line 6?A. method Airplane should be privateB. order of access restrictionsC. variables should be publicD. variable should have no underscoreE. method names should be lower caseF. indentationG. variable name should be separated by underscoreH. variable name should be uppercaseI. method names should be separated by hyphensJ. variable should have trailing underscoreK. method names should be CamelCaseL. Spacing between elementsM. variable name should not be separatedN. variable name should be lowercaseO. class name should be lowercase",
+      "term": "Which of the following are style errors for the code on Line 6?",
       "definition": "L. Spacing between elements"
     },
     {
-      "term": "class Airplane {private:int customerCapacity; string _Manufacturer;public: Airplane (int capacity, string manufacturer);int load_Customers(Customer *);};Which of the following are style errors for the code on Line 7?A. variables should be publicB. method names should be separated by hyphensC. indentationD. class name should be lowercaseE. variable name should be uppercaseF. variable should have trailing underscoreG. variable should have no underscoreH. method Airplane should be privateI. variable name should be separated by underscoreJ. variable name should be lowercaseK. variable name should not be separatedL. Spacing between elementsM. method names should be lower caseN. order of access restrictionsO. method names should be CamelCase",
+      "term": "Which of the following are style errors for the code on Line 7?",
       "definition": "O. method names should be CamelCase"
     },
     {
@@ -1312,7 +1312,10 @@
       "term": "Project materials are stored in a remote repository through the WebHook functionality.A. TrueB. False",
       "definition": "B. False"
     },
-    { "term": "Compilers perform static analysis.A. TrueB. False", "definition": "A. True" },
+    {
+      "term": "Compilers perform static analysis.A. TrueB. False",
+      "definition": "A. True"
+    },
     {
       "term": "Static analysis can only be performed while code is being executed.A. TrueB. False",
       "definition": "B. False"

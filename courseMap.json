@@ -210,7 +210,7 @@
     "related": []
   },
   "SSL101c": {
-    "status": "ongoing",
+    "status": "done",
     "related": []
   },
   "SWE201c": {
@@ -225,51 +225,16 @@
   "SYB302c": {
     "status": "done",
     "related": [
-      "https://www.coursera.org/learn/innovative-ideas/assignment-submission/OX6NK/entrepreneurial-perspective",
-      "https://www.coursera.org/learn/innovative-ideas/assignment-submission/sVRrU/entrepreneurial-mindset-motivations-and-behaviors",
-      "https://www.coursera.org/learn/innovative-ideas/assignment-submission/i020C/industry-analysis",
-      "https://www.coursera.org/learn/innovative-ideas/assignment-submission/f04PH/customer-analysis",
-      "https://www.coursera.org/learn/innovative-ideas/assignment-submission/FF5H8/business-plan-evaluation",
-      "https://www.coursera.org/learn/innovative-entrepreneur/assignment-submission/tbWvj/initial-business-model-canvas",
-      "https://www.coursera.org/learn/innovative-entrepreneur/assignment-submission/Hh1KE/discovering-and-interviewing-your-customers",
-      "https://www.coursera.org/learn/innovative-entrepreneur/assignment-submission/CFGD9/product-understanding-and-marketing",
-      "https://www.coursera.org/learn/innovative-entrepreneur/assignment-submission/TTsze/prototyping-and-testing",
-      "https://www.coursera.org/learn/innovative-entrepreneur/assignment-submission/rINPX/building-the-team",
-      "https://www.coursera.org/learn/innovative-entrepreneur/assignment-submission/fTdRG/final-business-model-canvas",
-      "https://www.coursera.org/learn/startup-funding/assignment-submission/q0BNN/early-stage-investment-landscape",
-      "https://www.coursera.org/learn/startup-funding/assignment-submission/JgX1i/newco-project",
-      "https://www.coursera.org/learn/startup-funding/assignment-submission/qGhA5/sources-of-capital",
-      "https://www.coursera.org/learn/startup-funding/assignment-submission/r4L4o/project-sources-of-capital",
-      "https://www.coursera.org/learn/startup-funding/assignment-submission/6lnHA/principles-of-funding-strategies",
-      "https://www.coursera.org/learn/startup-funding/assignment-submission/ldx9Y/create-a-funding-strategy-for-a-new-venture-concept",
-      "https://www.coursera.org/learn/startup-funding/assignment-submission/ZUfd4/fundamentals-of-the-pitch",
-      "https://www.coursera.org/learn/startup-funding/assignment-submission/IDPjs/create-the-pitch-for-a-new-venture-concept",
-      "https://www.coursera.org/learn/entrepreneurship-capstone/assignment-submission/0C8SM/initial-business-model-canvas",
-      "https://www.coursera.org/learn/entrepreneurship-capstone/assignment-submission/qdPND/customer-interviews-and-analysis-part-1-of-2",
-      "https://www.coursera.org/learn/entrepreneurship-capstone/assignment-submission/CWtXd/customer-interviews-and-analysis-part-2-of-2",
-      "https://www.coursera.org/learn/entrepreneurship-capstone/assignment-submission/Q8h4E/marketing-and-sales-strategy",
-      "https://www.coursera.org/learn/entrepreneurship-capstone/assignment-submission/YYhFR/final-business-model-canvas",
-      "https://www.coursera.org/learn/entrepreneurship-capstone/assignment-submission/lzu8H/business-plan"
+      "/innovative-ideas/",
+      "/innovative-entrepreneur/",
+      "/startup-funding/",
+      "/entrepreneurship-capstone/"
     ]
   },
 
   "WED201c": {
     "status": "ongoing",
-    "related": [
-      "https://www.coursera.org/learn/html/exam/Dlayy/week-one-html-web-basics",
-      "https://www.coursera.org/learn/html/exam/a0yq0/tags",
-      "https://www.coursera.org/learn/html/assignment-submission/50L7P/hosting-and-validation",
-      "https://www.coursera.org/learn/html/exam/EQVpd/final-quiz-putting-it-together",
-      "https://www.coursera.org/learn/introcss/exam/wUVuR/styling-syntax-and-theory",
-      "https://www.coursera.org/learn/introcss/exam/trNtz/advanced-selectors-quiz",
-      "https://www.coursera.org/learn/introcss/exam/JW2xb/final-quiz",
-      "https://www.coursera.org/learn/javascript/exam/uOJ7X/week-one",
-      "https://www.coursera.org/learn/javascript/exam/6Pnw0/javascript-review",
-      "https://www.coursera.org/learn/responsivedesign/exam/D8W4n/basic-concepts-in-responsive-design-approaches",
-      "https://www.coursera.org/learn/responsivedesign/exam/mMkPC/week-two-review-media-queries-and-breakpoints",
-      "https://www.coursera.org/learn/responsivedesign/assignment-submission/x7dlR/week-three-review-bootstrap",
-      "https://www.coursera.org/learn/responsivedesign/exam/NKHvB/responsive-design-final-assessment"
-    ]
+    "related": ["/html/", "/introcss/", "/javascript/", "/responsivedesign/"]
   },
   "WDU202c": {
     "status": "ongoing",
