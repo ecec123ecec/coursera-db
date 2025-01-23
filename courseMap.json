@@ -61,7 +61,13 @@
   },
   "ENW492c": {
     "status": "done",
-    "related": []
+    "related": [
+      "/grammar-punctuation",
+      "/getting-started-with-essay-writing",
+      "/advanced-writing",
+      "/introduction-to-research-for-essay-writing",
+      "/academic-writing-capstone"
+    ]
   },
   "EPE301c": {
     "status": "ongoing",
@@ -83,7 +89,13 @@
   },
   "HRM201c": {
     "status": "done",
-    "related": []
+    "related": [
+      "/human-resources-management-capstone",
+      "/compensation-management",
+      "/employee-performance",
+      "/recruiting-hiring-onboarding-employees",
+      "/managing-human-resources"
+    ]
   },
   "ITA203c": {
     "status": "ongoing",
@@ -95,7 +107,15 @@
   },
   "ITE302c": {
     "status": "done",
-    "related": []
+    "related": [
+      "/promote-ethical-data-driven-technologies",
+      "/ethical-frameworks-action",
+      "/detect-mitigate-ethical-risks",
+      "/ethical-communication-data-driven-technologies",
+      "/ethical-data-driven-technology-leader",
+      "/preparing-for-your-certnexus-certification-exam",
+      "/ethics-of-artificial-intelligence"
+    ]
   },
   "ITE303c": {
     "status": "ongoing",
@@ -145,22 +165,10 @@
   "NWC203c": {
     "status": "done",
     "related": [
-      "https://www.coursera.org/learn/fundamentals-network-communications/assignment-submission/dVp4Q/graded-assessment-communication-networks-and-services",
-      "https://www.coursera.org/learn/fundamentals-network-communications/assignment-submission/86NSN/graded-assessment-layered-architecture",
-      "https://www.coursera.org/learn/fundamentals-network-communications/assignment-submission/YyusA/graded-assessment-socket-api-digital-transmissions",
-      "https://www.coursera.org/learn/fundamentals-network-communications/assignment-submission/4eNt7/graded-assessment-error-control",
-      "https://www.coursera.org/learn/peer-to-peer-protocols-local-area-networks/assignment-submission/EPvrO/graded-assessment-peer-to-peer-protocols",
-      "https://www.coursera.org/learn/peer-to-peer-protocols-local-area-networks/assignment-submission/g1M5r/graded-assessment-reliable-services-and-data-link-controls",
-      "https://www.coursera.org/learn/peer-to-peer-protocols-local-area-networks/assignment-submission/XFcss/graded-assessment-medium-access-controls",
-      "https://www.coursera.org/learn/peer-to-peer-protocols-local-area-networks/assignment-submission/RpkEW/graded-assessment-local-area-networks",
-      "https://www.coursera.org/learn/packet-switching-networks-algorithms/assignment-submission/sYMNc/graded-assessment-frame-switching-and-packet-switching",
-      "https://www.coursera.org/learn/packet-switching-networks-algorithms/assignment-submission/Q4k0m/graded-assessment-routing-in-packet-networks",
-      "https://www.coursera.org/learn/packet-switching-networks-algorithms/assignment-submission/sPpGK/graded-assessment-shortest-path-routing",
-      "https://www.coursera.org/learn/packet-switching-networks-algorithms/assignment-submission/mG3UX/graded-assessment-traffic-management",
-      "https://www.coursera.org/learn/tcp-ip-advanced/assignment-submission/ClsC0/tcp-ip-and-advanced-topics",
-      "https://www.coursera.org/learn/tcp-ip-advanced/assignment-submission/Tt7ir/graded-assessment-ip-addressing",
-      "https://www.coursera.org/learn/tcp-ip-advanced/assignment-submission/t25i4/graded-assessment-transmission-control-protocol",
-      "https://www.coursera.org/learn/tcp-ip-advanced/assignment-submission/IerNW/graded-assessment-advanced-topics"
+      "/fundamentals-network-communications",
+      "/peer-to-peer-protocols-local-area-networks",
+      "/packet-switching-networks-algorithms",
+      "/tcp-ip-advanced"
     ]
   },
   "OBE102c": {
@@ -170,19 +178,10 @@
   "PMG201c": {
     "status": "done",
     "related": [
-      "https://www.coursera.org/learn/project-planning/assignment-submission/Lgbz3/module-2-quiz",
-      "https://www.coursera.org/learn/project-planning/assignment-submission/eNyN4/module-3-quiz",
-      "https://www.coursera.org/learn/project-planning/assignment-submission/G1UnF/module-4-quiz",
-      "https://www.coursera.org/learn/project-planning/assignment-submission/iN7js/module-5-quiz",
-      "https://www.coursera.org/learn/project-planning/assignment-submission/T4KEX/final-exam",
-      "https://www.coursera.org/learn/schedule-projects/assignment-submission/TgJP8/module-2-quiz",
-      "https://www.coursera.org/learn/schedule-projects/assignment-submission/v8agT/module-3-quiz",
-      "https://www.coursera.org/learn/schedule-projects/assignment-submission/x8ob7/module-4-quiz",
-      "https://www.coursera.org/learn/schedule-projects/assignment-submission/n9zVp/final-exam",
-      "https://www.coursera.org/learn/project-risk-management/assignment-submission/k7VaC/module-2-quiz",
-      "https://www.coursera.org/learn/project-risk-management/assignment-submission/OSt8i/module-3-quiz",
-      "https://www.coursera.org/learn/project-risk-management/assignment-submission/Z46xy/module-4-quiz",
-      "https://www.coursera.org/learn/project-risk-management/assignment-submission/W08Xd/final-exam"
+      "/project-planning",
+      "/schedule-projects",
+      "/project-risk-management",
+      "/project-management-capstone"
     ]
   },
   "PRP201c": {
@@ -207,15 +206,32 @@
   },
   "SEO201c": {
     "status": "done",
-    "related": []
+    "related": [
+      "/search-engine-optimization",
+      "/seo-fundamentals",
+      "/optimizing-web-search",
+      "/seo-tactics",
+      "/seo-project"
+    ]
   },
   "SSL101c": {
     "status": "done",
-    "related": []
+    "related": [
+      "/digital-literacy",
+      "/problem-solving-skills",
+      "/critical-thinking-skills",
+      "/communication-skills",
+      "/academic-skills-project"
+    ]
   },
   "SWE201c": {
     "status": "done",
-    "related": []
+    "related": [
+      "/software-processes",
+      "/agile-software-development",
+      "/lean-software-development",
+      "/engineering-practices-secure-software-quality"
+    ]
   },
   "SSC302c": {
     "status": "ongoing",
@@ -225,16 +241,16 @@
   "SYB302c": {
     "status": "done",
     "related": [
-      "/innovative-ideas/",
-      "/innovative-entrepreneur/",
-      "/startup-funding/",
-      "/entrepreneurship-capstone/"
+      "/innovative-ideas",
+      "/innovative-entrepreneur",
+      "/startup-funding",
+      "/entrepreneurship-capstone"
     ]
   },
 
   "WED201c": {
     "status": "ongoing",
-    "related": ["/html/", "/introcss/", "/javascript/", "/responsivedesign/"]
+    "related": ["/html", "/introcss", "/javascript", "/responsivedesign"]
   },
   "WDU202c": {
     "status": "ongoing",
@@ -243,41 +259,12 @@
   "WDU203c": {
     "status": "done",
     "related": [
-      "https://www.coursera.org/learn/introtoux-principles-and-processes/assignment-submission/3UqZN/module-1",
-      "https://www.coursera.org/learn/introtoux-principles-and-processes/assignment-submission/X4OZv/ux-design-overview-part-1",
-      "https://www.coursera.org/learn/introtoux-principles-and-processes/assignment-submission/pK37I/module-3",
-      "https://www.coursera.org/learn/introtoux-principles-and-processes/assignment-submission/0IlQ5/module-4",
-      "https://www.coursera.org/learn/introtoux-principles-and-processes/assignment-submission/6IpKU/module-5",
-      "https://www.coursera.org/learn/understanding-user-needs/assignment-submission/qkpjF/user-needs-assessment-and-qualitative-research",
-      "https://www.coursera.org/learn/understanding-user-needs/assignment-submission/GOPzh/peer-review-1-self-check",
-      "https://www.coursera.org/learn/understanding-user-needs/assignment-submission/1mrv9/interview-protocols",
-      "https://www.coursera.org/learn/understanding-user-needs/assignment-submission/ePIY5/peer-review-2-self-check",
-      "https://www.coursera.org/learn/understanding-user-needs/assignment-submission/XaDxi/interviewing-tips",
-      "https://www.coursera.org/learn/understanding-user-needs/assignment-submission/Q21pX/peer-review-3-self-check",
-      "https://www.coursera.org/learn/understanding-user-needs/assignment-submission/3wDAD/affinity-walls",
-      "https://www.coursera.org/learn/understanding-user-needs/assignment-submission/HeGOn/peer-review-4-self-check",
-      "https://www.coursera.org/learn/understanding-user-needs/assignment-submission/FrzAj/whole-course",
-      "https://www.coursera.org/learn/evaluating-designs-with-users/assignment-submission/YgPOh/lesson-1-quiz",
-      "https://www.coursera.org/learn/evaluating-designs-with-users/assignment-submission/cXCyS/lesson-2-quiz",
-      "https://www.coursera.org/learn/evaluating-designs-with-users/assignment-submission/BY1oO/lesson-3-quiz",
-      "https://www.coursera.org/learn/evaluating-designs-with-users/assignment-submission/Mtdhm/self-assessment",
-      "https://www.coursera.org/learn/evaluating-designs-with-users/assignment-submission/biPEa/lesson-4-quiz",
-      "https://www.coursera.org/learn/ux-design-concept-wireframe/assignment-submission/OSMXC/introduction-to-the-design-process",
-      "https://www.coursera.org/learn/ux-design-concept-wireframe/assignment-submission/9N9iK/ideation",
-      "https://www.coursera.org/learn/ux-design-concept-wireframe/assignment-submission/YMTGo/design-constraints-and-making-choices",
-      "https://www.coursera.org/learn/ux-design-concept-wireframe/assignment-submission/gPy8G/quiz-building-blocks-of-user-interaction",
-      "https://www.coursera.org/learn/ux-design-concept-wireframe/assignment-submission/AgYGO/quiz-low-to-hi-fidelity-prototyping",
-      "https://www.coursera.org/learn/ux-design-concept-wireframe/assignment-submission/BcTcW/quiz-conceptual-issues-in-prototyping-and-design",
-      "https://www.coursera.org/learn/ux-research-at-scale/assignment-submission/YDiJh/quiz-survey-time",
-      "https://www.coursera.org/learn/ux-research-at-scale/assignment-submission/7FUJb/quiz-assessing-your-survey-knowledge",
-      "https://www.coursera.org/learn/ux-research-at-scale/assignment-submission/uU4pt/quiz-getting-responses",
-      "https://www.coursera.org/learn/ux-research-at-scale/assignment-submission/kYJEd/writing-questions-quiz-1",
-      "https://www.coursera.org/learn/ux-research-at-scale/assignment-submission/laZal/writing-questions-quiz-2",
-      "https://www.coursera.org/learn/ux-research-at-scale/assignment-submission/UJDL7/quiz-about-research-at-scale",
-      "https://www.coursera.org/learn/ux-research-at-scale/assignment-submission/ucHj9/remote-testing",
-      "https://www.coursera.org/learn/user-experience-capstone/assignment-submission/MoINS/quiz-needs-finding",
-      "https://www.coursera.org/learn/user-experience-capstone/assignment-submission/ui17o/quiz-user-testing",
-      "https://www.coursera.org/learn/user-experience-capstone/assignment-submission/cpD7W/quiz-iterative-prototyping"
+      "/introtoux-principles-and-processes",
+      "/understanding-user-needs",
+      "/evaluating-designs-with-users",
+      "/ux-design-concept-wireframe",
+      "/ux-research-at-scale",
+      "/user-experience-capstone"
     ]
   }
 }
