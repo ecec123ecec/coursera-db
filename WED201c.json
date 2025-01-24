@@ -1,132 +1,996 @@
 {
   "quizSrc": [
     {
-      "term": "Which of the following is NOT an option for specifying a color in CSS3? | binary | color name | hexadecimal | rgb | rgba",
-      "definition": "binary"
+      "term": "What does HTML stand for?A. Home Tool Markup LanguageB. Hyper Text Markup LanguageC. Hyperlinks and Text Markup Language",
+      "definition": "B. Hyper Text Markup Language"
     },
     {
-      "term": "Which of the following is NOT an option for specifying a color in CSS3? | All of these options are valid.",
-      "definition": "All of these options are valid."
+      "term": "Unlike earlier versions of HTML, HTML5 produces pages that look the same across all browsersA. TrueB. False",
+      "definition": "B. False"
     },
     {
-      "term": "If your body tag uses the style attribute style=\"text-align:center\", you can overwrite that property by using the CSS3 rule:body{ text-align: left; } | True | False",
-      "definition": "False"
+      "term": "HTML5 tags have the same semantic meaning, regardless of the browser being usedA. TrueB. False",
+      "definition": "A. True"
     },
     {
-      "term": "What is wrong with the following code?12345body{color:#000000;background-color:#FFFFFFfont-family:Times,Arial,Cursive;}Information: Pressing Tab in the current editor will insert the tab character. Toggle this behavior by pressing Control+M. | There is a missing semicolon | You can't style three properties in a single rule | This is a valid rule",
-      "definition": "There is a missing semicolon"
+      "term": "What does FTP stand for?A. File Transfer ProtocolB. File Transmission PipeC. File To Push",
+      "definition": "A. File Transfer Protocol"
     },
     {
-      "term": "What is wrong with the following code?Information: Pressing Tab in the current editor will insert the tab character. View this editor's accessibility help for more information. | There is a missing semicolon | You can't style three properties in a single rule | This is a valid rule",
-      "definition": "There is a missing semicolon"
+      "term": "HTTP stands forA. Hyper Text Transfer ProtocolB. Hyper Transfer Translation ProgramC. Hyper Text Text Program",
+      "definition": "A. Hyper Text Transfer Protocol"
     },
     {
-      "term": "Assume the following rule is the only one that styles the body element:123body{font-family:Cursive,Helvetica,Verdana;}Information: Pressing Tab in the current editor will insert the tab character. Toggle this behavior by pressing Control+M.What happens if the browser doesn't support any of these font families? | The text will be displayed in Cursive | The text will not be displayed | The text will be displayed in the default browser font-family",
-      "definition": "The text will be displayed in the default browser font-family"
+      "term": "Which of the following is part of a URL?A. protocolB. editorC. hosting service",
+      "definition": "A. protocol"
     },
     {
-      "term": "The browser defaults override rules specified in an external stylesheet. | True | False",
-      "definition": "False"
+      "term": "The Internet is a type ofA. Wide Area NetworkB. HyperText NetworkC. Local Area Network",
+      "definition": "A. Wide Area Network"
     },
     {
-      "term": "Using the code below, will the body of the page have the background-color defined in the file style.css or the background color defined in the <style> tag?12345678910<head><metacharset=\"UTF-8\"><title>Testcode</title><linkrel\"stylesheet\"href=\"style.css\"><style>body{background-color:#44CCDD;}</style></head>Information: Pressing Tab in the current editor will insert the tab character. Toggle this behavior by pressing Control+M. | <style> | style.css",
-      "definition": "<style>"
+      "term": "What is the Request/Response Cycle?A. The process that happens when a client requests a page and a server responds with the appropriate filesB. The process that happens when a HTML5 is created with an editorC. The process that happens when a server requests a page and a client responds with the appropriate files",
+      "definition": "A. The process that happens when a client requests a page and a server responds with the appropriate files"
     },
     {
-      "term": "Internal styling (rules specified in the <head> section) override rules specified with the style attribute in a tag. | True | False",
-      "definition": "False"
+      "term": "A ____ is a computer that is in charge of handling resource requests from multiple computersA. clientB. serverC. switchD. router",
+      "definition": "B. server"
     },
     {
-      "term": "The default display value for the <a> element is: | inline-block | block | none | inline",
-      "definition": "inline"
+      "term": "Which of the following is an example of a top-level domain? (Choose 2)A. .bizB. umich.eduC. mysiteD. .comE. wikipedia.org",
+      "definition": "A. .biz   D. .com"
     },
     {
-      "term": "The default display value for <span> is: | block | none | inline-block | inline",
-      "definition": "inline"
+      "term": "The Domain Name Service looks up the domain and returns theA. IP addressB. serverC. hostD. document",
+      "definition": "A. IP address"
     },
     {
-      "term": "A block element takes up the full width of its parent, even if the content is smaller than the parent. So two block elements at the same time will not be side-by-side. | True | False",
-      "definition": "True"
+      "term": "Which organization is responsible for assigning top-level domain names?A. Internet Corporation for Assigned Numbers and Names (ICANN)B. Internet Domain Name Server (IDNS)C. World Wide Web Consortium (W3C)D. Organization Without a Cool Acronym (OWCA)",
+      "definition": "A. Internet Corporation for Assigned Numbers and Names (ICANN)"
     },
     {
-      "term": "Inline elements take up the full width of the browser, even if the content is smaller than the browser size. | True | False",
-      "definition": "False"
+      "term": "The Request-Response Cycle...A. is an outdated process used by HTML 4.1B. may require several iterations of the Request-Respond CycleC. is performed once for each requested page",
+      "definition": "B. may require several iterations of the Request-Respond Cycle"
     },
     {
-      "term": "Which CSS3 property is used to center text? (We are only asking about the property name; not the value.) | A: center | align | text-align | text-center",
-      "definition": "text-align"
+      "term": "A single web page may require several iterations of the Request-Response CycleA. TrueB. False",
+      "definition": "A. True"
     },
     {
-      "term": "Which of the following is the best way to convey that your text has special meaning? | Using colors to signify the important text | Using a combination of font size and color to signify the important text | Using semantic tags in addition to color and/or font. | Using a larger font size to signify the important text",
-      "definition": "Using semantic tags in addition to color and/or font."
+      "term": "What does LAN stand for?A. Local Arena NetworkB. Local Area NetworkC. Long Area NetworkD. Long Arena Network",
+      "definition": "B. Local Area Network"
     },
     {
-      "term": "What is the correct HTML for referring to an external style sheet? | <link rel=\"stylesheet\" url=\"mystyle.css\"> | <link rel=\"stylesheet\" href=\"mystyle.css\"> | <link rel=\"stylesheet\" src=\"mystyle.css\"> | <style src=\"mystyle.css\"></style>",
-      "definition": "<link rel=\"stylesheet\" href=\"mystyle.css\">"
+      "term": "What does WAN stand for?A. Wide Area NetworkB. Wide Aerial NetworkC. Wide Arena NetworkD. World Area Network",
+      "definition": "A. Wide Area Network"
     },
     {
-      "term": "What is the correct HTML for referring to an external style sheet stored in a subfolder called css? | <link rel=\"stylesheet\" href=\"css/mystyle.css\"> | <link rel=\"css/stylesheet\" href=\"css/mystyle.css\"> | <style src=\"css/mystyle.css\"> | <link rel=\"css/stylesheet\" href=\"mystyle.css\">",
-      "definition": "<link rel=\"stylesheet\" href=\"css/mystyle.css\">"
+      "term": "Which is the correct file extension for a web page?A. .txtB. .pptC. .htmlD. .doc",
+      "definition": "C. .html"
     },
     {
-      "term": "The link to the external style sheet should be in the: | Meta-data - <head> | Displayable content - <body> | Document type",
-      "definition": "Meta-data - <head>"
+      "term": "The original developers of HTML were opposed to the addition of tags for graphical imagesA. TrueB. False",
+      "definition": "A. True"
     },
     {
-      "term": "Using an external stylesheet allows you to update the style of many pages with only a few lines of code. | True | False",
-      "definition": "True"
+      "term": "HTML uses ____ to annotate documents. This is a way of marking up the content to identify specific HTML elementsA. syntaxB. semanticC. tagsD. HTTP",
+      "definition": "C. tags"
     },
     {
-      "term": "When creating a CSS rule you need to specify the selector, property, and _______. | ",
-      "definition": "value"
+      "term": "The original web was developedA. as way to increase international commerceB. as a way to display graphical imagesC. as a way for scientists to exchange information",
+      "definition": "C. as a way for scientists to exchange information"
     },
     {
-      "term": "You can use the Inspect Element tool in your browser to see your CSS rules. | True | False",
-      "definition": "True"
+      "term": "Which of the following best explains the difference between \"syntax\" and \"semantics\"A. A browser may have trouble displaying a page if the syntax is incorrectB. A browser may have trouble displaying a page if the semantics is incorrectC. Syntax and semantics are interchangeable",
+      "definition": "A. A browser may have trouble displaying a page if the syntax is incorrect"
     },
     {
-      "term": "CSS stands for Cascading Style Sheets. This is because the webpage style can come from many different sources. | True | False",
-      "definition": "True"
+      "term": "The first graphical browser was ____A. VeronicaB. Internet ExplorerC. MosaicD. Netscape Navigator",
+      "definition": "C. Mosaic"
     },
     {
-      "term": "What is wrong with the following rule?Information: Pressing Tab in the current editor will insert the tab character. View this editor's accessibility help for more information. | You can't specify three styles in a single rule | You can't specify three options for font-family. | Nothing - This is a valid rule",
-      "definition": "Nothing - This is a valid rule"
+      "term": "What are \"proprietary\" tags?A. Tags are work only on certain browserB. Tags used to define ownership of the contentC. Tags that displayed copyright information",
+      "definition": "A. Tags are work only on certain browser"
     },
     {
-      "term": "Assume the following rule is the only one that styles the body element:Information: Pressing Tab in the current editor will insert the tab character. View this editor's accessibility help for more information.What happens if the browser doesn't support Cursive or Helvetica? | The text will be displayed in Verdana | The text will not be displayed | The text will be displayed in Cursive.",
-      "definition": "The text will be displayed in Verdana"
+      "term": "Which of these tags breaks the tenet of the separation of content and layout? (Choose 2)A. pB. bodyC. centerD. h1E. fontF. br",
+      "definition": "C. center   E. font"
     },
     {
-      "term": "Using the code below, will the body of the page have the background-color defined in the file style.css or the background color defined in the <style> tag?Information: Pressing Tab in the current editor will insert the tab character. View this editor's accessibility help for more information. | <style> | style.css",
-      "definition": "<style>"
+      "term": "Which of the following are browsers?A. Firefox, Chrome, Safari, SublimeB. Safari, Chrome, Internet ExplorerC. Internet Explorer, Windows, SafariD. Window Defender, Firewall, Opera",
+      "definition": "B. Safari, Chrome, Internet Explorer"
     },
     {
-      "term": "The default display value for paragraphs is: | inline | inline-block | block | none",
-      "definition": "block"
+      "term": "W3C stands for?A. World Wide Web ConsortiumB. WWW ComplianceC. World Wide Web Community",
+      "definition": "A. World Wide Web Consortium"
     },
     {
-      "term": "Which CSS3 property is used to center text? (Provide only the property, not the value!) | ",
-      "definition": "text-align"
+      "term": "A basic functionality of browsers is to translate HTML documents into viewable webpagesA. TrueB. False",
+      "definition": "A. True"
     },
     {
-      "term": "When creating a CSS rule you need to specify the _______, property, and value. | ",
-      "definition": "selector"
+      "term": "Which version of HTML introduced different document types?A. HTML 2.0B. HTML5C. HTML 3.2D. HTML 4.01",
+      "definition": "D. HTML 4.01"
     },
     {
-      "term": "What is wrong with the following rule?12345body{color:#000000;background-color:#FFFFFF;font-family:Times,Arial,Cursive;}Information: Pressing Tab in the current editor will insert the tab character. Toggle this behavior by pressing Control+M. | You can't specify three styles in a single rule | You can't specify three options for font-family. | Nothing - This is a valid rule",
-      "definition": "Nothing - This is a valid rule"
+      "term": "Which version of HTML introduced semantic tags?A. HTML 2.0B. HTML 5C. HTML 3.2D. HTML 4.1",
+      "definition": "B. HTML 5"
     },
     {
-      "term": "The style tag and the style attribute are interchangeable -- this means that you accomplish the same effect with both. | True | False",
-      "definition": "False"
+      "term": "The predecessor of the internet wasA. ArpanetB. DARPAC. AI GoreD. CompuServe",
+      "definition": "A. Arpanet"
     },
     {
-      "term": "Using the style attribute allows you to style many pages with only a few lines of code. | True | False",
-      "definition": "False"
+      "term": "URL stands forA. Uniform Resource LocatorB. Universal Relation LocatorC. Unordered Resource Locator",
+      "definition": "A. Uniform Resource Locator"
     },
     {
-      "term": "When creating a CSS rule you need to specify the selector, _______, and value. | ",
-      "definition": "property"
+      "term": "____ is used to create rules about the color, font, and layout of our pagesA. DjangoB. JavascriptC. CSSD. Flask",
+      "definition": "C. CSS"
+    },
+    {
+      "term": "CSS stands forA. Cascading Color SchemeB. Cascading Hypertext Style ScriptC. Cascading Style Sheet",
+      "definition": "C. Cascading Style Sheet"
+    },
+    {
+      "term": "CSS1 was introduced for public use inA. 1994B. 1995C. 1996D. 1997",
+      "definition": "C. 1996"
+    },
+    {
+      "term": "Semantics isA. The practice of giving content on the page meaning and structure by using proper elementB. The set of rules that defines the combinations of symbols that are considered to be a correctly structured document or fragment in that languageC. Circular",
+      "definition": "A. The practice of giving content on the page meaning and structure by using proper element"
+    },
+    {
+      "term": "Semantic code describes the ____ of content on a page, regardless of the style or appearance of that content.A. numberB. valueC. language",
+      "definition": "B. value"
+    },
+    {
+      "term": "Using the header and footer tags can improve the search engine optimization for your page.A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "Every well-formed HTML document should include:A. doctype, head, bodyB. doctype, header, bodyC. header, nav, footerD. alt text",
+      "definition": "A. doctype, head, body"
+    },
+    {
+      "term": "What is wrong with the following code?&lt;a href = \"http://www.umich.edu\"&gt;&lt;/a&gt;A. This link doesn't provide any way to click on the link.B. This code is semantically and syntactically correct.C. The anchor link is self-closing. Remove the &lt;/a&gt; and the code will work.D. The alt text attribute is missing from the tag",
+      "definition": "A. This link doesn't provide any way to click on the link."
+    },
+    {
+      "term": "Block-level elements begin on a new lineA. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "Inline-level elements begin on a new lineA. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "A &lt;div&gt; block is an inline-level elementA. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "A &lt;span&gt; block is an inline-level elementA. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "Which tag represents a line break (new line)?A. &lt;break&gt;B. &lt;line&gt;C. &lt;br&gt;D. &lt;lb&gt;",
+      "definition": "C. &lt;br&gt;"
+    },
+    {
+      "term": "Which of the following is the correct way to comment on HTML5?A. &lt;?-- HTML --&gt;B. &lt;#-- HTML --&gt;C. &lt;!-- HTML --&gt;D. &lt;$-- HTML --&gt;",
+      "definition": "C. &lt;!-- HTML --&gt;"
+    },
+    {
+      "term": "Which of the following are valid tags for HTML5 headings?A. &lt;h9&gt;..&lt;/h9&gt;B. &lt;h5&gt;..&lt;/h5&gt;C. &lt;heading&gt;..&lt;/heading&gt;D. &lt;h7&gt;..&lt;/h7&gt;",
+      "definition": "B. &lt;h5&gt;..&lt;/h5&gt;"
+    },
+    {
+      "term": "All of the content you wish to appear on the screen should be in which tag?A. &lt;body&gt;B. &lt;main&gt;C. &lt;html&gt;D. &lt;content&gt;",
+      "definition": "A. &lt;body&gt;"
+    },
+    {
+      "term": "Which tag is used to create a link?A. &lt;a&gt;B. &lt;link&gt;C. &lt;hyper&gt;D. &lt;anchor&gt;",
+      "definition": "A. &lt;a&gt;"
+    },
+    {
+      "term": "Which of the following code is the correct way to link to an email address?A. &lt;a href= \"mailto:shayhowe@awesome.com?subject=Hi&amp;body=How are you\"&gt;Email&lt;/a&gt;B. &lt;a href= \"mailto:shayhowe@awesome.com?subject=Hi&amp;body=How%20are%20you\"&gt;Email&lt;/a&gt;C. &lt;a href= \"mailto:shayhowe@awesome.com?subject=Hi&amp;body=How%are%you\"&gt;Email&lt;/a&gt;D. &lt;a href= \"mailto:shayhowe@awesome.com?subject=Hi&amp;body=How%20are%20you\"&gt;Email&lt;a&gt;",
+      "definition": "B. &lt;a href= \"mailto:shayhowe@awesome.com?subject=Hi&amp;body=How%20are%20you\"&gt;Email&lt;/a&gt;"
+    },
+    {
+      "term": "Which HTML element will number items for you?A. &lt;dl&gt;B. &lt;ul&gt;C. &lt;num&gt;D. &lt;ol&gt;",
+      "definition": "D. &lt;ol&gt;"
+    },
+    {
+      "term": "The start attribute defines the number from which an unordered list should start.A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "The reverse attribute allows a list to appear in a reverse order in an unordered list.A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "Which attribute can be used to change its number within an ordered list?A. numB. skipC. changeD. value",
+      "definition": "D. value"
+    },
+    {
+      "term": "Which code properly creates the nested list structure shown here?1. Vegetables2. Fruit - Blueberries - BananasA. &lt;ul&gt;  &lt;li&gt;Vegetables&lt;/li&gt;  &lt;li&gt;Fruit&gt;/li&gt; &lt;ol&gt;  &lt;li&gt;Blueberries&lt;/li&gt; &lt;li&gt;Bananas&lt;/li&gt; &lt;/ol&gt; &lt;/ul&gt;B. &lt;ul&gt;  &lt;li&gt;Vegetables&lt;/li&gt;  &lt;li&gt;Fruit &lt;ol&gt;  &lt;li&gt;Blueberries&lt;/li&gt; &lt;li&gt;Bananas&lt;/li&gt; &lt;/ol&gt; &lt;/li&gt; &lt;/ul&gt;C. &lt;ol&gt;  &lt;li&gt;Vegetables&lt;/li&gt;  &lt;li&gt;Fruit &lt;ul&gt;  &lt;li&gt;Blueberries&lt;/li&gt; &lt;li&gt;Bananas&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;/ol&gt;D. &lt;ol&gt;  &lt;li&gt;Vegetables&lt;/li&gt;  &lt;li&gt;Fruit&gt;/li&gt; &lt;ul&gt;  &lt;li&gt;Blueberries&lt;/li&gt; &lt;li&gt;Bananas&lt;/li&gt; &lt;/ul&gt; &lt;/ol&gt;",
+      "definition": "C. &lt;ol&gt;"
+    },
+    {
+      "term": "The &lt;ul&gt; and &lt;ol&gt; elements may contain only &lt;li&gt; elements.A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "The tags to create definitions are:A. &lt;def&gt;, &lt;dt&gt;, &lt;li&gt;B. &lt;def&gt;, &lt;dt&gt;, &lt;dd&gt;C. &lt;dl&gt;, &lt;term&gt;, &lt;def&gt;D. &lt;dl&gt;, &lt;dt&gt;, &lt;dd&gt;",
+      "definition": "D. &lt;dl&gt;, &lt;dt&gt;, &lt;dd&gt;"
+    },
+    {
+      "term": "What should target = \"_blank\" do when included in a link tag?A. Opens the link in a new tab or windowB. Opens the link in a in a tab called \"_blank\"C. This is not a valid expression.",
+      "definition": "A. Opens the link in a new tab or window"
+    },
+    {
+      "term": "In order for the &lt;img&gt; element to work, a src attribute and value must be included to specify the source of the image.A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "The alt text of an image should describe the appearance of an imageA. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "When should an image have null (empty) alt text (alt - \"\")A. When the image is black and whiteB. When the image is complexC. When the image is decorativeD. When the image already displays descriptive text",
+      "definition": "C. When the image is decorative"
+    },
+    {
+      "term": "Which of the following is the best way to use a Font Awesome icon to link to Twitter?A. &lt;a href=\"https://twitter.com/\" aria-label=\"Twitter\"&gt; &lt;i class=\"fa fa-twitter\"&gt;&lt;/i&gt;&lt;/a&gt;B. &lt;a&gt; &lt;i class=\"fa fa-twitter\"&gt;&lt;/i&gt;&lt;/a&gt;C. &lt;a href=\"https://twitter.com/\" &gt; &lt;i class=\"fa fa-twitter\" aria-label=\"Twitter\"&gt;&lt;/i&gt;&lt;/a&gt;D. &lt;a href=\"https://twitter.com/\"&gt; &lt;i class=\"fa fa-twitter\"&gt;&lt;/i&gt;&lt;/a&gt;",
+      "definition": "A. &lt;a href=\"https://twitter.com/\" aria-label=\"Twitter\"&gt; &lt;i class=\"fa fa-twitter\"&gt;&lt;/i&gt;&lt;/a&gt;"
+    },
+    {
+      "term": "What are the elements to help organize the data and structure of a table?A. &lt;caption&gt;, &lt;head&gt;, &lt;body&gt;, &lt;foot&gt;B. &lt;caption&gt;, &lt;thead&gt;, &lt;tbody&gt;, &lt;foot&gt;C. &lt;caption&gt;, &lt;thead&gt;, &lt;tbody&gt;, &lt;tfoot&gt;D. &lt;caption&gt;, &lt;thead&gt;, &lt;body&gt;, &lt;foot&gt;",
+      "definition": "C. &lt;caption&gt;, &lt;thead&gt;, &lt;tbody&gt;, &lt;tfoot&gt;"
+    },
+    {
+      "term": "What does &lt;thead&gt; stand for?A. The headB. Table headC. Table headerD. None of the above",
+      "definition": "B. Table head"
+    },
+    {
+      "term": "Which code will properly insert headings along each row?A. &lt;table&gt; &lt;tr&gt;&lt;th&gt;Name&lt;/th&gt;&lt;td&gt;Colleen&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;th&gt;Age&lt;/th&gt;&lt;td&gt;26&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;th&gt;Team&lt;/th&gt;&lt;td&gt;Browns&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;B. &lt;table&gt; &lt;tr&gt;&lt;td&gt;Name&lt;/td&gt;&lt;td&gt;Age&lt;/td&gt;&lt;td&gt;Team&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;th&gt;Colleen&lt;/th&gt;&lt;th&gt;26&lt;/th&gt;&lt;th&gt;Browns&lt;/th&gt;&lt;/tr&gt;&lt;/table&gt;C. &lt;table&gt; &lt;tr&gt;&lt;td&gt;Name&lt;/td&gt;&lt;td&gt;Age&lt;/td&gt;&lt;td&gt;Team&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;th&gt;Colleen&lt;/th&gt;&lt;th&gt;26&lt;/th&gt;&lt;th&gt;Browns&lt;/th&gt;&lt;/tr&gt;&lt;/table&gt;D. &lt;table&gt; &lt;tr&gt;&lt;th&gt;Name&lt;/th&gt;&lt;th&gt;Age&lt;/th&gt;&lt;th&gt;Team&lt;/th&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Colleen&lt;/td&gt;&lt;td&gt;26&lt;/td&gt;&lt;td&gt;Browns&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;",
+      "definition": "A. &lt;table&gt;"
+    },
+    {
+      "term": "What is wrong with the following code?&lt;a href = \"picture.jpg\"&gt;My dog&lt;/a&gt; chews socks.A. The alt text attributes is missing from the tag.B. You can not have text after the closing &lt;/a&gt; tag.C. The link in the href must have a full URLD. This code is semantically and syntactically correct.",
+      "definition": "C. The link in the href must have a full URL"
+    },
+    {
+      "term": "Which set of element tags is used to create the highest level heading?A. &lt;h1&gt;...&lt;/h1&gt;B. &lt;h9&gt;..&lt;/h9&gt;C. &lt;header&gt;..&lt;/header&gt;D. &lt;h6&gt;...&lt;/h6&gt;",
+      "definition": "A. &lt;h1&gt;...&lt;/h1&gt;"
+    },
+    {
+      "term": "Which HTML element is used to define list items?A. &lt;item&gt;B. &lt;dl&gt;C. &lt;ul&gt;D. &lt;li&gt;",
+      "definition": "D. &lt;li&gt;"
+    },
+    {
+      "term": "What validation error will this code produce?&lt;!DOCTYPE html&gt;&lt;html lang=\"en\"&gt;&lt;head&gt;  &lt;meta charset=\"UTF-8\"&gt; &lt;title&gt;Testing&lt;/title&gt;&lt;/head&gt;&lt;body&gt; &lt;p&gt;  &lt;h2&gt;Validate me!&lt;/h2&gt;  &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;A. No p element in scope but a &lt;p&gt; end tag seenB. No errorC. Start tag seen without seeing a doctype first. Expected e.g. &lt;!DOCTYPE html&gt;",
+      "definition": "A. No p element in scope but a &lt;p&gt; end tag seen"
+    },
+    {
+      "term": "What validation error will this code produce?&lt;!DOCTYPE html&gt;&lt;html lang=\"en\"&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;  &lt;p&gt; Validate me! &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;A. No error.B. End of file seen when expecting text or an end tag.C. Element head is missing a required instance of child element title.",
+      "definition": "C. Element head is missing a required instance of child element title."
+    },
+    {
+      "term": "To access your cPanel account, you need ...A. to download special ftp software to log inB. a specific URL to log inC. the Chrome browser to log in.",
+      "definition": "B. a specific URL to log in"
+    },
+    {
+      "term": "To publish your site online you needA. an account through work or schoolB. a clientC. a domain name and hosting service",
+      "definition": "C. a domain name and hosting service"
+    },
+    {
+      "term": "To use ftp software to transfer files you will typically need to know your site's ftp address or ip address.A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "Which is the best/proper way to declare that your page uses the HTML5 protocol?A. &lt;!html&gt;B. &lt;!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01//EN\" \"http://www.w3.org/TR/html4/strict.dtd\"&gt;C. &lt;!DOCTYPE html&gt;D. &lt;!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 5.01//EN\" \"http://www.w3.org/TR/html5/strict.dtd\"&gt;E. &lt;!DOCTYPE&gt;",
+      "definition": "C. &lt;!DOCTYPE html&gt;"
+    },
+    {
+      "term": "Which is the best/proper way to declare that the language for your page is English?A. &lt;lang=\"english\"&gt;B. &lt;lang=\"en\"&gt;C. &lt;html lang=\"en\"&gt;D. &lt;html lang=en&gt;E. &lt;html lang=\"english\"&gt;",
+      "definition": "C. &lt;html lang=\"en\"&gt;"
+    },
+    {
+      "term": "What is the best/proper way to create the meta-data for your page?A. &lt;head&gt; &lt;meta charset=\"utf-8\"&gt;&lt;/head&gt;B. &lt;head&gt; &lt;title&gt;Mister Rogers&lt;/title&gt;&lt;/head&gt;C. &lt;head&gt; &lt;meta charset=\"utf-8\"&gt;&lt;/head&gt;&lt;body&gt; &lt;title&gt;Mister Rogers&lt;/title&gt;&lt;/body&gt;D. &lt;head&gt; &lt;meta charset=utf-8&gt; &lt;title&gt;Mister Rogers&lt;/title&gt;&lt;/head&gt;E. &lt;head&gt; &lt;meta charset=\"utf-8\"&gt; &lt;title&gt;Mister Rogers&lt;/title&gt;&lt;/head&gt;F. &lt;head&gt; &lt;meta charset=\"utf-8\"&gt; &lt;title&gt;Mister Rogers&lt;/title&gt;&lt;/head&gt;G. &lt;header&gt; &lt;meta charset=\"utf-8\"&gt; &lt;title&gt;Mister Rogers&lt;/title&gt;&lt;/header&gt;",
+      "definition": "E. &lt;head&gt;"
+    },
+    {
+      "term": "Which is the best/proper way to declare the header for a page?A. &lt;div id = \"header\"&gt; &lt;h1&gt;Mister Rogers&lt;/h1&gt; &lt;div id = \"nav\"&gt; &lt;a href=\"one.html\"&gt;one&lt;/a&gt; &lt;a href=\"two.two.html\"&gt;two&lt;/a&gt; &lt;a href=\"three.html\"&gt;three&lt;/a&gt; &lt;a href=\"songs.html\"&gt;Songs&lt;/a&gt; &lt;/div&gt;&lt;/div&gt;B. &lt;header&gt; &lt;h1&gt;Mister Rogers&lt;/h1&gt; &lt;nav&gt; &lt;a href=\"one.html\"&gt;one&lt;/a&gt; &lt;a href=\"two.two.html\"&gt;two&lt;/a&gt; &lt;a href=\"three.html\"&gt;three&lt;/a&gt; &lt;a href=\"songs.html\"&gt;Songs&lt;/a&gt; &lt;/nav&gt;&lt;/header&gt;C. &lt;div id = \"header\"&gt; &lt;h1&gt;Mister Rogers&lt;/h1&gt; &lt;div id = \"nav\"&gt; &lt;a href=\"one.html\"&gt;one&lt;/a&gt; &lt;a href=\"two.two.html\"&gt;two&lt;/a&gt; &lt;a href=\"three.html\"&gt;three&lt;/a&gt; &lt;a href=\"songs.html\"&gt;Songs&lt;/a&gt; &lt;/div&gt;&lt;/div&gt;D. &lt;header&gt; &lt;h1&gt;Mister Rogers&lt;/h1&gt; &lt;nav&gt;&lt;/header&gt; &lt;a href=\"one.html\"&gt;one&lt;/a&gt; &lt;a href=\"two.two.html\"&gt;two&lt;/a&gt; &lt;a href=\"three.html\"&gt;three&lt;/a&gt; &lt;a href=\"songs.html\"&gt;Songs&lt;/a&gt; &lt;/nav&gt;",
+      "definition": "B. &lt;header&gt;"
+    },
+    {
+      "term": "Which is the best/proper way to declare a section that has an h2 heading and an unordered list?A. &lt;section&gt; &lt;h2&gt;Favorite Foods&lt;/h2&gt; &lt;ol&gt; &lt;li&gt;stuff&lt;/li&gt; &lt;li&gt;more&lt;/li&gt; &lt;li&gt;stuff&lt;/li&gt; &lt;li&gt;again&lt;/li&gt; &lt;/ol&gt;&lt;/section&gt;B. &lt;section&gt; &lt;h2&gt;Favorite Foods&lt;/h2&gt;&lt;/section&gt; &lt;ul&gt; &lt;li&gt;stuff&lt;/li&gt; &lt;li&gt;more&lt;/li&gt; &lt;li&gt;stuff&lt;/li&gt; &lt;li&gt;again&lt;/li&gt; &lt;/ul&gt;C. &lt;section&gt; &lt;h2&gt;Favorite Foods&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;stuff&lt;/li&gt; &lt;li&gt;more&lt;/li&gt; &lt;li&gt;stuff&lt;/li&gt; &lt;li&gt;again&lt;/li&gt; &lt;/ul&gt;&lt;/section&gt;D. &lt;section&gt; &lt;h2&gt;Favorite Foods&lt;/h2&gt; &lt;p&gt; &lt;ul&gt; &lt;li&gt;stuff&lt;/li&gt; &lt;li&gt;more&lt;/li&gt; &lt;li&gt;stuff&lt;/li&gt; &lt;li&gt;again&lt;/li&gt; &lt;/ul&gt; &lt;/p&gt;&lt;/section&gt;",
+      "definition": "C. &lt;section&gt;"
+    },
+    {
+      "term": "Which is the best/proper way to declare a section that has an h2 heading and three progress elements?A. &lt;section&gt; &lt;h2&gt;Achievements&lt;/h2&gt; &lt;p&gt;Progress in this course (100%)&lt;progress value=\"1\"&gt;&lt;/progress&gt;&lt;br/&gt; Progress in the Specialization capstone (20%)&lt;progress value=\"20\" max=\"100\"&gt;&lt;/progress&gt;&lt;br/&gt; Progress in life goals (70%)&lt;progress value=\"70\" max=\"100\"&gt;&lt;/progress&gt;&lt;/p&gt;&lt;/section&gt;B. &lt;section&gt; &lt;h2&gt;Achievements&lt;/h2&gt; &lt;p&gt;Progress in this course (100%)&lt;progress value=\"1\"&gt;&lt;/progress&gt;&lt;br/&gt; Progress in the Specialization capstone (20%)&lt;progress value=\"20\" max=\"100\"&gt;&lt;/progress&gt;&lt;br/&gt; Progress in life goals (70%)&lt;progress value=\"70\" max=\"100\"&gt;&lt;/progress&gt;&lt;/p&gt;&lt;/section&gt;C. &lt;section&gt; &lt;h2&gt;Achievements&lt;/h2&gt; &lt;p&gt;Progress in this course (100%)&lt;progress value=\"1\"&gt;&lt;/progress&gt; Progress in the Specialization capstone (20%)&lt;progress value=\"20\" max=\"100\"&gt;&lt;/progress&gt; Progress in life goals (70%)&lt;progress value=\"70\" max=\"100\"&gt;&lt;/progress&gt;&lt;/p&gt;&lt;/section&gt;D. &lt;section&gt; &lt;h2&gt;Achievements&lt;/h2&gt; &lt;p&gt;Progress in this course (100%)&lt;progress value=\"1\"&gt;&lt;/progress&gt; Progress in the Specialization capstone (20%)&lt;progress value=\"20\" max=\"100\"&gt;&lt;/progress&gt; Progress in life goals (70%)&lt;progress value=\"70\" max=\"100\"&gt;&lt;/progress&gt;&lt;/p&gt;&lt;/section&gt;",
+      "definition": "B. &lt;section&gt;"
+    },
+    {
+      "term": "What is the best/proper way to declare a section that has an h2 heading and uses a detail tag?A. &lt;section&gt; &lt;h2&gt;More about me&lt;/h2&gt; &lt;details open&gt; &lt;h2&gt;My Childhood&lt;/h2&gt; &lt;p&gt;stuff happened, I grew up&lt;/p&gt; &lt;/details&gt;&lt;/section&gt;B. &lt;section&gt; &lt;h2&gt;More about me&lt;/h2&gt; &lt;details&gt; &lt;summary&gt; My Childhood &lt;p&gt;stuff happened, I grew up&lt;/p&gt; &lt;/summary&gt; &lt;/details&gt;&lt;/section&gt;C. &lt;section&gt; &lt;h2&gt;More about me&lt;/h2&gt; &lt;details&gt; &lt;summary&gt;My Childhood&lt;/summary&gt; &lt;p&gt;stuff happened, I grew up&lt;/p&gt; &lt;/div&gt;&lt;/section&gt;D. &lt;section&gt; &lt;h2&gt;More about me&lt;/h2&gt; &lt;details open&gt; &lt;summary&gt;My Childhood&lt;/summary&gt; &lt;p&gt;stuff happened, I grew up&lt;/p&gt; &lt;/details&gt;&lt;/section&gt;",
+      "definition": "D. &lt;section&gt;"
+    },
+    {
+      "term": "What is the best/proper way to create a footer that has an image, paragraph, and link? Be careful, that paragraph includes a special entity.A. &lt;footer&gt; &lt;p&gt; &lt;img src=\"http://www.intro-webdesign.com/images/newlogo.png\" alt=\"new logo\"/&gt; This page was created by Mister Rogers &amp;amp; Colleen van Lent. To learn more about web design, visit &lt;a href=\"http://www.intro-webdesign.com\"&gt;Intro to Web Design&lt;/a&gt; &lt;/p&gt;&lt;footer&gt;B. &lt;footer&gt;&lt;p&gt; &lt;img src=\"http://www.intro-webdesign.com/images/newlogo.png\" alt=\"new logo\"&gt; This page was created by Troy &amp;amp; Colleen van Lent. To learn more about web design, visit &lt;a href=\"http://www.intro-webdesign.com\"&gt;Intro to Web Design&lt;/a&gt; &lt;/p&gt;&lt;/footer&gt;C. &lt;div id = \"footer\"&gt; &lt;p&gt; &lt;img src=\"http://www.intro-webdesign.com/images/newlogo.png\" alt=\"new logo\"/&gt; This page was created by Mister Rogers &amp;amp; Colleen van Lent. To learn more about web design, visit &lt;a href=\"http://www.intro-webdesign.com\"&gt;Intro to Web Design&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;D. &lt;div id = \"footer\"&gt; &lt;p&gt; &lt;img src=\"http://www.intro-webdesign.com/images/newlogo.png\" alt=\"new logo\"/&gt; This page was created by Mister Rogers &amp;amp; Colleen van Lent. To learn more about web design, visit &lt;a href=\"http://www.intro-webdesign.com\"&gt;Intro to Web Design&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;",
+      "definition": "B. &lt;footer&gt;"
+    },
+    {
+      "term": "Which of the following is not an option for specifying a color in CSS3?A. binaryB. rgbC. rgbaD. color nameE. hexadecimal",
+      "definition": "A. binary"
+    },
+    {
+      "term": "If your body tag uses the style attribute style=\"text-align:center\", you can overwrite that property by using the CSS3 rule.body{ text-align: left;}A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "What is wrong with the following code?body{ color: #000000; background-color:#FFFFFF; font-family: Times, Arial, Cursive;}A. You can't specify three styles in a single ruleB. You can't specify three options for font-family.C. This is a valid rule",
+      "definition": "C. This is a valid rule"
+    },
+    {
+      "term": "What is wrong with the following code?body{ color: #000000; background-color:#FFFFFF font-family: Times, Arial, Cursive;}A. There is a missing semicolonB. You can't style three properties in a single ruleC. This is a valid rule",
+      "definition": "A. There is a missing semicolon"
+    },
+    {
+      "term": "Assume the following rule is the only one that styles the body element:body{ font-family: Cursive, Helvetica, Verdana;}What happens if the browser doesn't support Cursive or Helvetica?A. The text will be displayed in CursiveB. The text will be displayed in VerdanaC. The text will not be displayed",
+      "definition": "B. The text will be displayed in Verdana"
+    },
+    {
+      "term": "Assume the following rule is the only one that styles the body element:body{ font-family: Cursive, Helvetica, Verdana;}What happens if the browser doesn't support any of these font families?A. The text will be displayed in CursiveB. The text will not be displayedC. The text will be displayed in the default browser font-family",
+      "definition": "C. The text will be displayed in the default browser font-family"
+    },
+    {
+      "term": "The browser defaults override rules specified in an external style sheets.A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "Using the code below, will the body of the page have the background-color defined in the file style.css or the background color define in the &lt;style&gt; tag?&lt;head&gt; &lt;meta charset = \"UTF-8\"&gt; &lt;title&gt;Test code&lt;/title&gt; &lt;link rel \"stylesheet\" href = \"style.css\"&gt; &lt;style&gt; body{ background-color: #44CCDD; } &lt;/style&gt;&lt;/head&gt;A. &lt;style&gt;B. style.css",
+      "definition": "A. &lt;style&gt;"
+    },
+    {
+      "term": "Internal styling (rules specified in the &lt;head&gt; section) override rules specified with the style attribute in a tag.A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "The default display value for paragraphs is:A. inlineB. inline-blockC. blockD. none",
+      "definition": "C. block"
+    },
+    {
+      "term": "The default display value for &lt;a&gt; element is:A. inlineB. inline-blockC. blockD. none",
+      "definition": "A. inline"
+    },
+    {
+      "term": "The default display value for &lt;span&gt; is:A. inline-blockB. noneC. blockD. inline",
+      "definition": "D. inline"
+    },
+    {
+      "term": "A block element takes up the full width of it's parent, even if the content is smaller than the parent. So two block elements at the same will not be side-by-side.A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "Inline elements take up the full width of the browser, even if the content is smaller than the browser size.A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "Which CSS3 property is used to center text? (Only provide the property name; do not give it a value.)A. centerB. alignC. text-alignD. text-center",
+      "definition": "C. text-align"
+    },
+    {
+      "term": "Which of the following is the best way to convey that your text has special meaning?A. Using semantic tags in addition to color and/or font.B. Using a larger font size to signify the important textC. Using a combination of font size and color to signify the important textD. Using colors to signify the important text",
+      "definition": "A. Using semantic tags in addition to color and/or font."
+    },
+    {
+      "term": "Given this rule:div{ border-width:10px 3px 5px 9px;}What is the width of the left border?A. 10pxB. 3pxC. 5pxD. 9px",
+      "definition": "D. 9px"
+    },
+    {
+      "term": "The margin is the space between elements.A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "Padding is...A. The space between two elementsB. The space reserved for an elementC. The space between an element and its border",
+      "definition": "C. The space between an element and its border"
+    },
+    {
+      "term": "The padding and margin properties can be styled with unique colors.A. FalseB. True",
+      "definition": "A. False"
+    },
+    {
+      "term": "How much horizontal space (\"width\") will this div use?div{ width: 50px; padding: 10px; margin: 5px; border: 2px;}A. 50pxB. 62pxC. 67pxD. 84px",
+      "definition": "D. 84px"
+    },
+    {
+      "term": "How much vertical space (\"height\") will this div use?div{ height: 50px; padding: 5px 10px; margin: 5px; border: 2px;}A. 62pxB. 67pxC. 74pxD. 84px",
+      "definition": "C. 74px"
+    },
+    {
+      "term": "Which property can remove the underline from links? (Only provide the property name; do not give it a value.)A. underlineB. text-decorationC. text-justifyD. writing-mode",
+      "definition": "B. text-decoration"
+    },
+    {
+      "term": "The text-decoration property is used to style links with an underline. What text-decoration value will remove this underline from a link?A. hiddenB. noneC. underlineD. overline",
+      "definition": "B. none"
+    },
+    {
+      "term": "The list-style-type property applies to:A. ordered listsB. unordered listsC. both ordered and unordered lists",
+      "definition": "C. both ordered and unordered lists"
+    },
+    {
+      "term": "Descendant selectorsnav a{ ....}are more specific than child selectorsnav&gt;a{ ....}A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "The id selectors are part of the DOM.A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "The class selectors are part of the DOMA. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "What is true about this code?&lt;p class = \"fancy box\"&gt; ....&lt;/p&gt;A. It is not legal to have two words (\"fancy box\") within the class.B. The fancy styling will take precedence over the box styling.C. The box styling will take precedence over the fancy styling.D. From this code, you can't know which styling will take precedence.",
+      "definition": "D. From this code, you can't know which styling will take precedence."
+    },
+    {
+      "term": "This is probably a typo, why?.body{margin: 10px;}A. The period in front of the word body means the browser will look for a class called body, not the element.B. The period in front of the word body means the browser will look for an id called body, not the element.",
+      "definition": "A. The period in front of the word body means the browser will look for a class called body, not the element."
+    },
+    {
+      "term": "The property/value pairlist-style-type:upper-roman;is best used to visually alter:A. ordered listsB. unordered listsC. both ordered and unordered lists",
+      "definition": "A. ordered lists"
+    },
+    {
+      "term": "Assume that this code is linked together correctly.p{ color: red; padding:10px 5px; background: black;}.fancy{ font-family: cursive; background: red; color: green;}.plain{ font-family: Times, serif; color: black;}&lt;p&gt;Hi&lt;/p&gt;What color font is used to display \"Hi\"?A. redB. greenC. blackD. browser default",
+      "definition": "A. red"
+    },
+    {
+      "term": "Assume that this code is linked together correctly.p{ color: red; padding:10px 5px; background: black;}.fancy{ font-family: cursive; background: red; color: green;}.plain{ font-family: Times, serif; color: black;}&lt;p class = \"plain fancy\"&gt;Hi&lt;/p&gt;What color font is used to display \"Hi\"?A. redB. greenC. blackD. browser default",
+      "definition": "C. black"
+    },
+    {
+      "term": "Assume that this code is linked together correctly.p{ color: red; padding:10px 5px; background: black;}.fancy{ font-family: cursive; background: red; color: green;}.plain{ font-family: Times, serif; color: black;}&lt;p class = \"fancy plain\"&gt;Hi&lt;/p&gt;What color font is used to display \"Hi\"?A. redB. greenC. blackD. browser default",
+      "definition": "C. black"
+    },
+    {
+      "term": "What is the correct HTML for referring to an external style sheet?A. &lt;style src=\"mystyle.css\"&gt;&lt;/style&gt;B. &lt;link rel=\"stylesheet\" url=\"mystyle.css\"&gt;C. &lt;link rel=\"stylesheet\" href=\"mystyle.css\"&gt;D. &lt;link rel=\"stylesheet\" src=\"mystyle.css\"&gt;",
+      "definition": "C. &lt;link rel=\"stylesheet\" href=\"mystyle.css\"&gt;"
+    },
+    {
+      "term": "What is the correct HTML for referring to an external style sheet stored in a subfolder called css?A. &lt;style src=\"css/mystyle.css\"&gt;B. &lt;link rel=\"css/stylesheet\" href=\"css/mystyle.css\"&gt;C. &lt;link rel=\"css/stylesheet\" href=\"mystyle.css\"&gt;D. &lt;link rel=\"stylesheet\" href=\"css/mystyle.css\"&gt;",
+      "definition": "D. &lt;link rel=\"stylesheet\" href=\"css/mystyle.css\"&gt;"
+    },
+    {
+      "term": "The link to the external style sheet should be in the:A. Document typeB. Meta-data - &lt;head&gt;C. Displayable content - &lt;body&gt;",
+      "definition": "B. Meta-data - &lt;head&gt;"
+    },
+    {
+      "term": "Which CSS property controls the text size?A. font-sizeB. font-heightC. text-sizeD. text-style",
+      "definition": "A. font-size"
+    },
+    {
+      "term": "How do you display hyperlinks without an underline?A. a {text-decoration:no-underline;}B. a { text-decoration:none; }C. a {underline:none;}D. a {decoration:no-underline;}",
+      "definition": "B. a { text-decoration:none; }"
+    },
+    {
+      "term": "In the following code snippet, what value is given for the left margin?margin: 5px 10px 3px 8px;A. 5pxB. 10pxC. 3pxD. 8px",
+      "definition": "D. 8px"
+    },
+    {
+      "term": "In the following code snippet, what value is given for the right margin?margin: 5px 10px 3px 8px;A. 5pxB. 10pxC. 3pxD. 8px",
+      "definition": "B. 10px"
+    },
+    {
+      "term": "Which of the following would be used to create class called button which has a width of 750px, a height of 30px and the color of the text is black?A. #button { height: 30px; width: 750px; color: black; }B. .button { height: 30px; width: 750px; text: black; }C. .button { height: 30px; width: 750px; color: black; }D. #button { height: 30px; width: 750px; text: black; }",
+      "definition": "C. .button { height: 30px; width: 750px; color: black; }"
+    },
+    {
+      "term": "Which snippet of CSS is commonly used to center an element horizontally?A. margin: center;B. margin: auto 0;C. site-align: center;D. margin: 0 auto;",
+      "definition": "D. margin: 0 auto;"
+    },
+    {
+      "term": "A default style sheet is used to:A. Eliminate differences in browser default styling.B. Insert the prefixes needed to support different browsers.",
+      "definition": "A. Eliminate differences in browser default styling."
+    },
+    {
+      "term": "Which of the following is not a browser prefix?A. mozB. edgeC. webkitD. o",
+      "definition": "B. edge"
+    },
+    {
+      "term": "Descendant selectorsnav a{ ....}are more general than child selectorsnav&gt;a{ ....}A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "How much width will this div occupy?div{ width: 100px; padding: 10px; margin: 5px; border: 2px;}A. 100pxB. 117pxC. 124pxD. 134px",
+      "definition": ""
+    },
+    {
+      "term": "The # symbol specifies that the selector is A. classB. tagC. idD. first",
+      "definition": "C. id"
+    },
+    {
+      "term": "The styling contained in the style tag has precedence over the style attribute.A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "The default value for the position property is:A. absoluteB. staticC. fixedD. relative",
+      "definition": "B. static"
+    },
+    {
+      "term": "What is wrong with this code?div{position: static;left: 10px;}A. The code works, but the left property is not necessary since static elements don't allow offsetsB. \"static\" is not a valid option for positionC. There is nothing wrong with this code.",
+      "definition": "A. The code works, but the left property is not necessary since static elements don't allow offsets"
+    },
+    {
+      "term": "If you want your navigation bar to remain visible, even when the user scrolls downward, you should use which type of positioning?A. relativeB. fixedC. staticD. absolute",
+      "definition": "B. fixed"
+    },
+    {
+      "term": "Which of the following is the proper syntax for a pseudo-class?A. :pseudo-class {  property:value;}B. selector-&gt;pseudo-class {  property:value;}C. selector:pseudo-class {  property:value;}D. selector::pseudo-class {  property:value;}",
+      "definition": "C. selector:pseudo-class {"
+    },
+    {
+      "term": "Which of the following rules styles the first paragraph in each div?A. div p{color: blue;}B. div &gt; p{  color: blue;}C. div:first-child p{  color: blue;}D. div p:first-child {  color: blue;}",
+      "definition": "D. div p:first-child {"
+    },
+    {
+      "term": "Which CSS3 property allows you to change property values smoothly over a given duration?A. transitionB. focusC. hoverD. change",
+      "definition": "A. transition"
+    },
+    {
+      "term": "Sometimes elements overlap one another. Which property specifies the stacking order of the elements? (A high value means it is more likely to be place in front of another.) ONLY PROVIDE THE PROPERTY, NOT A VALUEA. opacity B. stackC. z-indexD. stacking",
+      "definition": "C. z-index"
+    },
+    {
+      "term": "Which rule will change the text color of p elements with the class \"highlight\" when hovered over?A. p.highlight:hover{  color:green;}B. .highlight:hover{  color:green;}C. p:hover &gt; highlight{  color:green;}D. p:hover{  color:green;}",
+      "definition": "A. p.highlight:hover{"
+    },
+    {
+      "term": "What are the four principles of Accessibility?A. WEBAIMB. POURC. USED. PORE",
+      "definition": "B. POUR"
+    },
+    {
+      "term": "Every valid web page can be represented as a tree. This tree is referred to as theA. APIB. JavaScriptC. DOM",
+      "definition": "C. DOM"
+    },
+    {
+      "term": "JavaScript uses what kind of interface to access the DOM structure?A. CSS3B. an APIC. HTML5",
+      "definition": "B. an API"
+    },
+    {
+      "term": "Which of these is not valid? (Hint, pay attention to if the method should return one thing, or many things...)A. document.getElementsById(idName)B. document.getElementsByClassName(className)C. document.getElementsByTagName(tagName)",
+      "definition": "A. document.getElementsById(idName)"
+    },
+    {
+      "term": "Which of the following is not a valid method for generating output to the screen? (Javascript)A. promptB. document.writeC. printD. alert",
+      "definition": "C. print"
+    },
+    {
+      "term": "Which of these options does NOT require the use of parentheses?A. promptB. document.writeC. console.logD. alertE. innerHTML",
+      "definition": "E. innerHTML"
+    },
+    {
+      "term": "Which of the following does not generate output directly to the screen?A. document.write(message);B. console.log(message);C. element.innerHTML = message;",
+      "definition": "B. console.log(message);"
+    },
+    {
+      "term": "How does prompt differ from alert?A. The alert will return a value, prompt does not.B. Only alert uses parentheses.C. The prompt will return a value, alert does not.D. Only prompt uses parentheses.",
+      "definition": "C. The prompt will return a value, alert does not."
+    },
+    {
+      "term": "Variables allow you to save data.A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "In JavaScript the keyword ___________ is used to declare a variableA. varB. varsC. typeD. types",
+      "definition": "A. var"
+    },
+    {
+      "term": "What does it mean that variables are case-sensitive?A. That all variables must use uppercase lettersB. That the computer does not think that the variables \"name\" and \"Name\" are the same thing.C. That all variables must use lowercase letters",
+      "definition": "B. That the computer does not think that the variables \"name\" and \"Name\" are the same thing."
+    },
+    {
+      "term": "Which of the following is not a valid variable name?A. 1variableB. oneVariableC. variableOneD. variable1",
+      "definition": "A. 1variable"
+    },
+    {
+      "term": "Which of the following is not a valid variable name?A. variable_2B. variable-2C. variable$2",
+      "definition": "B. variable-2"
+    },
+    {
+      "term": "What does mnemonic mean?A. That variable names should start with lowercase letters and use uppercase letters if the variable has multiple parts, e.g. firstName.B. That variable names should help describe the value being stored.C. That variable names should be as short as possible, preferably with no more than two or three characters.",
+      "definition": "B. That variable names should help describe the value being stored."
+    },
+    {
+      "term": "What is wrong with this code?var name = \"Mike\";\"Colleen\" = name;A. The variable declaration is illegal.B. This code is illegal and it doesn't make sense to have a non-variable (also called a constant) in the left-hand side (LHS) of an assignment statement.C. It is illegal to change the value stored in a variable.",
+      "definition": "B. This code is illegal and it doesn't make sense to have a non-variable (also called a constant) in the left-hand side (LHS) of an assignment statement."
+    },
+    {
+      "term": "What value is stored in name if the person hits the Cancel button on a prompt?var name = prompt(\"What is your name?\");A. 0B. garbage valueC. nullD. an empty string (\"\")",
+      "definition": "C. null"
+    },
+    {
+      "term": "What value is stored in name if the person hits the Okay button on a prompt before entering anything?var name = prompt(\"What is your name?\");A. an empty string (\"\")B. exceptionC. undefinedD. null",
+      "definition": "A. an empty string (\"\")"
+    },
+    {
+      "term": "To create a String variable, use quotes around the value you want to save.A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "Boolean variables store either true or false.A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "When a function returns a node from the DOM, it is of typeA. BooleanB. ObjectC. NumberD. String",
+      "definition": "B. Object"
+    },
+    {
+      "term": "A function that wants to return multiple values at once (such as document.getElementsByTagName) will return a/anA. NumberB. StringC. Array",
+      "definition": "C. Array"
+    },
+    {
+      "term": "Which of the following is not a valid operator?A. --B. ++C. +=D. =+E. ==F. ===G. **=",
+      "definition": "D. =+"
+    },
+    {
+      "term": "What value is returned by 17 % 5?A. ExceptionB. 2C. 3D. 0.85",
+      "definition": "B. 2"
+    },
+    {
+      "term": "What is the difference between == and === ?A. The == operator is the assignment operator, while === is the equality operator.B. The === operator only checks for equivalent values, not equivalent type too.C. The == operator only checks for equivalent values, not equivalent type too.",
+      "definition": "C. The == operator only checks for equivalent values, not equivalent type too."
+    },
+    {
+      "term": "What is the logical operator for AND?A. &amp;B. &amp;&amp;C. ANDD. and",
+      "definition": "B. &amp;&amp;"
+    },
+    {
+      "term": "JavaScript code must be placed in the &lt;head&gt; section of the document.A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "Which tag is used to let the browser know that it is about to see JavaScript code?A. scriptB. headC. jsD. javascript",
+      "definition": "A. script"
+    },
+    {
+      "term": "Which is the correct syntax to change the contents of the HTML element below?&lt;p id = \"quiz\"&gt;This is a quiz. &lt;/p&gt;A. #quiz.innerHTML=\"New content!!\";B. document.getElementsByTagName('p').innerHTML =\"New content!!\";C. document.getElementById('quiz').innerHTML =\"New content!!\";D. quiz.innerHTML=\"New content!\";",
+      "definition": "C. document.getElementById('quiz').innerHTML =\"New content!!\";"
+    },
+    {
+      "term": "Where can you put JavaScript?A. In the &lt;head&gt; sectionB. In the &lt;body&gt; sectionC. In an external fileD. In B and C aboveE. In A, B and C above",
+      "definition": "E. In A, B and C above"
+    },
+    {
+      "term": "Which attribute is used to link to an external JavaScript file?A. file; e.g., file = \"extFile.js\"B. href; e.g., href = \"extFile.js\"C. script; e.g., script = \"extFile.js\"D. src; e.g., src = \"extFile.js\"",
+      "definition": "D. src; e.g., src = \"extFile.js\""
+    },
+    {
+      "term": "Which word is used to define a function in JavaScript?A. functionB. funcC. define",
+      "definition": "A. function"
+    },
+    {
+      "term": "Which of the following best defines the relationship between defining a function and calling a function?A. A function can be defined multiple times in a single fileB. A function can be called multiple times in a single file",
+      "definition": "B. A function can be called multiple times in a single file"
+    },
+    {
+      "term": "Consider the following code:&lt;body&gt; &lt;p&gt; This is paragraph one &lt;/p&gt; &lt;p onclick = \"Hello()\"&gt; This is paragraph two &lt;/p&gt;&lt;/body&gt;The function Hello() will be called every time:A. The user clicks on any paragraph on the pageB. The user places his/her mouse over any paragraph on the pageC. The user clicks on the second paragraph on the pageD. A and CE. The function is never called.",
+      "definition": "C. The user clicks on the second paragraph on the page"
+    },
+    {
+      "term": "What is wrong with this function definition?function Hello();{ alert(\"Hello\"); document.write(\"Hello on the screen\");}A. The fact that you are outputting the message twiceB. The semicolon after Hello()C. You can't use document.write after using an alert.",
+      "definition": "B. The semicolon after Hello()"
+    },
+    {
+      "term": "Which is the correct syntax to change the contents of the HTML element below?&lt;p id = \"quiz\"&gt;This is a quiz. &lt;/p&gt;A. document.getElementsByTagName('p').innerHTML(\"New content!\");B. document.getElementById('quiz').innerHTML = \"New content!\";C. document.getElementById('quiz').innerHTML(\"New content!\");D. document.getElementsByTagName('p').innerHTML = \"New content!\";",
+      "definition": "B. document.getElementById('quiz').innerHTML = \"New content!\";"
+    },
+    {
+      "term": "Where can you put JavaScript?A. Just in the &lt;body&gt; sectionB. In the head and body sectionC. Just in the &lt;head&gt; section",
+      "definition": "B. In the head and body section"
+    },
+    {
+      "term": "Built-in JavaScript functions (alert, prompt, etc) cannot be mixed in with other HTML code unless you use the \"script\" tag.A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "Which of the following is the proper way to link to an external JavaScript file?#Note: cannot use \"script tag\" in quizlet, so I used &lt;.script&gt; insteadA. &lt;.script file = \"file.js\"&gt;&lt;/.script&gt;B. &lt;.script src = \"file.js\"&gt;&lt;/.script&gt;C. &lt;.script&gt;\"file.js\"&lt;/.script&gt;D. &lt;.script = \"file.js\"&gt;&lt;/.script&gt;E. &lt;.script href=\"file.js\"&gt;&lt;/.script&gt;",
+      "definition": "B. &lt;.script src = \"file.js\"&gt;&lt;/.script&gt;"
+    },
+    {
+      "term": "Which word is used to define a function in JavaScript?A. scriptB. defineC. funcD. function",
+      "definition": "D. function"
+    },
+    {
+      "term": "If a function is defined twice, the first declaration will be called when used.A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "A function can be called multiple times in a single file.A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "You can define a function without calling it.A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "You can call a function without it being defined.A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "Conditional statements change the flow of execution in a program — the \"next\" line of code in the program is not always the next one that is executed.A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "What is true about this code?#Note: cannot use js syntax in quizlet, so I used on.click instead of onclick&lt;a href = \"http://www.umich.edu\" on.click = \"return true\"&gt;University of Michigan&lt;/a&gt;&lt;br/&gt;&lt;a href = \"#\" on.click = \"alert(this.href)\"&gt;University of Michigan &lt;/a&gt;&lt;br/&gt; &lt;a href = \"page2.html\" on.click = \"alert(this.href)\"&gt;University of Michigan &lt;/a&gt;&lt;br/&gt;A. Only the first link will take you to the University of Michigan website .B. Only the second link will take you to the University of Michigan website.C. Only the third link will take you to the University of Michigan website.D. None of the links will take you to the University of Michigan website.",
+      "definition": "A. Only the first link will take you to the University of Michigan website ."
+    },
+    {
+      "term": "What is true about this code?#Note: cannot use js syntax in quizlet, so I used on.click instead of onclick&lt;a href = \"http://www.umich.edu\" on.click = \"alert(this.href)\"&gt;University of Michigan&lt;/a&gt;&lt;br/&gt;&lt;a href = \"#\" on.click = \"alert(this.href)\"&gt;University of Michigan &lt;/a&gt;&lt;br/&gt; &lt;a href = \"page2.html\" on.click = \"alert(this.href)\"&gt;University of Michigan &lt;/a&gt;&lt;br/&gt;A. Only the first link will produce the alert \"http://www.umich.edu/\".B. Only the second link will produce the alert \"http://www.umich.edu/\".C. Only the third link will produce the alert \"http://www.umich.edu/\".D. None of the links will produce the alert \"http://www.umich.edu/\".",
+      "definition": "A. Only the first link will produce the alert \"http://www.umich.edu/\"."
+    },
+    {
+      "term": "Assume you have a page with four paragraph tags. What is the proper JavaScript code to change the content of the second paragraph to \"What does the Fox say?\"A. document.getElementsByTagName('p')[1].innerHTML = \"What does the Fox say?\"B. document.getElementById('p')[2].innerHTML = \"What does the Fox say?\"C. document.getElementById('second').innerHTML = \"What does the Fox say?\"D. document.getElementsByTagName('p').innerHTML = \"What does the Fox say?\"E. document.getElementByTagName('p')[2].innerHTML = \"What does the Fox say?\"",
+      "definition": "A. document.getElementsByTagName('p')[1].innerHTML = \"What does the Fox say?\""
+    },
+    {
+      "term": "Assume you have a page with four paragraph tags, one of which has the id \"second\". What is the proper JavaScript code to change the content of that paragraph to \"What does the Fox say?\"A. document.getElementById('second').innerHTML(\"What does the Fox say?\");B. document.getElementById('second').innerHTML = \"What does the Fox say?\"C. document.getElementById('second').innerHTML = \"What does the Fox say?\";D. document.getElementsById('second').innerHTML = \"What does the Fox say?\";",
+      "definition": "C. document.getElementById('second').innerHTML = \"What does the Fox say?\";"
+    },
+    {
+      "term": "How do you properly access the third element in an array variable named \"fruit\"?A. [fruit]3B. fruit[3]C. fruit_3D. None of the above",
+      "definition": "D. None of the above"
+    },
+    {
+      "term": "How do you properly access the first element in an array variable named \"fruit\"A. fruit[0]B. fruit[1]C. [fruit]0D. fruit_0",
+      "definition": "A. fruit[0]"
+    },
+    {
+      "term": "Which of the following is NOT a fluid measurementA. pxB. %C. remD. em",
+      "definition": "A. px"
+    },
+    {
+      "term": "Responsive Web Design is...A. Designing pages for the mobile view.B. Designing multiple pages, one for each type of major device (phone, tablet, laptop, and desktop)C. Designing pages for multiple platforms by incorporating fluid measurements and varying CSS rules.",
+      "definition": "C. Designing pages for multiple platforms by incorporating fluid measurements and varying CSS rules."
+    },
+    {
+      "term": "Adaptive design with dynamic serving is....A. Designing multiple pages, one for each type of major device (phone, tablet, laptop, and desktop)B. Designing pages for multiple platforms by incorporating fluid measurements and varying CSS rules.C. Designing pages for the mobile view.",
+      "definition": "A. Designing multiple pages, one for each type of major device (phone, tablet, laptop, and desktop)"
+    },
+    {
+      "term": "Which of the following is a true statement about using a separate \"m.\" site for your content?A. It is difficult to keep multiple versions of your site consistent. Any updates must be made in multiple places.B. Some search engines require a .m version of your site.C. Users have control over which version of the page they can see, regardless of the device they are using.",
+      "definition": "A. It is difficult to keep multiple versions of your site consistent. Any updates must be made in multiple places."
+    },
+    {
+      "term": "The mobile version of your web page should have the same capabilities of every other version of your site.A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "The mobile version of your web page should have the same layout of every other version of your site.A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "Which fluid measurement type returns a percentage of the viewport width?A. %B. remC. vminD. vw",
+      "definition": "D. vw"
+    },
+    {
+      "term": "Which fluid measurement type returns a percentage of the viewport height?A. %B. remC. vmaxD. vh",
+      "definition": "D. vh"
+    },
+    {
+      "term": "The fluid measurement % can only be used on non-textual elementsA. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "Responsive sites can have a mixture of fluid and absolute measurements.A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "Which of the following statements best describes what pixels, ems, and rems have in common?A. They are all units of measurement used to define the length of elements on a webpage.B. They are all fluid units of measurement that define the screen resolution of a page.C. They are all fluid units of measurement used to define the length of elements on a webpage.",
+      "definition": "A. They are all units of measurement used to define the length of elements on a webpage."
+    },
+    {
+      "term": "Which of the following measurements is relative to the size of its parent element?A. pxB. emC. rem",
+      "definition": "B. em"
+    },
+    {
+      "term": "If you have an element with the font size of 24px, and a child element inside with a font-size set to .5em, what is the font size of the child in px?A. 0.12pxB. 1.2pxC. 12px D. 120px",
+      "definition": "C. 12px"
+    },
+    {
+      "term": "If you have an element with the font size of 18px, and a child element inside with a font-size set to .5em, what is the font size of the child in px?A. 0.9pxB. 9pxC. 90pxD. 900px",
+      "definition": "B. 9px"
+    },
+    {
+      "term": "If you have an element with the font size of 32px, and a child element inside with a a font-size set to 2em, what is the font size of the child in px?A. 0.64pxB. 6.4pxC. 64pxD. 640px",
+      "definition": "C. 64px"
+    },
+    {
+      "term": "An _______ is the size of type as computed relative to the type size of the parent element.A. ptB. remC. emD. pc",
+      "definition": "C. em"
+    },
+    {
+      "term": "A _______ is the size of type as computed relative to the type size of the top level \"html\" element rather than a parent element.A. ptB. remC. emD. pc",
+      "definition": "B. rem"
+    },
+    {
+      "term": "Which measurement is easier and comfortable for the designer/developer to use when coding their CSS but does not provide the best experience for the user?A. %B. remC. emD. px",
+      "definition": "D. px"
+    },
+    {
+      "term": "1 ____ = 1% of viewport height.A. vminB. vmaxC. vhD. rem",
+      "definition": "C. vh"
+    },
+    {
+      "term": "By default in most browsers, 1 rem = ____.A. 10pxB. 12pxC. 16pxD. 18px",
+      "definition": "C. 16px"
+    },
+    {
+      "term": "Consider the following CSS rules:div{ width: 80%;}@media all and (min-width: 500px){ div{ width: 25%; }}What is the width of any div elements on a 350px screen?A. 80%B. 100%C. 25%",
+      "definition": "A. 80%"
+    },
+    {
+      "term": "Consider the following CSS rules:div{ width: 80%;}@media all and (min-width: 500px){ div{ width: 25%; }}What is the width of any div elements on a 750px screen?A. 25%B. 100%C. 80%",
+      "definition": "A. 25%"
+    },
+    {
+      "term": "Consider the following CSS rules:@media all and (min-width: 500px){ div{ width: 25%; }}div{  width: 80%;}What is the width of any div elements on a 750px screen?A. 100%B. The div won't display since media queries must go at the bottom of the screen.C. 80%D. 25%",
+      "definition": "C. 80%"
+    },
+    {
+      "term": "Consider the following CSS rule:div{ width: 80%;}@media print { div{ width: 25%; }}Which of the following is a true statement?A. The div elements will only visible only when the page is printedB. The div elements will have a width of 80% only when the page is printedC. The div elements will have a width of 25% only when the page is printed",
+      "definition": "C. The div elements will have a width of 25% only when the page is printed"
+    },
+    {
+      "term": "Which of the following code segments will keep people from being able to zoom in or out on your content?A. &lt;meta name = 'viewport' content='width=device-width, initial-scale=1, maximum-scale = 1'&gt;B. &lt;meta name = 'viewport' content='width=device-width, initial-scale=1'&gt;C. It is impossible to lock the zoom ability",
+      "definition": "A. &lt;meta name = 'viewport' content='width=device-width, initial-scale=1, maximum-scale = 1'&gt;"
+    },
+    {
+      "term": "Breakpoints often correspond with common screen sizes for phones, tablets, and laptops.A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "Wireframes should...A. specify the layout, color, and content of your pagesB. specify the layout and content of your pagesC. specify the layout of your pages",
+      "definition": "B. specify the layout and content of your pages"
+    },
+    {
+      "term": "A key component of your wireframes should testA. interactionB. color schemesC. code syntax",
+      "definition": "A. interaction"
+    },
+    {
+      "term": "Which of the following is a deprecated media type -- meaning they are omitted in later versions. (You will need to search for this online it is not in the notes. But a lot of what you do with web design will require a little searching!)A. allB. brailleC. speechD. printE. screen",
+      "definition": "B. braille"
+    },
+    {
+      "term": "Consider the following code using Bootstrap 3:&lt;div class = \"col-md-3 col-lg-7\"&gt;In an xs viewport the div will be _____ columns wide.A. 10B. 3C. 7D. 12",
+      "definition": "D. 12"
+    },
+    {
+      "term": "Consider the following code using Bootstrap 3:&lt;div class = \"col-sm-2 col-lg-4\"&gt;In a sm viewport the div will be _____ columns wideA. 2B. 4C. 6D. 12",
+      "definition": "A. 2"
+    },
+    {
+      "term": "Consider the following code using Bootstrap 3:&lt;div class = \"col-md-3 col-lg-7\"&gt;In a md viewport the div will be _____ columns wide.A. 3B. 7C. 10D. 12",
+      "definition": "A. 3"
+    },
+    {
+      "term": "Consider the following code using Bootstrap 3:&lt;div class = \"col-sm-2 col-lg-4\"&gt;In a lg viewport the div will be _____ columns wide.A. 2B. 4C. 6D. 12",
+      "definition": "B. 4"
+    },
+    {
+      "term": "Consider the following code using Bootstrap 3:&lt;div class = \"col-md-3 col-lg-7\"&gt;In a sm viewport the div will be _____ columns wide.A. 3B. 7C. 10D. 12",
+      "definition": "D. 12"
+    },
+    {
+      "term": "Consider the following code using Bootstrap 3:&lt;div class = \"col-sm-2 col-lg-4\"&gt;In a md viewport the div will be _____ columns wide.A. 2B. 4C. 6D. 12",
+      "definition": "A. 2"
+    },
+    {
+      "term": "True or False, Boostrap is mobile-firstA. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "The Bootstrap 3 grid system is based on how many columns?A. 5B. 6C. 10D. 12",
+      "definition": "D. 12"
+    },
+    {
+      "term": "A standard navigation pill is created with:A. &lt;nav class=\"nav nav-pills\"&gt;B. &lt;ul class=\"nav pills\"&gt;C. &lt;ul class=\"nav-pills\"&gt;D. &lt;ul class=\"nav nav-pills\"&gt;",
+      "definition": "D. &lt;ul class=\"nav nav-pills\"&gt;"
+    },
+    {
+      "term": "True or False, the Bootstrap grid system works across multiple devices.A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "Which of the following bootstrap classes are used to create a justified tabs navigation? (Reminder, \"justified\" means that they grow/shrink to take up the full width of the screen.)A. &lt;ul class=\"nav nav-tabs nav-stacked\"&gt;B. &lt;ul class=\"nav nav-tabs nav-justified\"&gt;C. &lt;ul class=\"nav nav-tabs\"&gt;D. &lt;ul class=\"nav nav-tabs justified\"&gt;",
+      "definition": "B. &lt;ul class=\"nav nav-tabs nav-justified\"&gt;"
+    },
+    {
+      "term": "Which of the following bootstrap classes are used to add a dropdown menu?A. &lt;ul class=\"nav nav-pills dropdown\"&gt;B. &lt;ul class=\"dropdown-menu\"&gt;C. &lt;nav class=\"dropdown-menu\"&gt;",
+      "definition": "B. &lt;ul class=\"dropdown-menu\"&gt;"
+    },
+    {
+      "term": "Consider the following code using Bootstrap 3:&lt;div class = \"col-sm-2 col-lg-4\"&gt;In an xs viewport the div will be _____ columns wide.A. 2B. 4C. 6D. 12",
+      "definition": "D. 12"
+    },
+    {
+      "term": "Consider the following code using Bootstrap 3:&lt;div class = \"col-sm-6 col-lg-4\"&gt;In a sm viewport the div will be _____ columns wide.A. 4B. 6C. 10D. 12",
+      "definition": "B. 6"
+    },
+    {
+      "term": "Consider the following code using Bootstrap 3:&lt;div class = \"col-md-4 col-lg-7\"&gt;In a md viewport the div will be _____ columns wide.A. 4B. 7C. 11D. 12",
+      "definition": "A. 4"
+    },
+    {
+      "term": "Consider the following code using Bootstrap 3:&lt;div class = \"col-lg-2 col-sm-5\"&gt;In a lg viewport the div will be _____ columns wide.A. 2B. 5C. 7D. 12",
+      "definition": "A. 2"
+    },
+    {
+      "term": "True or false, Bootstrap is a framework for back-end web development.A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "True or false, Bootstrap is a framework for front-end web development.A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "Bootstrap uses ...A. HTMLB. CSSC. JavaScriptD. HTML &amp; CSSE. HTML, CSS &amp; JavaScript",
+      "definition": "E. HTML, CSS &amp; JavaScript"
+    },
+    {
+      "term": "Which of the following is a benefit of using the Bootstrap CDN?A. You always are linked to the latest Bootstrap code.B. You are able to customize the Bootstrap values which you can not do with a local version of the code.C. Using the CDN is the only way to use Bootstrap for free.",
+      "definition": "A. You always are linked to the latest Bootstrap code."
+    },
+    {
+      "term": "True or False, with Bootstrap you need to change your HTML code to utilize the Bootstrap classes.A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "What the URL is for the Bootstrap 3 website?A. http://bootstrap3.com/B. http://bootstrap.com/C. http://getbootstrap.com/D. http://getbootstrap3.com/",
+      "definition": "C. http://getbootstrap.com/"
+    },
+    {
+      "term": "If you are using an editor (not CodePen) you will need to reference Bootstrap resources where?A. In the body with a link to jQuery and JavaScriptB. In the head element - with a link to the css - and again at the bottom of the body with a link to jQuery and JavaScriptC. In the body section - with a link to the css and js filesD. In the head element - with a link to the css and js files",
+      "definition": "B. In the head element - with a link to the css - and again at the bottom of the body with a link to jQuery and JavaScript"
+    },
+    {
+      "term": "Which of the following is NOT a fluid measurementA. %B. vwC. pxD. emE. rem",
+      "definition": "C. px"
+    },
+    {
+      "term": "Designing multiple pages, one for each type of major device (phone, tablet, laptop, and desktop) is calledA. Multi-site designB. the .m paradigmC. Adaptive Design",
+      "definition": "C. Adaptive Design"
+    },
+    {
+      "term": "Consider the following code where the font-size of a div is 32px, the font-size of a paragraph is .5em, and the font size of a span element is .5em.&lt;div&gt; &lt;p&gt; Here, there.. How big is the &lt;span&gt;font&lt;/span&gt;? &lt;p&gt;&lt;/div&gt;What is the font-size of the span element in px?A. 8B. 16C. 32D. 160",
+      "definition": "A. 8"
+    },
+    {
+      "term": "Consider the following CSS rules:div{ width: 25%;}@media all and (min-width: 500px){ div{ width: 50%; }}What is the width of any div elements on a 450px screen?A. 100%B. 50%C. 25%",
+      "definition": "C. 25%"
+    },
+    {
+      "term": "Which Bootstrap class will apply a striped look to a Bootstrap table?A. striped-tableB. table-stripedC. table-strippedD. striped",
+      "definition": "B. table-striped"
+    },
+    {
+      "term": "If you created a site with a Bootstrap drop-down menu and it is visible, but not functioning, the problem is probably with...A. The link to the Bootstrap JavaScript code.B. The link to the Bootstrap HTML code.C. The link to the Bootstrap CSS code.",
+      "definition": "A. The link to the Bootstrap JavaScript code."
+    },
+    {
+      "term": "Consider the following code using Bootstrap 3:&lt;div class = \"col-xs-7 col-lg-2\"&gt;A. 2B. 7C. 9D. 12",
+      "definition": "B. 7"
+    },
+    {
+      "term": "Which of the following is a recommended way to incorporate Bootstrap into your code?A. Use a link to the Content Delivery NetworkB. Use a link to the Bootstrap 3 site.",
+      "definition": "A. Use a link to the Content Delivery Network"
+    },
+    {
+      "term": "Which of the following code segments will create two equal columns?A. &lt;div class=\"row\"&gt; &lt;div class=\"col-sm-4\"&gt;.col-sm-4&lt;/div&gt; &lt;div class=\"col-sm-8\"&gt;.col-sm-8&lt;/div&gt;&lt;/div&gt;B. &lt;div class=\"row\"&gt; &lt;div class=\"col-sm-4\"&gt;.col-sm-4&lt;/div&gt; &lt;div class=\"col-sm-4\"&gt;.col-sm-4&lt;/div&gt; &lt;div class=\"col-sm-4\"&gt;.col-sm-4&lt;/div&gt;&lt;/div&gt;C. &lt;div class=\"row\"&gt; &lt;div class=\"col-sm-6\"&gt;.col-sm-4&lt;/div&gt; &lt;div class=\"col-sm-6\"&gt;.col-sm-4&lt;/div&gt;&lt;/div&gt;D. &lt;div class=\"row\"&gt; &lt;div class=\"col-sm-2\"&gt;.col-sm-4&lt;/div&gt; &lt;div class=\"col-sm-8\"&gt;.col-sm-4&lt;/div&gt; &lt;div class=\"col-sm-2\"&gt;.col-sm-4&lt;/div&gt;&lt;/div&gt;",
+      "definition": "C. &lt;div class=\"row\"&gt;"
     }
   ]
 }
