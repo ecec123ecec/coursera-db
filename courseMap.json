@@ -122,8 +122,14 @@
     "related": []
   },
   "IFT201c": {
-    "status": "ongoing",
-    "related": []
+    "status": "done",
+    "related": [
+      "/introduction-to-futures-thinking",
+      "/forecasting-skills",
+      "/simulation-skills",
+      "/collaborative-foresight",
+      "/urgent-optimism"
+    ]
   },
   "LAB221c": {
     "status": "ongoing",
@@ -146,17 +152,24 @@
     "status": "ongoing",
     "related": []
   },
-  "MKT205c": {
-    "status": "ongoing",
-    "related": []
-  },
   "MSM201c": {
     "status": "ongoing",
     "related": []
   },
-  "MKT208c": {
+  "MKT205c": {
     "status": "ongoing",
     "related": []
+  },
+  "MKT208c": {
+    "status": "done",
+    "related": [
+      "/what-is-social",
+      "/importance-of-listening",
+      "/nurture-market-strategies",
+      "/social-imc",
+      "/business-of-social",
+      "/social-marketing-capstone"
+    ]
   },
   "NLP301c": {
     "status": "ongoing",
@@ -215,7 +228,7 @@
     ]
   },
   "SSL101c": {
-    "status": "done",
+    "status": "done (out nhiều 😥)",
     "related": [
       "/digital-literacy",
       "/problem-solving-skills",
@@ -253,8 +266,13 @@
     "related": ["/html", "/introcss", "/javascript", "/responsivedesign"]
   },
   "WDU202c": {
-    "status": "ongoing",
-    "related": []
+    "status": "done",
+    "related": [
+      "/visual-elements-user-interface-design",
+      "/ux-design-fundamentals",
+      "/web-design-strategy",
+      "/web-design-wireframes-prototypes"
+    ]
   },
   "WDU203c": {
     "status": "done",
