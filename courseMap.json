@@ -149,8 +149,12 @@
     ]
   },
   "LAW201c": {
-    "status": "ongoing",
-    "related": []
+    "status": "done",
+    "related": [
+      "/eu-competition-law",
+      "/eu-law-doing-business",
+      "/european-law-fundamentals"
+    ]
   },
   "MSM201c": {
     "status": "ongoing",
