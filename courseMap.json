@@ -189,8 +189,13 @@
     ]
   },
   "OBE102c": {
-    "status": "ongoing",
-    "related": []
+    "status": "done",
+    "related": [
+      "/visionary-leadership-meaning-maker",
+      "/leadership-adapt-your-style",
+      "/organisational-behaviour-know-your-people",
+      "/organisational-design-know-your-organisation"
+    ]
   },
   "PMG201c": {
     "status": "done",
