@@ -18,7 +18,7 @@
   "quizSrc": [
     {
       "term": "The PMBOK® Guide and in the preceding lesson describes 10 Project Management Knowledge Areas. Identify 3 out of the 10:",
-      "definition": "A. Quality, Process, Scope"
+      "definition": "A. Cost, Scope, Time"
     },
     {
       "term": "A Communications Management Plan does the following:A. Lays out the approach and method for delivering information effectively and efficiently.B. Coordinates the communication between project leaders and uninterested project membersC. Lays out a plan on how to communicate with your Project Sponsor and other organizationsD. Coordinates an effort to communicate in meetings effectively",
@@ -305,6 +305,10 @@
       "definition": "B. An uncertain event that, if it occurs, will have a positive or negative effect on at least one project objective."
     },
     {
+      "term": "In a project context, risk is defined as:A. An uncertain event that, if it occurs, will have a negative affect on at least one project objective. B. An uncertain event that, if it occurs, will have a positive or negative effect on at least one project objective. C. The probability of an event having a positive or negative effect on at least one project objective.D. The impact of not completing the project on time and within budget.",
+      "definition": "B. An uncertain event that, if it occurs, will have a positive or negative affect on at least one project objective."
+    },
+    {
       "term": "In a project schedule, the sequence of activities which cannot be delayed during the course of the project without extending the project end date is referred to as the:A. Schedule baselineB. Critical pathC. Action planD. Slack line",
       "definition": "B. Critical path"
     },
@@ -518,7 +522,7 @@
     },
     {
       "term": "True or False: A Work Breakdown Structure (WBS) is a deliverable-oriented hierarchical decomposition of the work to be executed by the project team.A. FalseB. True",
-      "definition": "A. False"
+      "definition": "A. True"
     },
     {
       "term": "True or False: A positive risk is an opportunity; a negative risk is a threat.A. TrueB. False",
@@ -653,6 +657,10 @@
       "definition": "C. A technique that involves estimating the cost of individual work packages or individual schedule activities with the lowest level of detail."
     },
     {
+      "term": "What description defines Bottoms Up Estimating?A. A technique that analyzes activities on past projects and using them as a basis for estimating costs.B. A technique that uses a mathematical model to estimate costs.C. A technique that involves estimating the cost of individual work packages or individual schedule activities with the lowest level of detail.",
+      "definition": "C. A technique that involves estimating the cost of individual work packages or individual schedule activities with the lowest level of detail."
+    },
+    {
       "term": "What does RAM stand for:A. Responsibility Ambiguity MatrixB. Responsibility Assignment MatrixC. Responsibility Activity MatrixD. Responsibility Action Matrix",
       "definition": "B. Responsibility Assignment Matrix"
     },
@@ -761,6 +769,10 @@
       "definition": "C. Historical cost relationships may no longer applicable."
     },
     {
+      "term": "You are building an apartment complex with four, 10,000 square foot buildings based on the same drawings you used in another city two years ago. What is the danger of estimating using the same parametric model of $50 per square foot?A. It will take much more time than a bottoms up estimating.B. It's not very easy to scale.C. Historical cost relationships may no longer applicable.D. The technical design is unstable.",
+      "definition": "C. Historical cost relationships may no longer be applicable."
+    },
+    {
       "term": "You are conducting the source selection analysis for an office building renovation project. One project requirement involves setting up the WiFi system once the hardware has been installed. The value of this procurement is relatively small, and you have decided that a full selection process does not make sense. With three prospective vendors listed as pre-approved sellers, what is the best course of action?A. Utilize a sole source for the procurement B. Use a firm fixed price contract C. Establish a qualifications only selection method D. Conduct a bidder conference",
       "definition": "C. Establish a qualifications only selection method"
     },
@@ -857,6 +869,10 @@
       "definition": "D. Analogous"
     },
     {
+      "term": "You are preparing an estimate of the cost for an IT system expansion for a new branch office location. It is a very similar to the IT system expansion undertaken for a branch office that opened six months ago. Which technique might you use if you are pushed for a quick estimate?A. Bottoms upB. ParametricC. ProbabilisticD. Analogous",
+      "definition": "D. Analogous"
+    },
+    {
       "term": "You are the project manager for the construction of a new thin-crust pizza vending machine. You take all the information gathered in the project management plan to date and begin to develop a project schedule. When you reach the activity labeled as 6.5.3, you are unsure if a refrigeration specialist is needed for the installation of the cooling mechanism for the pizza dough. What project document would you reference in order to get information on the resources required for installing the cooling mechanism?A. Resource calendar B. Resource management plan C. Activity attributes D. Procurement management plan",
       "definition": "C. Activity attributes"
     },
@@ -866,6 +882,10 @@
     },
     {
       "term": "You have a stakeholder on your project who has a reputation as being very difficult. He dislikes change and argues against any suggested updates to the way in which his department does their work. The project you are leading is going to significantly impact at least two processes used by his team. Which do you think is the best response to the situation?A. Seek him out and begin to open communications with him about what is changing and why.B. Start the project when you know he's out of town and send him a meeting invite to cover your tracks.C. Ignore him and start the project without him. You will include him when you absolutely have to.",
+      "definition": "A. Seek him out and begin to open communications with him about what is changing and why."
+    },
+    {
+      "term": "You have a stakeholder on your project who has a reputation as being very difficult. He dislikes change and argues against any suggested updates to the way in which his department does their work. The project you are leading is going to significantly impact at least two processes used by his team., Which do you think is the best response to the situation?A. Seek him out and begin to open communications with him about what is changing and why.B. Start the project when you know he's out of town and send him a meeting invite to cover your tracks.C. Ignore him and start the project without him. You will include him when you absolutely have to.",
       "definition": "A. Seek him out and begin to open communications with him about what is changing and why."
     },
     {
