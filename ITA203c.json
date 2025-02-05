@@ -1,6 +1,4 @@
 {
-  "quizUrls": [],
-  "strictQuizMode": true,
   "quizSrc": [
     {
       "term": "If a company has an IT investment prioritization process, the company is more likely to achieve IT - Business alignment?a. Trueb. False",
@@ -255,7 +253,7 @@
       "definition": "a. Firm wide infrastructure"
     },
     {
-      "term": "In the service center approach to IT chargeback, IT units offer services for a price where the price is set to recover the IT unit's costs of providing the service.a. Trueb. False",
+      "term": "In the service center approach to IT chargeback, IT units offer services for a price where the price is set to recover the IT unit’s costs of providing the service. a. Trueb. False",
       "definition": "a. True"
     },
     {
@@ -284,6 +282,10 @@
     },
     {
       "term": "In the demand-driven model of user adoption, if users believe that the new system is likely to lead to improvement in their individual performance, they are more likely to adopt the new system?a. Trueb. False",
+      "definition": "a. True"
+    },
+    {
+      "term": "If users believe that leaning to use the new information system is going to cost significant time and effort on their part, it is rational on their part to resist the implementation of the new system.",
       "definition": "a. True"
     },
     {
@@ -336,6 +338,10 @@
     },
     {
       "term": "Users find it easier to learn from and solve problems with the help of peers and coworkers than with help from external consultants and the internal help desk.a. Trueb. False",
+      "definition": "a. True"
+    },
+    {
+      "term": "Users find it easier to learn from and solve problems with the help of peers and coworkers than with help form external consultants and the internal help desk.a. Trueb. False",
       "definition": "a. True"
     },
     {
@@ -468,7 +474,7 @@
     },
     {
       "term": "What are the two major types of relationships among use cases?a. &lt;&lt;extend&gt;&gt; &lt;&lt;include&gt;&gt;b. &lt;&lt;exclude&gt;&gt; &lt;&lt;include&gt;&gt;",
-      "definition": "a. &lt;&lt;extend&gt;&gt; &lt;&lt;include&gt;&gt;"
+      "definition": "a. <<extend>> <<include>>"
     },
     {
       "term": "What is used to describe a person, place, object, event or concept about which data are to be maintained?a. Entityb. Crow's foot",
@@ -512,7 +518,7 @@
     },
     {
       "term": "Business Process Model and Notation includes which of the following components?a. A start event, sequence flow, task, gateway \"decision\", and end eventb. A boundary, external entities, inputs, and outputs",
-      "definition": "a. A start event, sequence flow, task, gateway \"decision\", and end event"
+      "definition": "a. A start event, sequence flow, task, gateway “decision”, and end event"
     },
     {
       "term": "What refers to the maximum number of times an instance in one entity can be associated with instances in the related entity?a. Modularityb. Cardinality",
@@ -584,7 +590,7 @@
     },
     {
       "term": "Which is the best way to describe an Alternative Matrix?a. Since it considers every technical criteria for a system with a corresponding weight, the resulting scores of an Alternative Matrix for a given system determine which alternative is objectively the best decision for the firm to make as it is comprehensive of every factor going into that system's development.b. The scores of an Alternative Matrix should only be considered as a factor in the decision-making process for a firm, and should be weighed against other external criteria by an experienced leader responsible for the system's development.",
-      "definition": "b. The scores of an Alternative Matrix should only be considered as a factor in the decision-making process for a firm, and should be weighed against other external criteria by an experienced leader responsible for the system's development."
+      "definition": "b. The scores of an Alternative Matrix should only be considered as a factor in the decision-making process for a firm, and should be weighed against other external criteria by an experienced leader responsible for the system’s development."
     },
     {
       "term": "Online retailers frequently implement systems that recommend other products to customers based on their previous purchase history, what time of year they made the purchase, what other customers frequently bought in addition to the customers purchase, and other data relating to the purchase. This is an example of:a. Business Intelligence Architectureb. Operational Architecture",
@@ -595,7 +601,7 @@
       "definition": "a. True"
     },
     {
-      "term": "Which of the following is the definition of \"scope creep\"?a. When ERP management locks a firm into one ecosystem, resulting in all data being managed under the same vendor.b. When additional features are requested during the implementation phase of a project, thus increasing the cost and time required to complete said project.",
+      "term": "Which of the following is the definition of “scope creep”? a. When ERP management locks a firm into one ecosystem, resulting in all data being managed under the same vendor.b. When additional features are requested during the implementation phase of a project, thus increasing the cost and time required to complete said project.",
       "definition": "b. When additional features are requested during the implementation phase of a project, thus increasing the cost and time required to complete said project."
     },
     {
@@ -608,7 +614,7 @@
     },
     {
       "term": "What are some of the roles of the Project Manager during ERP implementation? a. Assess the risks of the implementation in terms of cost and durationb. Secure resources for the implementation team c. Purchase and select the right ERP system d. A and B only",
-      "definition": "d. A and B only"
+      "definition": "D. A and B only"
     },
     {
       "term": "All Fortune 1000 companies use some form of ERP systems.a. Trueb. False",
@@ -620,15 +626,15 @@
     },
     {
       "term": "What are some difficulties faced when executing business processes?a. A big company should not face any difficulties in their business process, only small companies face such issuesb. Information does not flow between business units, leading to bad decisions being madec. There are multiple business units, which makes coordination of effort difficultd. B and C only",
-      "definition": "d. B and C only"
+      "definition": "D. B and C only"
     },
     {
       "term": "Why do silo effect arise?a. Workers become highly specialized in their work area, and do not know about the capabilities and objectives of other departmentsb. Workers in each department have different incentives schemes and do not optimize their efforts towards the overall good of the companyc. Workers are not paid enough for their workd. A and B only",
-      "definition": "d. A and B only"
+      "definition": "D. A and B only"
     },
     {
       "term": "What are the two definitions of Enterprise System mentioned in the class?a. ERP is an expensive systems used by large companiesb. ERP is a system that supports end-to-end business processesc. ERP is a technology strategy in which operational business transactions are linked to financial transactionsd. A and B onlye. B and C only",
-      "definition": "e. B and C only"
+      "definition": "E. B and C only"
     },
     {
       "term": "'R' in SAP R/3 stands for 'real-time'.a. Trueb. False",
@@ -636,7 +642,7 @@
     },
     {
       "term": "What are the three layers in SAP R/3?a. Database, Security, Presentationb. Database, Application, Networkc. Database, Application, Presentationd. Database, Security, Network",
-      "definition": "c. Database, Application, Presentation"
+      "definition": "C. Database, Application, Presentation"
     },
     {
       "term": "Data created in SAP can be deleted easily.a. Trueb. False",
@@ -644,11 +650,11 @@
     },
     {
       "term": "Users can access SAP via the following devices:a. PC desktopsb. Mobile phonesc. Tablet computersd. All of above",
-      "definition": "d. All of above"
+      "definition": "D. All of above"
     },
     {
       "term": "Which of the following are organizational data?a. Storage locationb. Clientc. Sales Organizationd. All of the above",
-      "definition": "d. All of the above"
+      "definition": "D. All of the above"
     },
     {
       "term": "Fields of master data change frequently.a. Trueb. False",
@@ -660,19 +666,19 @@
     },
     {
       "term": "Within SAP, how many main types of data are there?a. 2b. 3c. 4d. 5",
-      "definition": "b. 3"
+      "definition": "B. 3"
     },
     {
       "term": "A unique sale area is made up by a combination ofa. Sales organization, distribution channel, Divisionb. Sale organization, Material Master, Customer Masterc. Company, distribution channel, Sales organizationd. Company, distribution channel, Division",
-      "definition": "a. Sales organization, distribution channel, Division"
+      "definition": "A. Sales organization, distribution channel, Division"
     },
     {
       "term": "Why would companies want to have different sales areas in SAP?a. This is to allow companies to account for different product considerations when serving their customersb. This is to allow companies to account for the regional differences when serving their customersc. This is to allow companies to account for different characteristics of distribution channels when serving their customersd. All of above",
-      "definition": "d. All of above"
+      "definition": "D. All of above"
     },
     {
       "term": "What are instances of master data seen in the class?a. Companyb. Customerc. Factoryd. All of the above",
-      "definition": "b. Customer"
+      "definition": "B. Customer"
     },
     {
       "term": "Purchase order is an example of a master data.a. Trueb. False",
@@ -684,7 +690,7 @@
     },
     {
       "term": "What are possible scenarios in which delivery and billing documents are combined?a. Two separate deliveries to the same customer made on different days are consolidated into one billing documentb. Two separate deliveries to different customers made on different days are consolidated into one billing documentc. A delivery to a customer is being split into two billing documents to be paid by different departments of the customer companyd. A and C only",
-      "definition": "d. A and C only"
+      "definition": "D. A and C only"
     },
     {
       "term": "The SAP All-in-One ERP solution is good for large enterprises.a. Trueb. False",
@@ -692,15 +698,15 @@
     },
     {
       "term": "What is true of the SAP By-Design ERP?a. It is meant for small-mid size enterprisesb. It is meant for large size enterprisesc. It is provided as a software-as-a-service (cloud ERP)d. A and C only",
-      "definition": "d. A and C only"
+      "definition": "D. A and C only"
     },
     {
       "term": "Which of the following are offerings provided by Oracle?a. Sage ERPb. JD Edwardsc. Peoplesoft ERPd. B and C only",
-      "definition": "d. B and C only"
+      "definition": "D. B and C only"
     },
     {
       "term": "According to the Clash of Titan report presented in the video, which ERP vendor has the market share?a. Oracleb. Inforc. Microsoft Dynamicsd. SAP",
-      "definition": "d. SAP"
+      "definition": "D. SAP"
     },
     {
       "term": "Completion of vision in the magic quadrant refers to whether a ERP vendor/provider has a good understanding of the industry to provide ERP features that meets their future needs.a. Trueb. False",
@@ -708,35 +714,35 @@
     },
     {
       "term": "If my company has many specialized and sophisticated business processes, and is operating in a business environment causes rapid changes to business needs, what type of ERP should I shortlist based on the magic quadrant?a. Leadersb. Challengersc. Visionariesd. Niche Players",
-      "definition": "a. Leaders"
+      "definition": "A. Leaders"
     },
     {
       "term": "If I run a simple business that does not have complicated business processes and is not subjected to rapid changes in the business environment, I should shortlist ERPs from the _________ quadrant.a. Leadersb. Challengersc. Visionariesd. Niche Players",
-      "definition": "d. Niche Players"
+      "definition": "D. Niche Players"
     },
     {
       "term": "If a company buys all its ERP module from a single vendor, it is said to be pursuing aa. Best of Suite Strategyb. Best of Breed Strategyc. All of the above",
-      "definition": "a. Best of Suite Strategy"
+      "definition": "A. Best of Suite Strategy"
     },
     {
       "term": "What are the advantages of using a Best of Suite Strategy?a. Less risks in term of system integration as the modules are from the same vendorb. Less costly implementation cost as there is less integration complexityc. It provides the best features across all ERP offeringsd. A and B only",
-      "definition": "d. A and B only"
+      "definition": "D. A and B only"
     },
     {
       "term": "What are the advantages of using a Best of Breed Strategy?a. Less risks in term of system integration as the modules are from the same vendorb. Less costly implementation cost as there is less integration complexityc. It provides the best features across all ERP offeringsd. B and C only",
-      "definition": "c. It provides the best features across all ERP offerings"
+      "definition": "C. It provides the best features across all ERP offerings"
     },
     {
       "term": "In the opening case of Target's ERP implementation, what were the bad managerial decisions made that led to a failed outcome?a. Top management decided to pursue an aggressive and tight implementation timeline.b. When populating the ERP system, mid-managers utilized the benchmark figures from the US operations to forecast the sales demand in Canadac. Appropriate checks and balances are not in place, leading store managers to turn off auto-replenishment feature in the system.d. All of above",
-      "definition": "d. All of above"
+      "definition": "D. All of above"
     },
     {
       "term": "Change Management is:a. People side of technology projectb. A systematic approach to dealing with changec. Only appropriate for ERP-related projectsd. A and B only",
-      "definition": "d. A and B only"
+      "definition": "D. A and B only"
     },
     {
       "term": "When assessing the possible areas of changes during an ERP implementation, it is important to consider elements ofa. Peopleb. Processc. Technologyd. All of above",
-      "definition": "d. All of above"
+      "definition": "D. All of above"
     },
     {
       "term": "Constant communication of project benefits to the users and a clear illustration of milestones are useful change management techniques for keeping motivation levels high during ERP implementation.a. Trueb. False",
@@ -748,23 +754,23 @@
     },
     {
       "term": "What are indicators of ERP implementation success?a. On time implementationb. On budget implementationc. On scope implementationd. All of above.",
-      "definition": "d. All of above."
+      "definition": "D. All of above."
     },
     {
       "term": "A small company with small amount of capital that has finished implementing a small scale ERP system. The consulting team concludes that there are little risk of of go-live problems as the system does not involve complex interdependencies due to its small scale. What might be a good approach in the rollout of this system?a. Big Bangb. Phased Approach",
-      "definition": "a. Big Bang"
+      "definition": "A. Big Bang"
     },
     {
       "term": "A large company with operations in multiple countries has just finished upgrading its legacy system to an Oracle ERP system. The consultant team believes that the risk of go-live problems can be subtantial, given that there are multiple interdependencies across business units. What might be a good approach in the roll out of this system?a. Big Bangb. Phased Approach",
-      "definition": "b. Phased Approach"
+      "definition": "B. Phased Approach"
     },
     {
       "term": "A retail company has zero experience with ERP implementation. They have hired an external consultant to help them with the implementation of SAP. The retail company is very amendable to the recommendations provided by their consultants. What role should the consultants take on, in general?a. Foot soldiersb. Commandersc. Diplomats",
-      "definition": "b. Commanders"
+      "definition": "B. Commanders"
     },
     {
       "term": "A client company wanted to implement a large scale ERP system. The project scope appears to be highly uncertain and the client does not seem to know what features are to be included in the final deliverable. What would be a good pricing model to use here when charging the client?a. Fixed Priceb. Time and Material",
-      "definition": "b. Time and Material"
+      "definition": "B. Time and Material"
     },
     {
       "term": "Businesses can use virtualization technology to:a. Improve efficiencyb. Lower costc. Provide faster maintenance (d) All of the above",
@@ -780,18 +786,18 @@
     },
     {
       "term": "Which of the following statements is NOT true for web applications?a. Software runs on the web app provider's serverb. They can be accesses using a client's web browserc. Even if client machines can fail, the data and applications can be still accessed from another client device (d) Requires virtualization of the client's machine",
-      "definition": "(d) Requires virtualization of the client's machine"
+      "definition": "(d) Requires virtualization of the client’s machine"
     },
     {
       "term": "Which of the following is an example of a hypervisor?a. VMware ESXib. Citrix Xenserverc. Microsoft Hyper-V (d) All of the above",
       "definition": "(d) All of the above"
     },
     {
-      "term": "Which is the core technology behind \"cloud computing\"? a. HTTP (b) Virtualizationc. Thin clientsd. Remote Desktop",
+      "term": "Which is the core technology behind “cloud computing”? a. HTTP (b) Virtualizationc. Thin clientsd. Remote Desktop",
       "definition": "(b) Virtualization"
     },
     {
-      "term": "Google's cloud platform offering is a: (a) Public cloud b. Private cloudc. Hybrid cloudd. None of the above",
+      "term": "Google’s cloud platform offering is a: (a) Public cloud b. Private cloudc. Hybrid cloudd. None of the above",
       "definition": "(a) Public cloud"
     },
     {
@@ -832,7 +838,7 @@
     },
     {
       "term": "Which of the following pairing of technology to its coverage area is mismatched?a. Bluetooth - Wireless Personal Area Network (WPAN)b. GSM - Wireless Wide Area Network (WWAN) (c) WiFi - Wirelss Metropolitan Area Network (WMAN) d. CDMA - Wireless Wide Area Network (WWAN)",
-      "definition": "(c) WiFi - Wirelss Metropolitan Area Network (WMAN)"
+      "definition": "(c) WiFi – Wirelss Metropolitan Area Network (WMAN)"
     },
     {
       "term": "Which of the following is the primary technology used in a mobile payment system like Apple Pay?(a) Near Field Communication (NFC)b. QR codec. Radio Frequency Identification (RFID)d. None of the above",
@@ -847,7 +853,7 @@
       "definition": "(d) All of the above"
     },
     {
-      "term": "Denial of service (DOS) security attacks are intended to compromise a system's _______.a. Confidentiality (b) Availabilityc. Integrityd. Authenticity",
+      "term": "Denial of service (DOS) security attacks are intended to compromise a system’s _______.a. Confidentiality (b) Availabilityc. Integrityd. Authenticity",
       "definition": "(b) Availability"
     },
     {
@@ -872,7 +878,7 @@
     },
     {
       "term": "In case of digital signatures, which of the following statements will be true? (Digital signatures are not meant to be secret messages, instead they are used to demonstrate that the message must have originated from a particular sender who signed it).(a) The message will need to be encrypted using the sender's private key. Anyone can then use the sender's public key to decrypt it, and thereby verify that it must have been encrypted (signed) by that particular sender.b. The message will need to be encrypted using the sender's public key. Anyone can then use the sender's private key to decrypt it, and thereby verify that it must have been encrypted (signed) by that particular senderc. The message will need to be encrypted using the sender's private key. Anyone can then use the sender's private key to decrypt it, and thereby verify that it must have been encrypted (signed) by that particular sender.d. The message will need to be encrypted using the sender's public key. Anyone can then use the sender's public key to decrypt it, and thereby verify that it must have been encrypted (signed) by that particular sender.",
-      "definition": "(a) The message will need to be encrypted using the sender's private key. Anyone can then use the sender's public key to decrypt it, and thereby verify that it must have been encrypted (signed) by that particular sender."
+      "definition": "(a) The message will need to be encrypted using the sender’s private key. Anyone can then use the sender’s public key to decrypt it, and thereby verify that it must have been encrypted (signed) by that particular sender."
     },
     {
       "term": "Which of the following statements is NOT true about these cyber defense systems?a. Honeypots are legitimate parts of the site that are actually isolated and monitored, and act as traps for attackersb. Honeypots can be used to learn about organization's security weaknesses (c) Intrusion detection systems cannot look inside the contents of the data packets, and therefore only use traffic filtering rules.d. None of the above",

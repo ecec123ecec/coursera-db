@@ -98,8 +98,13 @@
     ]
   },
   "ITA203c": {
-    "status": "ongoing",
-    "related": []
+    "status": "done",
+    "related": [
+      "/is-it-governance",
+      "/analysis-for-business-systems",
+      "/enterprise-systems",
+      "/it-infrastructure-and-emerging-trends"
+    ]
   },
   "ITB302c": {
     "status": "ongoing",
@@ -118,8 +123,13 @@
     ]
   },
   "ITE303c": {
-    "status": "ongoing",
-    "related": []
+    "status": "done",
+    "related": [
+      "/ai-algorithm-limitations",
+      "/ai-data-bias",
+      "/ai-privacy-and-convenience",
+      "/ai-ethics-analysis"
+    ]
   },
   "IFT201c": {
     "status": "done",
