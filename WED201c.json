@@ -117,7 +117,7 @@
       "definition": "Wide Area Network"
     },
     {
-      "term": "The Request-Response Cycle… | is performed once for each requested page. | is an outdated process used by HTML 4.1 | may require several iterations of the Request-Response Cycle.",
+      "term": "The Request-Response Cycle... | is performed once for each requested page. | is an outdated process used by HTML 4.1 | may require several iterations of the Request-Response Cycle.",
       "definition": "may require several iterations of the Request-Response Cycle."
     },
     {
@@ -173,7 +173,7 @@
       "definition": "True"
     },
     {
-      "term": "Attributes consist of a name and a value connected by which symbol(s)? | , | ; | “” | =",
+      "term": "Attributes consist of a name and a value connected by which symbol(s)? | , | ; | \"\" | =",
       "definition": "="
     },
     {
@@ -205,7 +205,7 @@
       "definition": "alt"
     },
     {
-      "term": "It is good practice to start all of your alt text with “Image of a …” followed by a description. | True | False",
+      "term": "It is good practice to start all of your alt text with \"Image of a ...\" followed by a description. | True | False",
       "definition": "False"
     },
     {
@@ -221,8 +221,8 @@
       "definition": "PexelsOpens in a new tab | FreepikOpens in a new tab | OpenverseOpens in a new tab | EverypixelOpens in a new tab | PixabayOpens in a new tab | Wikimedia CommonsOpens in a new tab | Google Image SearchOpens in a new tab"
     },
     {
-      "term": "What is a potential issue when using both a height and width attribute on an image? | The image may appear skewed if the change in the height isn’t proportional to the change in the width | It is incorrect to include a height and a width, you can only include one. | It is incorrect to include a height or a width, you should never include size as an attribute.",
-      "definition": "The image may appear skewed if the change in the height isn’t proportional to the change in the width"
+      "term": "What is a potential issue when using both a height and width attribute on an image? | The image may appear skewed if the change in the height isn't proportional to the change in the width | It is incorrect to include a height and a width, you can only include one. | It is incorrect to include a height or a width, you should never include size as an attribute.",
+      "definition": "The image may appear skewed if the change in the height isn't proportional to the change in the width"
     },
     {
       "term": "Which attribute on an <a> anchor element specifies whether a hyperlink should be opened in the same window or a new one? | target | window | src | href",
@@ -305,7 +305,7 @@
       "definition": "if an image fails to render due to an incorrect URL | if the image format is not supported by the browser | if the image is blocked from being displayed"
     },
     {
-      "term": "It is better to skip the alt attribute altogether than include an empty alt attribute (alt = “”). | True | False",
+      "term": "It is better to skip the alt attribute altogether than include an empty alt attribute (alt = \"\"). | True | False",
       "definition": "False"
     },
     {
@@ -497,8 +497,8 @@
       "definition": "meta"
     },
     {
-      "term": "Which of the following code segments will keep people from being able to zoom in or out on your content? | 12<metaname=‘viewport’content=‘width=device-width,initial-scale=1,maximum-scale=1’>Information: Pressing Tab in the current editor will insert the tab character. Toggle this behavior by pressing Control+M. | 12<metaname=‘viewport’content=‘width=device-width,initial-scale=1’>Information: Pressing Tab in the current editor will insert the tab character. Toggle this behavior by pressing Control+M. | It is impossible to lock the zoom ability",
-      "definition": "12<metaname=‘viewport’content=‘width=device-width,initial-scale=1,maximum-scale=1’>Information: Pressing Tab in the current editor will insert the tab character. Toggle this behavior by pressing Control+M."
+      "term": "Which of the following code segments will keep people from being able to zoom in or out on your content? | 12<metaname='viewport'content='width=device-width,initial-scale=1,maximum-scale=1'>Information: Pressing Tab in the current editor will insert the tab character. Toggle this behavior by pressing Control+M. | 12<metaname='viewport'content='width=device-width,initial-scale=1'>Information: Pressing Tab in the current editor will insert the tab character. Toggle this behavior by pressing Control+M. | It is impossible to lock the zoom ability",
+      "definition": "12<metaname='viewport'content='width=device-width,initial-scale=1,maximum-scale=1'>Information: Pressing Tab in the current editor will insert the tab character. Toggle this behavior by pressing Control+M."
     },
     {
       "term": "Which of the following should you NOT do when creating a responsive page? | Design for multiple viewport orientations | Use CSS media queries to apply different styling for small and large screens | Use large fixed width elements. | None of the above",
@@ -621,7 +621,7 @@
       "definition": "False"
     },
     {
-      "term": "The possible values for the prefers-color-scheme CSS media feature include more, less, and custom. (Not sure? Here is a link to help you find the answer – prefers-color-scheme - CSS: Cascading Style Sheets | MDNOpens in a new tab.) | True | False",
+      "term": "The possible values for the prefers-color-scheme CSS media feature include more, less, and custom. (Not sure? Here is a link to help you find the answer - prefers-color-scheme - CSS: Cascading Style Sheets | MDNOpens in a new tab.) | True | False",
       "definition": "False"
     },
     {
@@ -629,7 +629,7 @@
       "definition": "False"
     },
     {
-      "term": "The possible values for the prefers-contrast CSS media feature include more, less, and custom. (Not sure? Here is a link to help you find the answer – prefers-contrast - CSS: Cascading Style Sheets | MDNOpens in a new tab.) | True | False",
+      "term": "The possible values for the prefers-contrast CSS media feature include more, less, and custom. (Not sure? Here is a link to help you find the answer - prefers-contrast - CSS: Cascading Style Sheets | MDNOpens in a new tab.) | True | False",
       "definition": "False"
     },
     {

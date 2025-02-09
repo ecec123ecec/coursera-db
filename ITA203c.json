@@ -253,7 +253,7 @@
       "definition": "a. Firm wide infrastructure"
     },
     {
-      "term": "In the service center approach to IT chargeback, IT units offer services for a price where the price is set to recover the IT unit’s costs of providing the service. a. Trueb. False",
+      "term": "In the service center approach to IT chargeback, IT units offer services for a price where the price is set to recover the IT unit's costs of providing the service. a. Trueb. False",
       "definition": "a. True"
     },
     {
@@ -518,7 +518,7 @@
     },
     {
       "term": "Business Process Model and Notation includes which of the following components?a. A start event, sequence flow, task, gateway \"decision\", and end eventb. A boundary, external entities, inputs, and outputs",
-      "definition": "a. A start event, sequence flow, task, gateway “decision”, and end event"
+      "definition": "a. A start event, sequence flow, task, gateway \"decision\", and end event"
     },
     {
       "term": "What refers to the maximum number of times an instance in one entity can be associated with instances in the related entity?a. Modularityb. Cardinality",
@@ -590,7 +590,7 @@
     },
     {
       "term": "Which is the best way to describe an Alternative Matrix?a. Since it considers every technical criteria for a system with a corresponding weight, the resulting scores of an Alternative Matrix for a given system determine which alternative is objectively the best decision for the firm to make as it is comprehensive of every factor going into that system's development.b. The scores of an Alternative Matrix should only be considered as a factor in the decision-making process for a firm, and should be weighed against other external criteria by an experienced leader responsible for the system's development.",
-      "definition": "b. The scores of an Alternative Matrix should only be considered as a factor in the decision-making process for a firm, and should be weighed against other external criteria by an experienced leader responsible for the system’s development."
+      "definition": "b. The scores of an Alternative Matrix should only be considered as a factor in the decision-making process for a firm, and should be weighed against other external criteria by an experienced leader responsible for the system's development."
     },
     {
       "term": "Online retailers frequently implement systems that recommend other products to customers based on their previous purchase history, what time of year they made the purchase, what other customers frequently bought in addition to the customers purchase, and other data relating to the purchase. This is an example of:a. Business Intelligence Architectureb. Operational Architecture",
@@ -601,7 +601,7 @@
       "definition": "a. True"
     },
     {
-      "term": "Which of the following is the definition of “scope creep”? a. When ERP management locks a firm into one ecosystem, resulting in all data being managed under the same vendor.b. When additional features are requested during the implementation phase of a project, thus increasing the cost and time required to complete said project.",
+      "term": "Which of the following is the definition of \"scope creep\"? a. When ERP management locks a firm into one ecosystem, resulting in all data being managed under the same vendor.b. When additional features are requested during the implementation phase of a project, thus increasing the cost and time required to complete said project.",
       "definition": "b. When additional features are requested during the implementation phase of a project, thus increasing the cost and time required to complete said project."
     },
     {
@@ -786,18 +786,18 @@
     },
     {
       "term": "Which of the following statements is NOT true for web applications?a. Software runs on the web app provider's serverb. They can be accesses using a client's web browserc. Even if client machines can fail, the data and applications can be still accessed from another client device (d) Requires virtualization of the client's machine",
-      "definition": "(d) Requires virtualization of the client’s machine"
+      "definition": "(d) Requires virtualization of the client's machine"
     },
     {
       "term": "Which of the following is an example of a hypervisor?a. VMware ESXib. Citrix Xenserverc. Microsoft Hyper-V (d) All of the above",
       "definition": "(d) All of the above"
     },
     {
-      "term": "Which is the core technology behind “cloud computing”? a. HTTP (b) Virtualizationc. Thin clientsd. Remote Desktop",
+      "term": "Which is the core technology behind \"cloud computing\"? a. HTTP (b) Virtualizationc. Thin clientsd. Remote Desktop",
       "definition": "(b) Virtualization"
     },
     {
-      "term": "Google’s cloud platform offering is a: (a) Public cloud b. Private cloudc. Hybrid cloudd. None of the above",
+      "term": "Google's cloud platform offering is a: (a) Public cloud b. Private cloudc. Hybrid cloudd. None of the above",
       "definition": "(a) Public cloud"
     },
     {
@@ -838,7 +838,7 @@
     },
     {
       "term": "Which of the following pairing of technology to its coverage area is mismatched?a. Bluetooth - Wireless Personal Area Network (WPAN)b. GSM - Wireless Wide Area Network (WWAN) (c) WiFi - Wirelss Metropolitan Area Network (WMAN) d. CDMA - Wireless Wide Area Network (WWAN)",
-      "definition": "(c) WiFi – Wirelss Metropolitan Area Network (WMAN)"
+      "definition": "(c) WiFi - Wirelss Metropolitan Area Network (WMAN)"
     },
     {
       "term": "Which of the following is the primary technology used in a mobile payment system like Apple Pay?(a) Near Field Communication (NFC)b. QR codec. Radio Frequency Identification (RFID)d. None of the above",
@@ -853,7 +853,7 @@
       "definition": "(d) All of the above"
     },
     {
-      "term": "Denial of service (DOS) security attacks are intended to compromise a system’s _______.a. Confidentiality (b) Availabilityc. Integrityd. Authenticity",
+      "term": "Denial of service (DOS) security attacks are intended to compromise a system's _______.a. Confidentiality (b) Availabilityc. Integrityd. Authenticity",
       "definition": "(b) Availability"
     },
     {
@@ -878,7 +878,7 @@
     },
     {
       "term": "In case of digital signatures, which of the following statements will be true? (Digital signatures are not meant to be secret messages, instead they are used to demonstrate that the message must have originated from a particular sender who signed it).(a) The message will need to be encrypted using the sender's private key. Anyone can then use the sender's public key to decrypt it, and thereby verify that it must have been encrypted (signed) by that particular sender.b. The message will need to be encrypted using the sender's public key. Anyone can then use the sender's private key to decrypt it, and thereby verify that it must have been encrypted (signed) by that particular senderc. The message will need to be encrypted using the sender's private key. Anyone can then use the sender's private key to decrypt it, and thereby verify that it must have been encrypted (signed) by that particular sender.d. The message will need to be encrypted using the sender's public key. Anyone can then use the sender's public key to decrypt it, and thereby verify that it must have been encrypted (signed) by that particular sender.",
-      "definition": "(a) The message will need to be encrypted using the sender’s private key. Anyone can then use the sender’s public key to decrypt it, and thereby verify that it must have been encrypted (signed) by that particular sender."
+      "definition": "(a) The message will need to be encrypted using the sender's private key. Anyone can then use the sender's public key to decrypt it, and thereby verify that it must have been encrypted (signed) by that particular sender."
     },
     {
       "term": "Which of the following statements is NOT true about these cyber defense systems?a. Honeypots are legitimate parts of the site that are actually isolated and monitored, and act as traps for attackersb. Honeypots can be used to learn about organization's security weaknesses (c) Intrusion detection systems cannot look inside the contents of the data packets, and therefore only use traffic filtering rules.d. None of the above",

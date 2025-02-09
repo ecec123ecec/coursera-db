@@ -16,8 +16,14 @@
     "related": []
   },
   "BDI302c": {
-    "status": "ongoing",
-    "related": []
+    "status": "done",
+    "related": [
+      "/big-data-introduction",
+      "/big-data-management",
+      "/big-data-integration-processing",
+      "/big-data-machine-learning",
+      "/big-data-graph-analytics"
+    ]
   },
   "CMC201c": {
     "status": "ongoing",
@@ -167,8 +173,15 @@
     ]
   },
   "MSM201c": {
-    "status": "ongoing",
-    "related": []
+    "status": "out nhiều 😥",
+    "related": [
+      "/social-media-marketing-introduction",
+      "/social-media-management",
+      "/social-media-advertising-fundamentals",
+      "/advertising-with-facebook",
+      "/measure-and-optimize-social-media-marketing-campaigns",
+      "/facebook-social-media-marketing-capstone"
+    ]
   },
   "MKT205c": {
     "status": "ongoing",

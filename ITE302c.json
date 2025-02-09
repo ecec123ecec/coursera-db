@@ -65,8 +65,8 @@
       "definition": "C. The legal responsibility for one's actions."
     },
     {
-      "term": "What does it mean to call a click-through agreement a “contract of adhesion”? | Both parties are legally bound by the agreement. | Both parties are equally responsible for ensuring the agreement is adhered to. | One party is forced into a “take-it-or-leave-it” situation. | One party is forced into using the service after agreeing.",
-      "definition": "One party is forced into a “take-it-or-leave-it” situation."
+      "term": "What does it mean to call a click-through agreement a \"contract of adhesion\"? | Both parties are legally bound by the agreement. | Both parties are equally responsible for ensuring the agreement is adhered to. | One party is forced into a \"take-it-or-leave-it\" situation. | One party is forced into using the service after agreeing.",
+      "definition": "One party is forced into a \"take-it-or-leave-it\" situation."
     },
     {
       "term": "Which of the following is a type of technology contract that establishes the goals of both parties and describes how those goals will be achieved?A. Software as a Service (SaaS)B. Service-level agreement (SLA)C. Terms of Service (ToS)D. End-user license agreement (EULA)",
@@ -105,7 +105,7 @@
       "definition": "A. No, the data is biased as it reflects historical bias."
     },
     {
-      "term": "Which type of bias causes people to trust an automated decision-making system (ADS) over a human’s decision? | Complacency bias | Automation bias | Confirmation bias | Implicit bias",
+      "term": "Which type of bias causes people to trust an automated decision-making system (ADS) over a human's decision? | Complacency bias | Automation bias | Confirmation bias | Implicit bias",
       "definition": "Automation bias"
     },
     {
@@ -161,7 +161,7 @@
       "definition": "A. Inalienable rights are inherent in all human beings.  B. Inalienable rights cannot be taken away except in extreme circumstances."
     },
     {
-      "term": "What does “ethics by design” mean? | A creative design approach as the focus for ethics. | A reference to the framework set forth by IEEE’s Ethically Aligned Design. | An approach in which ethics is considered from the initial design stage. | A reference to one of the tenets of engineering activism.",
+      "term": "What does \"ethics by design\" mean? | A creative design approach as the focus for ethics. | A reference to the framework set forth by IEEE's Ethically Aligned Design. | An approach in which ethics is considered from the initial design stage. | A reference to one of the tenets of engineering activism.",
       "definition": "An approach in which ethics is considered from the initial design stage."
     },
     {
@@ -269,7 +269,7 @@
       "definition": "A. It prevents the spread of disinformation that can cause harm to vulnerable populations."
     },
     {
-      "term": "Why is the question of robot rights and emancipation one that isn’t as important as addressing issues of bias, privacy, transparency, and other principles discussed in the various ethical frameworks? | Robots are mechanical instruments and therefore don’t deserve to have rights. | There is no legal precedent for granting rights to entities that are not humans. | Humans are anthropocentric and don’t want to extend rights to other sentient entities. | These rights necessitate that robots become sentient entities, which is currently not feasible.",
+      "term": "Why is the question of robot rights and emancipation one that isn't as important as addressing issues of bias, privacy, transparency, and other principles discussed in the various ethical frameworks? | Robots are mechanical instruments and therefore don't deserve to have rights. | There is no legal precedent for granting rights to entities that are not humans. | Humans are anthropocentric and don't want to extend rights to other sentient entities. | These rights necessitate that robots become sentient entities, which is currently not feasible.",
       "definition": "These rights necessitate that robots become sentient entities, which is currently not feasible."
     },
     {
@@ -285,7 +285,7 @@
       "definition": "A. Regulations provide a clear basis for potential litigation.  B. Regulations have legal enforcement behind them."
     },
     {
-      "term": "Your business handles the personal data of California residents. Which of the following regulations would enable a resident to request that their data be deleted from your company’s files? | CCPA | PCI DSS | OECD Privacy Guidelines | COPPA",
+      "term": "Your business handles the personal data of California residents. Which of the following regulations would enable a resident to request that their data be deleted from your company's files? | CCPA | PCI DSS | OECD Privacy Guidelines | COPPA",
       "definition": "CCPA"
     },
     {
@@ -301,7 +301,7 @@
       "definition": "A. Organizations must obtain consent from individuals regarding the collection and use of biometric data.  C. Organizations must destroy biometric data in a timely fashion."
     },
     {
-      "term": "The Children’s Online Privacy Protection Act (COPPA) safeguards the privacy of which age group’s personal information? | Anyone under 13 years old | Anyone under 18 years old | Anyone between 13 and 18 years old | Anyone between 5 and 13 years old",
+      "term": "The Children's Online Privacy Protection Act (COPPA) safeguards the privacy of which age group's personal information? | Anyone under 13 years old | Anyone under 18 years old | Anyone between 13 and 18 years old | Anyone between 5 and 13 years old",
       "definition": "Anyone under 13 years old"
     },
     {
@@ -341,7 +341,7 @@
       "definition": "C. Balancing the negative effects of an AI system on people with the effects on environments and objects  D. Mitigating excessive scope or potential collateral damage"
     },
     {
-      "term": "How does the “virtuous cycle” that benefits Big Tech operate? | Better classes of customers lead to richer and more refined data for algorithmic systems. | Data-driven algorithms improve solutions, leading to new customers, and better data. | Organizations write algorithms with fewer biases, which leads to fairer outcomes. | By acting virtuous, the public respects Big Tech more and more.",
+      "term": "How does the \"virtuous cycle\" that benefits Big Tech operate? | Better classes of customers lead to richer and more refined data for algorithmic systems. | Data-driven algorithms improve solutions, leading to new customers, and better data. | Organizations write algorithms with fewer biases, which leads to fairer outcomes. | By acting virtuous, the public respects Big Tech more and more.",
       "definition": "Better classes of customers lead to richer and more refined data for algorithmic systems. | Data-driven algorithms improve solutions, leading to new customers, and better data."
     },
     {
@@ -353,8 +353,8 @@
       "definition": "A. Managing expectations that not everyone can get what they want, when they want it  D. Engaging with multiple stakeholders to understand their particular needs"
     },
     {
-      "term": "You plan on streamlining your company’s product experience, but you also want to uphold the agency and autonomy of your users. Which of the following actions would uphold these principles? (Select two.) | Refraining from guiding users into something they didn’t wish for or intend | Applying machine intelligence to simulate customer behavior | Respecting the right of the user to choose and customize their experiences | Enabling government agencies to have a personalized interface with software",
-      "definition": "Refraining from guiding users into something they didn’t wish for or intend | Respecting the right of the user to choose and customize their experiences"
+      "term": "You plan on streamlining your company's product experience, but you also want to uphold the agency and autonomy of your users. Which of the following actions would uphold these principles? (Select two.) | Refraining from guiding users into something they didn't wish for or intend | Applying machine intelligence to simulate customer behavior | Respecting the right of the user to choose and customize their experiences | Enabling government agencies to have a personalized interface with software",
+      "definition": "Refraining from guiding users into something they didn't wish for or intend | Respecting the right of the user to choose and customize their experiences"
     },
     {
       "term": "Which of the following describe corporate hegemony? (Select two.)A. Consolidating interests through mergers and acquisitionsB. Locking out smaller players, leading to monopolies or cartelsC. Spending large sums on corporate branding and marketingD. Making multiple investments in a similar space to improve the outcomes of success",
@@ -365,7 +365,7 @@
       "definition": "A. Mitigation  C. Identification  E. Analysis"
     },
     {
-      "term": "Which of the following risk analysis methods use words like “likely,” “unlikely,” and “rare” to describe the likelihood of risk, and words like “low,” “medium,” and “high” to describe the impact of risk? (Select two.) | Semi-qualitative analysis | Qualitative analysis | Quantitative analysis | Semi-quantitative analysis",
+      "term": "Which of the following risk analysis methods use words like \"likely,\" \"unlikely,\" and \"rare\" to describe the likelihood of risk, and words like \"low,\" \"medium,\" and \"high\" to describe the impact of risk? (Select two.) | Semi-qualitative analysis | Qualitative analysis | Quantitative analysis | Semi-quantitative analysis",
       "definition": "Semi-qualitative analysis | Qualitative analysis"
     },
     {
@@ -389,11 +389,11 @@
       "definition": "B. By providing a model of belief about the likelihood of some event happening"
     },
     {
-      "term": "You have a dataset of customers that includes each customer’s gender, location, and other personal attributes. The label you are trying to predict is how much sales revenue each customer is likely to generate for the business based on these attributes. What type of machine learning outcome is this problem suited for? | Dimensionality reduction | Clustering | Regression | Classification",
+      "term": "You have a dataset of customers that includes each customer's gender, location, and other personal attributes. The label you are trying to predict is how much sales revenue each customer is likely to generate for the business based on these attributes. What type of machine learning outcome is this problem suited for? | Dimensionality reduction | Clustering | Regression | Classification",
       "definition": "Regression"
     },
     {
-      "term": "You’re training a model to classify whether or not a bridge is likely to collapse given several factors. You have a dataset of thousands of existing bridges and their attributes, where each bridge is labeled as having collapsed or not collapsed. Only a handful of bridges in the dataset are labeled as having collapsed—the rest are labeled as not collapsed. Given your goal of minimizing bridge collapse and the severe harm it can cause, which of the following metrics would be most useful for evaluating the model? | Accuracy | Recall | Precision | Confusion matrix",
+      "term": "You're training a model to classify whether or not a bridge is likely to collapse given several factors. You have a dataset of thousands of existing bridges and their attributes, where each bridge is labeled as having collapsed or not collapsed. Only a handful of bridges in the dataset are labeled as having collapsed—the rest are labeled as not collapsed. Given your goal of minimizing bridge collapse and the severe harm it can cause, which of the following metrics would be most useful for evaluating the model? | Accuracy | Recall | Precision | Confusion matrix",
       "definition": "Recall"
     },
     {
@@ -413,7 +413,7 @@
       "definition": "A. Telephone numbers  D. Passport numbers"
     },
     {
-      "term": "Which of the following elements should be communicated with end users when negotiating ethical access to a user’s data? (Select two.) | An offer of money or other incentives to relinquish user’s rights | The monetary value of that data | The intention behind a certain activity or request | A request for consent to perform an action",
+      "term": "Which of the following elements should be communicated with end users when negotiating ethical access to a user's data? (Select two.) | An offer of money or other incentives to relinquish user's rights | The monetary value of that data | The intention behind a certain activity or request | A request for consent to perform an action",
       "definition": "The intention behind a certain activity or request | A request for consent to perform an action"
     },
     {
@@ -501,7 +501,7 @@
       "definition": "B. Provide a large, unrestricted text box where users can enter their thoughts at length."
     },
     {
-      "term": "You’re the recipient of some data collected by a third party that you’ll use in training an AI model. As per your business agreement, the third-party discloser of the data requests that you explain how you plan to use the data. At what point in the process should you provide this explanation? | At the point of planning the AI system. | At the point of evaluating the model. | At the point of collecting the data. | At the point of training the model.",
+      "term": "You're the recipient of some data collected by a third party that you'll use in training an AI model. As per your business agreement, the third-party discloser of the data requests that you explain how you plan to use the data. At what point in the process should you provide this explanation? | At the point of planning the AI system. | At the point of evaluating the model. | At the point of collecting the data. | At the point of training the model.",
       "definition": "At the point of planning the AI system."
     },
     {
@@ -513,7 +513,7 @@
       "definition": "A. Anchor Explanations"
     },
     {
-      "term": "Which of the following Python tools is designed to integrate with Google’s Cloud AI platform? | ELI5 | What-If | SHAP | LIME",
+      "term": "Which of the following Python tools is designed to integrate with Google's Cloud AI platform? | ELI5 | What-If | SHAP | LIME",
       "definition": "What-If"
     },
     {
@@ -521,12 +521,12 @@
       "definition": "A. LIME outputs results faster than SHAP.  B. LIME is less accurate than SHAP."
     },
     {
-      "term": "Which of the following types of bias emerges when the same data is sampled over and over again, limiting a model’s perspective? | Confirmation bias | Reinforcement bias | Temporal bias | Implicit bias",
+      "term": "Which of the following types of bias emerges when the same data is sampled over and over again, limiting a model's perspective? | Confirmation bias | Reinforcement bias | Temporal bias | Implicit bias",
       "definition": "Reinforcement bias"
     },
     {
-      "term": "Why is a model that has been overfitted to its training data a source of fairness risk?A. Because the model is too complex.B. Because the model includes too much noise.C. Because the model won’t generalize to the entire population.D. Because the model has a temporal bias.",
-      "definition": "C. Because the model won’t generalize to the entire population."
+      "term": "Why is a model that has been overfitted to its training data a source of fairness risk?A. Because the model is too complex.B. Because the model includes too much noise.C. Because the model won't generalize to the entire population.D. Because the model has a temporal bias.",
+      "definition": "C. Because the model won't generalize to the entire population."
     },
     {
       "term": "Which type of edge case is caused by data outside the normal distribution?A. ErrorsB. NoiseC. OverfittingD. Outliers",
@@ -557,8 +557,8 @@
       "definition": "D. An open source library that evaluates models for bias and provides mitigation tactics to reduce that bias."
     },
     {
-      "term": "What is the primary advantage of radioactive data tracing over past techniques that modify input in order to determine whether or not that input was used in training?A. Radioactive data tracing doesn’t impact a model’s performance.B. Radioactive data tracing can be used to modify the label.C. Radioactive data tracing targets language-based input.D. Radioactive data tracing makes the modification perceptible to human beings.",
-      "definition": "A. Radioactive data tracing doesn’t impact a model’s performance."
+      "term": "What is the primary advantage of radioactive data tracing over past techniques that modify input in order to determine whether or not that input was used in training?A. Radioactive data tracing doesn't impact a model's performance.B. Radioactive data tracing can be used to modify the label.C. Radioactive data tracing targets language-based input.D. Radioactive data tracing makes the modification perceptible to human beings.",
+      "definition": "A. Radioactive data tracing doesn't impact a model's performance."
     },
     {
       "term": "What does the acronym SIEM stand for in a cybersecurity context?A. Social, interpersonal, empathic, mentalB. Serial input to externalized modulationC. Selective information extrapolation methodsD. Security information and event management",
@@ -613,8 +613,8 @@
       "definition": "B. It demonstrates that the organization is committed to accountability and transparency in their data-driven systems."
     },
     {
-      "term": "Which of the following situations would most likely require communication to external stakeholders? (Select two.) | The organization plans to adopt a new ethical framework to support the implementation of an AI system. | The organization’s change management strategy has been modified. | The organization’s data-driven service will receive an update that enhances its accuracy. | The organization’s AI product has a defect and needs to be recalled.",
-      "definition": "The organization plans to adopt a new ethical framework to support the implementation of an AI system. | The organization’s AI product has a defect and needs to be recalled."
+      "term": "Which of the following situations would most likely require communication to external stakeholders? (Select two.) | The organization plans to adopt a new ethical framework to support the implementation of an AI system. | The organization's change management strategy has been modified. | The organization's data-driven service will receive an update that enhances its accuracy. | The organization's AI product has a defect and needs to be recalled.",
+      "definition": "The organization plans to adopt a new ethical framework to support the implementation of an AI system. | The organization's AI product has a defect and needs to be recalled."
     },
     {
       "term": "Which of the following are useful strategies for communicating ethical risks to the organization? (Select two.)A. Provide information only when solicitedB. Disseminate information in multiple formatsC. Communicate information through a single voiceD. Communicate information in real time",
@@ -629,7 +629,7 @@
       "definition": "A. They may have more institutional knowledge about a subject than managers."
     },
     {
-      "term": "As a result of failing to communicate ethical risks, the organization’s reputation suffers and customers are less confident in the organization. What direct impact can this have? | Customers will find it more difficult to use your products and services. | Morale amongst internal personnel will drop, as will productivity. | The organization will be more likely to draw the attention of legal and regulatory auditors. | The products or services the organization creates will have less of an impact in the marketplace.",
+      "term": "As a result of failing to communicate ethical risks, the organization's reputation suffers and customers are less confident in the organization. What direct impact can this have? | Customers will find it more difficult to use your products and services. | Morale amongst internal personnel will drop, as will productivity. | The organization will be more likely to draw the attention of legal and regulatory auditors. | The products or services the organization creates will have less of an impact in the marketplace.",
       "definition": "A. The products or services the organization creates will have less of an impact in the marketplace."
     },
     {
@@ -677,16 +677,16 @@
       "definition": "A. The conference can be interactive without the participants needing to be co-located."
     },
     {
-      "term": "Which of the following are important qualities of a press release? (Select two.) | It’s non-interactive | It’s in a digital format | It’s concise | It’s delivered on a single platform",
-      "definition": "It’s in a digital format | It’s concise"
+      "term": "Which of the following are important qualities of a press release? (Select two.) | It's non-interactive | It's in a digital format | It's concise | It's delivered on a single platform",
+      "definition": "It's in a digital format | It's concise"
     },
     {
       "term": "How does the low likelihood of a crisis relate to its potential impact?A. A crisis with low likelihood tends to have high impact.B. A crisis with low likelihood tends to have little to no effect on its impact.C. A crisis with low likelihood tends to have low impact.D. A crisis with low likelihood tends to have moderate impact.",
       "definition": "A. A crisis with low likelihood tends to have high impact."
     },
     {
-      "term": "Which of the following is the most important idea that a crisis communication program should manage? | Internal stakeholder consensus about how to approach a crisis | The individual details of a crisis | The real-world effects of a crisis | The public’s perception of a crisis",
-      "definition": "The public’s perception of a crisis"
+      "term": "Which of the following is the most important idea that a crisis communication program should manage? | Internal stakeholder consensus about how to approach a crisis | The individual details of a crisis | The real-world effects of a crisis | The public's perception of a crisis",
+      "definition": "The public's perception of a crisis"
     },
     {
       "term": "Which of the following are important to provide to a crisis communication team? (Select two.)A. Permission to tell the public what they want to hearB. Access to adequate resourcesC. Clear direction on the roles and responsibilities of team membersD. The ability to work independently of the crisis management team",
@@ -745,7 +745,7 @@
       "definition": "D. Set the tone of what is to follow"
     },
     {
-      "term": "Why is it important to build a “reservoir” of goodwill with the media? | The media will be less likely to publish a story about a crisis right away, opting to wait for your approval instead. | The media will be less likely to accuse the organization of being malicious or negligent in the event of a crisis. | The media will be more likely to give the organization the benefit of the doubt in the event of a crisis. | The media will be more likely to advocate for your organization in the event of a crisis.",
+      "term": "Why is it important to build a \"reservoir\" of goodwill with the media? | The media will be less likely to publish a story about a crisis right away, opting to wait for your approval instead. | The media will be less likely to accuse the organization of being malicious or negligent in the event of a crisis. | The media will be more likely to give the organization the benefit of the doubt in the event of a crisis. | The media will be more likely to advocate for your organization in the event of a crisis.",
       "definition": "The media will be more likely to give the organization the benefit of the doubt in the event of a crisis."
     },
     {
@@ -757,8 +757,8 @@
       "definition": "D. Put all of the information out there at once"
     },
     {
-      "term": "How can sentiment analysis be useful in social media communication? | It can determine which users have the largest influence on your reputation, and therefore which users you should communicate with. | It can shape the content and delivery of the message based on users’ perceptions of the organization or technology. | It can classify customers as loyal or disloyal, helping you target customers differently in your communications. | It can determine how to construct a message that influences users to be more positive about the organization or technology.",
-      "definition": "It can shape the content and delivery of the message based on users’ perceptions of the organization or technology."
+      "term": "How can sentiment analysis be useful in social media communication? | It can determine which users have the largest influence on your reputation, and therefore which users you should communicate with. | It can shape the content and delivery of the message based on users' perceptions of the organization or technology. | It can classify customers as loyal or disloyal, helping you target customers differently in your communications. | It can determine how to construct a message that influences users to be more positive about the organization or technology.",
+      "definition": "It can shape the content and delivery of the message based on users' perceptions of the organization or technology."
     },
     {
       "term": "Which of the following describes ethics washing?A. No attempt is made towards genuine ethical action.B. Superficial promises are replaced by genuine ethical action.C. Genuine ethical action is used to wash over previous mistakes.D. Genuine ethical action gets replaced by superficial promises.",
@@ -773,8 +773,8 @@
       "definition": "A. Employees might face cognitive dissonance."
     },
     {
-      "term": "Which expression best characterizes what a company or organizational culture is? | “This is how we want this done.” | “This is what we’re told to do.” | “This is how things are done around here.” | “It is what it is.”",
-      "definition": "“This is how things are done around here.”"
+      "term": "Which expression best characterizes what a company or organizational culture is? | \"This is how we want this done.\" | \"This is what we're told to do.\" | \"This is how things are done around here.\" | \"It is what it is.\"",
+      "definition": "\"This is how things are done around here.\""
     },
     {
       "term": "Which of the following describes change management?A. A collective term for all approaches to prepare, support, and help individuals, teams, and organizations in fostering an ethical organizational culture.B. A collective term used to describe how employees are able to voice their concerns to facilitate change in their organization.C. A collective term used to explain how organizations facilitate change in a product after receiving negative feedback.D. A collective term for all approaches to prepare, support, and help individuals, teams, and organizations in making organizational change.",
@@ -785,8 +785,8 @@
       "definition": "B. Human resources"
     },
     {
-      "term": "Which of the following describes the purpose of having an Ethics Board for a data-driven organization? | An Ethics Board can increase transparency into how the organization uses AI or autonomous technologies. | An Ethics Board can help maintain an organization’s values-based intentions and decrease the inherent dangers of autonomous technologies. | An Ethics Board can help maintain an organization’s values-based intentions and increase transparency into how they use data-driven technologies. | An Ethics Board can help maintain an organization’s profit margins and increase transparency into how they increase their profits.",
-      "definition": "An Ethics Board can help maintain an organization’s values-based intentions and increase transparency into how they use data-driven technologies."
+      "term": "Which of the following describes the purpose of having an Ethics Board for a data-driven organization? | An Ethics Board can increase transparency into how the organization uses AI or autonomous technologies. | An Ethics Board can help maintain an organization's values-based intentions and decrease the inherent dangers of autonomous technologies. | An Ethics Board can help maintain an organization's values-based intentions and increase transparency into how they use data-driven technologies. | An Ethics Board can help maintain an organization's profit margins and increase transparency into how they increase their profits.",
+      "definition": "An Ethics Board can help maintain an organization's values-based intentions and increase transparency into how they use data-driven technologies."
     },
     {
       "term": "Which of the following is a potential benefit of having an ethical organizational culture?A. More employees are likely to switch careers.B. Employees are more likely to listen to their superiors.C. The company will get an increase in stock value.D. Employees will feel a sense of responsibility and loyalty.",
@@ -853,8 +853,8 @@
       "definition": "A. Regulators"
     },
     {
-      "term": "How can you identify potential areas of concern for ethical practices when developing a code of ethics? (Select three).A. Rely on the requirements of government regulations.B. Obtain feedback from stakeholder focus groups.C. Rely on your own personal experiences.D. Identify prior issues with your product or service.E. Research similar organization’s ethical mistakes and concerns.",
-      "definition": "B. Obtain feedback from stakeholder focus groups.  D. Identify prior issues with your product or service.  E. Research similar organization’s ethical mistakes and concerns."
+      "term": "How can you identify potential areas of concern for ethical practices when developing a code of ethics? (Select three).A. Rely on the requirements of government regulations.B. Obtain feedback from stakeholder focus groups.C. Rely on your own personal experiences.D. Identify prior issues with your product or service.E. Research similar organization's ethical mistakes and concerns.",
+      "definition": "B. Obtain feedback from stakeholder focus groups.  D. Identify prior issues with your product or service.  E. Research similar organization's ethical mistakes and concerns."
     },
     {
       "term": "Which of the following are possible causes of the limited adoption of a code of ethics within an organization? (Select two).A. Comprehensive coverage of areas of concerns by the code of ethicsB. Lack of clarity in the code of ethicsC. Lack of awareness of the code of ethics and where it is meant to be appliedD. Prescriptive language used in the code of ethics",
@@ -905,11 +905,11 @@
       "definition": "C. Concrete examples that show how the policies work in practice."
     },
     {
-      "term": "Which of the following is a key element of communications with internal and external stakeholders regarding an organization’s ethics policies?A. Simple to follow examplesB. Flexible verbiageC. Dense procedural descriptionsD. Daily communications",
+      "term": "Which of the following is a key element of communications with internal and external stakeholders regarding an organization's ethics policies?A. Simple to follow examplesB. Flexible verbiageC. Dense procedural descriptionsD. Daily communications",
       "definition": "A. Simple to follow examples"
     },
     {
-      "term": "Which of the following is an important reason for continually refreshing an organization’s internal and external ethics policies?A. It helps maintain alignment of the policies with the cultural and contextual values of the organization's employees.B. It helps maintain alignment with the emergent risks and changing ethical posture of the products and services of the organization.C. It helps internal stakeholders justify the release of new product features or service upgrades.D. It helps demonstrate to senior management that work is being done on the internal and external ethics policies.",
+      "term": "Which of the following is an important reason for continually refreshing an organization's internal and external ethics policies?A. It helps maintain alignment of the policies with the cultural and contextual values of the organization's employees.B. It helps maintain alignment with the emergent risks and changing ethical posture of the products and services of the organization.C. It helps internal stakeholders justify the release of new product features or service upgrades.D. It helps demonstrate to senior management that work is being done on the internal and external ethics policies.",
       "definition": "B. It helps maintain alignment with the emergent risks and changing ethical posture of the products and services of the organization."
     },
     {
@@ -917,7 +917,7 @@
       "definition": "A. They allow for deeper engagement with the target demographic community."
     },
     {
-      "term": "Which of the following is a valid reason for tracking the number and severity of an organization’s ethical violations?A. It can dissuade end users from scrutinizing the internal and external ethics policies.B. It can help provide qualitative information that can be used to improve the policies.C. It can replace the need for refreshing the internal and external ethics policies.D. It can help provide transparency around the efforts to improve the policies.",
+      "term": "Which of the following is a valid reason for tracking the number and severity of an organization's ethical violations?A. It can dissuade end users from scrutinizing the internal and external ethics policies.B. It can help provide qualitative information that can be used to improve the policies.C. It can replace the need for refreshing the internal and external ethics policies.D. It can help provide transparency around the efforts to improve the policies.",
       "definition": "D. It can help provide transparency around the efforts to improve the policies."
     },
     {

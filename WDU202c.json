@@ -336,7 +336,10 @@
       "term": "Advertisements is best when they are placed at _______________ in a websitea. headerb. footerc. sidebard. navigation",
       "definition": "c. sidebar"
     },
-    { "term": "Tabs and headers are differenta. Trueb. False", "definition": "a. True" },
+    {
+      "term": "Tabs and headers are differenta. Trueb. False",
+      "definition": "a. True"
+    },
     {
       "term": "Menus are best when placed at________________a. headerb. footerc. sidebard. navigation",
       "definition": "a. header"
@@ -357,7 +360,10 @@
       "term": "It is good to have a full width background image on a landing screena. Trueb. False",
       "definition": "a. True"
     },
-    { "term": "Websites do not have one size.a. Trueb. False", "definition": "a. True" },
+    {
+      "term": "Websites do not have one size.a. Trueb. False",
+      "definition": "a. True"
+    },
     {
       "term": "A mobile first approach helps us to focus the ____________________ on screen.a. Animationsb. Text contentc. Imagesd. most essential things",
       "definition": "d. most essential things"
@@ -379,7 +385,10 @@
       "definition": "d. All the above"
     },
     { "term": "H1 is greater than H6a. Trueb. False", "definition": "a. True" },
-    { "term": "H3 is greater than H2a. Trueb. False", "definition": "b. False" },
+    {
+      "term": "H3 is greater than H2a. Trueb. False",
+      "definition": "b. False"
+    },
     {
       "term": "Rounded buttons are used for friendly themesa. Trueb. False",
       "definition": "a. True"
@@ -412,7 +421,10 @@
       "term": "\"Chat now\" option with the computer generated guide is an example of a_____________.a. animationb. pop upc. alertd. navigation",
       "definition": "b. pop up"
     },
-    { "term": "A website is best when is non responsivea. Trueb. False", "definition": "b. False" },
+    {
+      "term": "A website is best when is non responsivea. Trueb. False",
+      "definition": "b. False"
+    },
     {
       "term": "How do navigation elements relate to one another and the current page ?a. sidebarb. headerc. footerd. navigation",
       "definition": "d. navigation"
@@ -546,7 +558,10 @@
       "term": "It can be viewed across different devices and platforms. A. Website B. App",
       "definition": "A. Website"
     },
-    { "term": "It can be displayed on any device. A. Website B. App", "definition": "A. Website" },
+    {
+      "term": "It can be displayed on any device. A. Website B. App",
+      "definition": "A. Website"
+    },
     {
       "term": "It is easy to share content with others. A. Website B. App",
       "definition": "A. Website"
@@ -563,7 +578,10 @@
       "term": "It can be displayed only on the operating system it was designed for. A. Website B. App",
       "definition": "B. App"
     },
-    { "term": "It is easier to monetize. A. Website B. App", "definition": "B. App" },
+    {
+      "term": "It is easier to monetize. A. Website B. App",
+      "definition": "B. App"
+    },
     {
       "term": "It requires that users download and install it onto their devices. A. Website B. App",
       "definition": "B. App"
@@ -637,8 +655,8 @@
       "definition": "B. weight C. scale D. color"
     },
     {
-      "term": "Why is it important to consider whitespace in web design? A. It helps make text appear smaller. B. It creates drama in a composition and leads the user’s eye around. C. It allows you to use up as much space as possible given yourwebsite has the ability to scroll infinitely. D. All of the above",
-      "definition": "B. It creates drama in a composition and leads the user’s eye around."
+      "term": "Why is it important to consider whitespace in web design? A. It helps make text appear smaller. B. It creates drama in a composition and leads the user's eye around. C. It allows you to use up as much space as possible given yourwebsite has the ability to scroll infinitely. D. All of the above",
+      "definition": "B. It creates drama in a composition and leads the user's eye around."
     },
     {
       "term": "True or false: Hierarchy enables a designer to guide a viewer's attention equally to all of the elements on the screen. A. True B. False",
@@ -657,7 +675,7 @@
       "definition": "D. Space in print is limited, while space in the web is infinite."
     },
     {
-      "term": "Why isn’t it a good idea to justify body type on a web page? A. Web browsers are not very good at hyphenating text at thispoint in time. B. It makes the text look weird at different screen sizes. C. You risk making columns that are too wide to read easily. D. They are not compatible with screen readers for users withvision-related impairment.",
+      "term": "Why isn't it a good idea to justify body type on a web page? A. Web browsers are not very good at hyphenating text at thispoint in time. B. It makes the text look weird at different screen sizes. C. You risk making columns that are too wide to read easily. D. They are not compatible with screen readers for users withvision-related impairment.",
       "definition": "A. Web browsers are not very good at hyphenating text at this point in time."
     },
     {
@@ -681,7 +699,7 @@
       "definition": "C. Divide the font size by the line height."
     },
     {
-      "term": "What’s an argument against using true black text on a true white background throughout your entire website? A. It can cause screens to wear out faster. B. It looks boring. C. It can cause the text to bleed into each other. D. The high contrast can cause eye fatigue.",
+      "term": "What's an argument against using true black text on a true white background throughout your entire website? A. It can cause screens to wear out faster. B. It looks boring. C. It can cause the text to bleed into each other. D. The high contrast can cause eye fatigue.",
       "definition": "D. The high contrast can cause eye fatigue."
     },
     {
@@ -801,7 +819,7 @@
       "definition": "Color is used to create mood and emotion"
     },
     {
-      "term": "What is the advantage of using text in the user interface? | It’s more visually appealing | It simplifies complex concepts | It reduces the need for icons and symbols | It provides faster and more accurate communication",
+      "term": "What is the advantage of using text in the user interface? | It's more visually appealing | It simplifies complex concepts | It reduces the need for icons and symbols | It provides faster and more accurate communication",
       "definition": "It provides faster and more accurate communication"
     },
     {
@@ -1089,19 +1107,19 @@
       "definition": "Visibility of system status"
     },
     {
-      "term": "Choose the heuristic that best applies to the following example: an automated chatbot “therapy” app that sends you warm, positive text messages throughout the day. | Aesthetic and minimalist design | Match between system and the real world | User control and freedom | Error prevention",
+      "term": "Choose the heuristic that best applies to the following example: an automated chatbot \"therapy\" app that sends you warm, positive text messages throughout the day. | Aesthetic and minimalist design | Match between system and the real world | User control and freedom | Error prevention",
       "definition": "Match between system and the real world"
     },
     {
-      "term": "Choose the heuristic that best applies to the following example: Gmail’s notification when you have forgotten to attach a document to an outgoing email. | Flexibility and efficiency of use | Match between system and the real world | Aesthetic and minimalist design | Error prevention",
+      "term": "Choose the heuristic that best applies to the following example: Gmail's notification when you have forgotten to attach a document to an outgoing email. | Flexibility and efficiency of use | Match between system and the real world | Aesthetic and minimalist design | Error prevention",
       "definition": "Error prevention"
     },
     {
-      "term": "Choose the heuristic that best applies to the following example: Google’s advanced image search. | Help and documentation | Flexibility and efficiency of use | Help users recognize, diagnose and recover from errors",
+      "term": "Choose the heuristic that best applies to the following example: Google's advanced image search. | Help and documentation | Flexibility and efficiency of use | Help users recognize, diagnose and recover from errors",
       "definition": "Flexibility and efficiency of use"
     },
     {
-      "term": "Choose the heuristic that best applies to the following example: The “Like” or “thumbs up” button across various platforms. | Error prevention | Consistency and standards | User control and freedom | Visibility of system status",
+      "term": "Choose the heuristic that best applies to the following example: The \"Like\" or \"thumbs up\" button across various platforms. | Error prevention | Consistency and standards | User control and freedom | Visibility of system status",
       "definition": "Consistency and standards"
     },
     {
@@ -1225,7 +1243,7 @@
       "definition": "Website"
     },
     {
-      "term": "It’s easier to control how users can interact with and view content. | Website | App",
+      "term": "It's easier to control how users can interact with and view content. | Website | App",
       "definition": "App"
     },
     {
@@ -1233,15 +1251,15 @@
       "definition": "utility navigation"
     },
     {
-      "term": "Look at the image taken of the navigation elements that appear at the top of the Coursera website.Why might have Coursera’s designers decided to permanently place a search field in this area? | Coursera’s outline of scope probably determined that search is an important functionality requirement. | Coursera’s probably thinks that learners like to use the search field as a wayfinding tool. | Coursera probably wants to imitate other search sites like Google. | Coursera is following a website design rule which dictates that every website should have a search field.",
-      "definition": "Coursera’s outline of scope probably determined that search is an important functionality requirement."
+      "term": "Look at the image taken of the navigation elements that appear at the top of the Coursera website.Why might have Coursera's designers decided to permanently place a search field in this area? | Coursera's outline of scope probably determined that search is an important functionality requirement. | Coursera's probably thinks that learners like to use the search field as a wayfinding tool. | Coursera probably wants to imitate other search sites like Google. | Coursera is following a website design rule which dictates that every website should have a search field.",
+      "definition": "Coursera's outline of scope probably determined that search is an important functionality requirement."
     },
     {
-      "term": "Look at the image taken from a science course's description page on the Coursera platform. This section, titled “You May Also Like,\" is an example of what kind of navigational element? | related content | inline links to other pages | index of pages | search results for other pages",
+      "term": "Look at the image taken from a science course's description page on the Coursera platform. This section, titled \"You May Also Like,\" is an example of what kind of navigational element? | related content | inline links to other pages | index of pages | search results for other pages",
       "definition": "related content"
     },
     {
-      "term": "Look at the image taken of the navigation elements that appear at the top of the Coursera website. What navigational system does the blue “Explore” button use? | utility navigation | primary navigation | secondary navigation | subsidiary navigation",
+      "term": "Look at the image taken of the navigation elements that appear at the top of the Coursera website. What navigational system does the blue \"Explore\" button use? | utility navigation | primary navigation | secondary navigation | subsidiary navigation",
       "definition": "secondary navigation"
     },
     {
@@ -1257,7 +1275,7 @@
       "definition": "date picker"
     },
     {
-      "term": "A software company would like to survey users about what mobile operating system they use most often—Android, iOS, Windows, or “Other”. Which of the following would be an appropriate form element to use? | checkbox | radio | dropdown menu | text field | button",
+      "term": "A software company would like to survey users about what mobile operating system they use most often—Android, iOS, Windows, or \"Other\". Which of the following would be an appropriate form element to use? | checkbox | radio | dropdown menu | text field | button",
       "definition": "radio"
     }
   ]

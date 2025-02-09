@@ -1,42 +1,4 @@
 {
-  "quizUrls": [
-    "https://www.coursera.org/learn/introtoux-principles-and-processes/assignment-submission/3UqZN/module-1",
-    "https://www.coursera.org/learn/introtoux-principles-and-processes/assignment-submission/X4OZv/ux-design-overview-part-1",
-    "https://www.coursera.org/learn/introtoux-principles-and-processes/assignment-submission/pK37I/module-3",
-    "https://www.coursera.org/learn/introtoux-principles-and-processes/assignment-submission/0IlQ5/module-4",
-    "https://www.coursera.org/learn/introtoux-principles-and-processes/assignment-submission/6IpKU/module-5",
-    "https://www.coursera.org/learn/understanding-user-needs/assignment-submission/qkpjF/user-needs-assessment-and-qualitative-research",
-    "https://www.coursera.org/learn/understanding-user-needs/assignment-submission/GOPzh/peer-review-1-self-check",
-    "https://www.coursera.org/learn/understanding-user-needs/assignment-submission/1mrv9/interview-protocols",
-    "https://www.coursera.org/learn/understanding-user-needs/assignment-submission/ePIY5/peer-review-2-self-check",
-    "https://www.coursera.org/learn/understanding-user-needs/assignment-submission/XaDxi/interviewing-tips",
-    "https://www.coursera.org/learn/understanding-user-needs/assignment-submission/Q21pX/peer-review-3-self-check",
-    "https://www.coursera.org/learn/understanding-user-needs/assignment-submission/3wDAD/affinity-walls",
-    "https://www.coursera.org/learn/understanding-user-needs/assignment-submission/HeGOn/peer-review-4-self-check",
-    "https://www.coursera.org/learn/understanding-user-needs/assignment-submission/FrzAj/whole-course",
-    "https://www.coursera.org/learn/evaluating-designs-with-users/assignment-submission/YgPOh/lesson-1-quiz",
-    "https://www.coursera.org/learn/evaluating-designs-with-users/assignment-submission/cXCyS/lesson-2-quiz",
-    "https://www.coursera.org/learn/evaluating-designs-with-users/assignment-submission/BY1oO/lesson-3-quiz",
-    "https://www.coursera.org/learn/evaluating-designs-with-users/assignment-submission/Mtdhm/self-assessment",
-    "https://www.coursera.org/learn/evaluating-designs-with-users/assignment-submission/biPEa/lesson-4-quiz",
-    "https://www.coursera.org/learn/ux-design-concept-wireframe/assignment-submission/OSMXC/introduction-to-the-design-process",
-    "https://www.coursera.org/learn/ux-design-concept-wireframe/assignment-submission/9N9iK/ideation",
-    "https://www.coursera.org/learn/ux-design-concept-wireframe/assignment-submission/YMTGo/design-constraints-and-making-choices",
-    "https://www.coursera.org/learn/ux-design-concept-wireframe/assignment-submission/gPy8G/quiz-building-blocks-of-user-interaction",
-    "https://www.coursera.org/learn/ux-design-concept-wireframe/assignment-submission/AgYGO/quiz-low-to-hi-fidelity-prototyping",
-    "https://www.coursera.org/learn/ux-design-concept-wireframe/assignment-submission/BcTcW/quiz-conceptual-issues-in-prototyping-and-design",
-    "https://www.coursera.org/learn/ux-research-at-scale/assignment-submission/YDiJh/quiz-survey-time",
-    "https://www.coursera.org/learn/ux-research-at-scale/assignment-submission/7FUJb/quiz-assessing-your-survey-knowledge",
-    "https://www.coursera.org/learn/ux-research-at-scale/assignment-submission/uU4pt/quiz-getting-responses",
-    "https://www.coursera.org/learn/ux-research-at-scale/assignment-submission/kYJEd/writing-questions-quiz-1",
-    "https://www.coursera.org/learn/ux-research-at-scale/assignment-submission/laZal/writing-questions-quiz-2",
-    "https://www.coursera.org/learn/ux-research-at-scale/assignment-submission/UJDL7/quiz-about-research-at-scale",
-    "https://www.coursera.org/learn/ux-research-at-scale/assignment-submission/ucHj9/remote-testing",
-    "https://www.coursera.org/learn/user-experience-capstone/assignment-submission/MoINS/quiz-needs-finding",
-    "https://www.coursera.org/learn/user-experience-capstone/assignment-submission/ui17o/quiz-user-testing",
-    "https://www.coursera.org/learn/user-experience-capstone/assignment-submission/cpD7W/quiz-iterative-prototyping"
-  ],
-  "strictQuizMode": true,
   "quizSrc": [
     {
       "term": "The preceding assignment required submitting 3 reviews of learner's work for each prompt. Have you completed all of the required peer reviews? A. Yes, I have completed reviews of the work of 3 peers for each prompt in the preceding assignment. B. No, I have not completed the required number of peer reviews in the preceding assignment.",
@@ -316,7 +278,7 @@
     },
     {
       "term": "8. A single designer can usually conduct a test of a lo-fi prototype by him/herself.A. TrueB. False",
-      "definition": "A. True"
+      "definition": "B. False"
     },
     {
       "term": "9. Which of the following is not a characteristic of hi-fi prototypes? A. They are more resource-intensive to developB. They can be run by the tester without helpC. They are of limited usefulness for testing usabilityD. They can be used as a part of the spec given to developers",
@@ -720,7 +682,7 @@
     },
     {
       "term": "Bill Buxton claims that __________ is not just a byproduct of design, but is central to design thinking and learning.SketchingBeautyFunctionalityUser Testing",
-      "definition": ""
+      "definition": "Sketching"
     },
     {
       "term": "True or false: it is important to be good at drawing to use sketching in UX Design.a. Trueb. False",
@@ -1059,7 +1021,7 @@
       "definition": "B. Formative"
     },
     {
-      "term": "2. You are working on assessing the usability of a medical device. For regulatory reasons, you need to demonstrate that 99% of medical professionals can perform a certain task in under one minute. What kind of user test should you perform?A. ComparativeB. FormativeC. BenchmarkD. Microusability",
+      "term": "2. You are working on assessing the usability of a medical device. For regulatory reasons, you need to demonstrate that 99% of medical professionals can perform a certain task in under one minute. What kind of user test should you perform? A. ComparativeB. FormativeC. BenchmarkD. Microusability",
       "definition": "C. Benchmark"
     },
     {
@@ -1157,6 +1119,26 @@
     {
       "term": "What elements should a script include for a remote moderated test?a. Obtain Consentb. Make introductionsc. Build rapportd. Exact instructions for how to complete taskse. Set expectations for duration and content of testf. Set expectations for role of moderator and observer",
       "definition": "a. Obtain Consent, b. Make introductions, c. Build rapport, e. Set expectations for duration and content of test, f. Set expectations for role of moderator and observer"
+    },
+    {
+      "term": "Write the stages of action in the correct order in the text box below. There is no need to number them, and feel free to separate each stage with a comma: Interpreting the State of the WorldSelecting the ActionEvaluating the OutcomeExecuting the ActionForming the IntentionPerceiving the State of the World | ",
+      "definition": "Forming the Intention, Selecting the Action, Executing the Action, Perceiving the State of the World, Interpreting the State of the World, Evaluating the Outcome"
+    },
+    {
+      "term": "For the next two questions, you'll have the opportunity to practice grading a sample Mini-Project description.Assign the learner the grade you feel they deserve for each criteria. Keep trying until you are able to grade the submission the same way it would have been scored by the instructor:Grade this Mini-Project Description:What do users of Facebook find useful or frustrating about its interface? Facebook is a widely used social media platform that can be used on Internet-connected computing devices and smartphones, where users connect explicitly with their friends and family and share comments, photos, and hyperlinks. The interface is rich with features, and the question is which ones users use and how they feel about them.Criteria: Problem statement and question (Are the problem statement and question clearly communicated?) | Needs Work (There is no discernible problem statement, or it is difficult to understand.) | Fair (There seems to be a reasonable problem description, but it is not provided in the form of a question, or it is not given sufficient detail to be clear.) | Very good (There is a clear problem description and a good summary of the problem is posed as a single question.)",
+      "definition": "Very good (There is a clear problem description and a good summary of the problem is posed as a single question.)"
+    },
+    {
+      "term": "Again considering the learner response below.Assign the learner the grade you feel they deserve for the criteria. Keep trying until you are able to grade the submission the way it would have been scored by the instructor:Grade this Mini-Project Description:What do users of Facebook find useful or frustrating about its interface? Facebook is a widely used social media platform that can be used on Internet-connected computing devices and smartphones, where users connect explicitly with their friends and family and share comments, photos, and hyperlinks. The interface is rich with features, and the question is which ones users use and how they feel about them.Criteria: Scoping (Was the interview protocol scoped appropriately?) | Needs Work (The scoping of the problem is poor. It is either much too simple or much too complex to be answered with a couple of hour-long interviews.) | Fair (The scoping of the problem might be a little too big or a little too small. It seems either a little too simple or a little too complex to be answered with a couple of hour-long interviews.) | Very Good (The scoping of the problem is good. The problem seems like one that could be meaningfully understood with a couple of hour-long interviews.)",
+      "definition": "Fair (The scoping of the problem might be a little too big or a little too small. It seems either a little too simple or a little too complex to be answered with a couple of hour-long interviews.)"
+    },
+    {
+      "term": "You'll now have the opportunity to practice grading a sample interview protocol.Assign the learner the grade you feel they deserve for the criteria. Keep trying until you are able to grade the submission the same way it would have been scored by the instructor:Grade this Interview Protocol:What do users of Facebook find useful or frustrating about the way its privacy setting options work?Criteria: Number and Quality (Is the number and quality of the overarching questions appropriate?) | Not Serious (There was no attempt to provide a serious overarching question.) | Needs Work (There are three or more overarching questions, each substantially different from the others.) | Fair (There are exactly one or two overarching questions, but the questions do not seem well-suited to the mini-project.) | Very Good (There are exactly one or two overarching questions, and they seem appropriate for the mini-project.)",
+      "definition": "Very Good (There are exactly one or two overarching questions, and they seem appropriate for the mini-project.)"
+    },
+    {
+      "term": "How many sessions are you planning to conduct on your own? | ",
+      "definition": "5"
     }
   ]
 }
