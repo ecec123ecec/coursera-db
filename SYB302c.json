@@ -1,31 +1,4 @@
 {
-  "quizUrls": [
-    "https://www.coursera.org/learn/innovative-ideas/assignment-submission/OX6NK/entrepreneurial-perspective",
-    "https://www.coursera.org/learn/innovative-ideas/assignment-submission/sVRrU/entrepreneurial-mindset-motivations-and-behaviors",
-    "https://www.coursera.org/learn/innovative-ideas/assignment-submission/i020C/industry-analysis",
-    "https://www.coursera.org/learn/innovative-ideas/assignment-submission/f04PH/customer-analysis",
-    "https://www.coursera.org/learn/innovative-ideas/assignment-submission/FF5H8/business-plan-evaluation",
-    "https://www.coursera.org/learn/innovative-entrepreneur/assignment-submission/tbWvj/initial-business-model-canvas",
-    "https://www.coursera.org/learn/innovative-entrepreneur/assignment-submission/Hh1KE/discovering-and-interviewing-your-customers",
-    "https://www.coursera.org/learn/innovative-entrepreneur/assignment-submission/CFGD9/product-understanding-and-marketing",
-    "https://www.coursera.org/learn/innovative-entrepreneur/assignment-submission/TTsze/prototyping-and-testing",
-    "https://www.coursera.org/learn/innovative-entrepreneur/assignment-submission/rINPX/building-the-team",
-    "https://www.coursera.org/learn/innovative-entrepreneur/assignment-submission/fTdRG/final-business-model-canvas",
-    "https://www.coursera.org/learn/startup-funding/assignment-submission/q0BNN/early-stage-investment-landscape",
-    "https://www.coursera.org/learn/startup-funding/assignment-submission/JgX1i/newco-project",
-    "https://www.coursera.org/learn/startup-funding/assignment-submission/qGhA5/sources-of-capital",
-    "https://www.coursera.org/learn/startup-funding/assignment-submission/r4L4o/project-sources-of-capital",
-    "https://www.coursera.org/learn/startup-funding/assignment-submission/6lnHA/principles-of-funding-strategies",
-    "https://www.coursera.org/learn/startup-funding/assignment-submission/ldx9Y/create-a-funding-strategy-for-a-new-venture-concept",
-    "https://www.coursera.org/learn/startup-funding/assignment-submission/ZUfd4/fundamentals-of-the-pitch",
-    "https://www.coursera.org/learn/startup-funding/assignment-submission/IDPjs/create-the-pitch-for-a-new-venture-concept",
-    "https://www.coursera.org/learn/entrepreneurship-capstone/assignment-submission/0C8SM/initial-business-model-canvas",
-    "https://www.coursera.org/learn/entrepreneurship-capstone/assignment-submission/qdPND/customer-interviews-and-analysis-part-1-of-2",
-    "https://www.coursera.org/learn/entrepreneurship-capstone/assignment-submission/CWtXd/customer-interviews-and-analysis-part-2-of-2",
-    "https://www.coursera.org/learn/entrepreneurship-capstone/assignment-submission/Q8h4E/marketing-and-sales-strategy",
-    "https://www.coursera.org/learn/entrepreneurship-capstone/assignment-submission/YYhFR/final-business-model-canvas",
-    "https://www.coursera.org/learn/entrepreneurship-capstone/assignment-submission/lzu8H/business-plan"
-  ],
   "strictQuizMode": true,
   "quizSrc": [
     {
@@ -639,6 +612,18 @@
     {
       "term": "<div class\"dxv8pid\"> A number of the most important people who'll do work for you won't work for you. Your attorney, your accountant, and your insurance broker are all crucial members of your team. They are part of the external team of your venture. <em>What specific activities, events, organizations, etc. can you engage in to meet qualified, potential outside professionals for your venture?</em></div>",
       "definition": "Read definition only"
+    },
+    {
+      "term": "How would you define the \"entrepreneurial mindset\"? Be sure to discuss each of the five factors. Please respond in one to two paragraphs. | ",
+      "definition": "Entrepreneurial mindset has five factors. They are; high need for achievement, individualism, locus of control focus, and optimism. Need for achievement is defined as having a preference for challenge, an acceptance of personal responsibility for outcomes, and a personal drive for accomplishment. Individualism means that entrepreneurs need less support or approval from others. High individualism is associated with an emphasis on individual initiative and achievement. Often results in entrepreneurs needing less support or approval from others. Control has two segments, which is autonomy and locus of control. Autonomy is an individual's belief about their level of freedom from the influence of others. Locus of control is an individual's belief that they can influence the environment in which they are found. People with higher levels of autonomy and an internal locus on control are more likely to discover an entrepreneurial opportunity. Internally-oriented locus of control people believed that they are able to influence their environment. Successful entrepreneurs are able to focus attention on a single task and see it through to completion. This leads selected individuals to react and to become successful entrepreneurs. While optimism enables entrepreneurs to try new things and attempt difficult tasks, optimism may also present negative impacts. Optimism leads entrepreneurs to frequently make judgements on subjective positive factors."
+    },
+    {
+      "term": "We are interested in your personal perspectives on \"entrepreneurial motivation\". Discuss each of the three factors through which goal-directed behavior is initiated, energized and maintained as related to entrepreneurial strategic decision-making. Please respond in one to two paragraphs. | ",
+      "definition": "We are interested in your personal perspectives on \"entrepreneurial motivation\". Discuss each of the three factors through which goal-directed behavior is initiated, energized and maintained as related to entrepreneurial strategic decision-making. Please respond in one to two paragraphs. Entrepreneurial motivation is having high self-efficacy in all task, having high cognitive motivation, Self-efficacy is defined as one's belief in one's ability to accomplish a specific task. Self-efficacy differs as it is task dependent. For example my self-efficacy is low in selling in an audience because I fear public speaking. In improving one's self-efficacy, there different approaches, namely; increasing mastery, having a role model/observing, verbal encouragement from trusted sources like a coach or mentor, and exhibiting a positive mood and high energy. Cognition is the process of thought. Individuals exhibiting a high need for cognition tend to seek, acquire, think, and reflect on relevant information. In other words their brain is active in thinking for solutions all the time. Tolerance for ambiguity is defined as the tendency to perceive ambiguous situations as desirable rather than threatening. Entrepreneurs make complex decisions in ambiguous situations and desire them. It is a necessary factor for entrepreneurs based on dynamic nature of markets and competition."
+    },
+    {
+      "term": "In considering the role of \"risk\" in entrepreneurial decision-making, why do entrepreneurs accept risks that traditional managers may avoid? Please respond in one paragraph. | ",
+      "definition": "Entrepreneurs engage in risk that traditional managers may avoid because they have intuition, have individualistic view, have high tolerance for ambiguity and high confidence in skills, knowledge, and expertise. Entrepreneurs mitigate risk based on intuition which is improved through past experiences. They have individualistic view complemented by relationships and team orientation. They have high tolerance for ambiguity based on comfort with making difficult choices with in complement information in the past. And lastly they have high confidence in skills, knowledge, and expertise enhanced based on past success. Entrepreneurs engage in risk that traditional managers may avoid because they lack in necessary information in a situation needing prompt decision. They develop an inside view of the decisions they face. They also ignore elements of past situations. And they favor positive possible outcomes over negative outcomes. Entrepreneurs assess real risk and improve decision-making by using the following keys. They apply multiple perspectives to a decision situation, they integrate these perspectives into the decision, they use a complex cognitive framework regarding a decision situation, and they have broader and deeper view of the decision at hand which may result in a more accurate assessment of risk."
     }
   ]
 }
