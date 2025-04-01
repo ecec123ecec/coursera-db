@@ -657,8 +657,8 @@
       "definition": "(c). A child from a lower socio-economic group who is not overweight, and who comes from a family where all of the family members are overweight or obese. (d). A child from a lower socio-economic group who is overweight and whose parents are at a healthy weight."
     },
     {
-      "term": "2.3.5.1, Consider the following task from a university course:\"Shakespeare's legacy to successive generations is his firm faith in human potential.\" (Bell Shakespeare Company, 2016). Discuss with reference to Hamlet. What are the key terms you would need to define in order to answer this analytical task adequately?Refer to lesson 3.1a. Check 3 options. 1. Shakespeare's legacy (b). Human potential (c). What the play Hamlet teaches or tries to teach us (d). What Shakespeare thinks of human potential 5. Successive generations",
-      "definition": "(b). Human potential (c). What the play Hamlet teaches or tries to teach us (d). What Shakespeare thinks of human potential"
+      "term": "2.3.5.1, Consider the following task from a university course:\"Shakespeare's legacy to successive generations is his firm faith in human potential.\" (Bell Shakespeare Company, 2016). Discuss with reference to Hamlet. What are the key terms you would need to define in order to answer this analytical task adequately?Refer to lesson 3.1a. Check 3 options. (a). Shakespeare's legacy (b). Human potential (c). What the play Hamlet teaches or tries to teach us (d). What Shakespeare thinks of human potential 5. Successive generations",
+      "definition": "(b). Human potential (c). What the play Hamlet teaches or tries to teach us (e). Successive generations"
     },
     {
       "term": "2.3.5.2, Consider the following problem:Two cars are stopped at either end of a 100km highway. At the same time, they both start driving towards each other. Car A travels at 20km/hr and car B travels at 30km/hr. At the same time as the cars start, a dog jumps out of Car A and runs towards car B at 50km/hr. When the dog reaches car B, he immediately turns around and runs back to car A. He repeats this until the cars collide. If the dog stops running as soon as the cars meet, how far has he run?Use the equation: speed = distance/time. What SI (Standard International) unit of measurement should the answer to this problem be in?Refer to lesson 3.1a, 3.1b and 3.1c. Check one option. (a). Kilometers (b). Minutes (c). Km/hr (d). m/s (e). Miles",
@@ -674,7 +674,7 @@
     },
     {
       "term": "2.3.5.5, Consider the following problem from a Landscape Architecture course:\"A local government has put out a tender for a park design in the middle of a newly-residential area. They have plotted out an area of 2 hectares in a rough polygon shape. The area is relatively flat, but is surrounded by ten-story apartment buildings on three sides, a busy road to the north and a small side-street on the last side towards the east. The local population is a mix of young families, local university students and young professionals and is very multi-cultural. The brief for the park indicates that it should \"embody the community spirit\" and \"encourage a fit and healthy lifestyle\". Develop a proposal that answers the brief and is both sustainable and ecological.\"When developing a brainstorm or mind-map, what would be some of the key points that you should start with?Refer to lesson 3.2a, 3.2b and 3.2c. Check one option. (a). Community spirit; Fit and Healthy Lifestyle; Sustainable; Ecological (b). Young professionals; University students; Young families (d). Newly residential; apartment living; busy road; multi-cultural (e). All of the above",
-      "definition": "(d). Newly residential; apartment living; busy road; multi-cultural"
+      "definition": "(e). All of the above"
     },
     {
       "term": "2.3.5.6, Consider the following problem from a university course: \"A local government has put out a tender for a park design in the middle of a newly-residential area. They have plotted out an area of 2 hectares in a rough polygon shape. The area is relatively flat, but is surrounded by ten-story apartment buildings on three sides, a busy road to the north and a small side-street on the last side towards the east. The local population is a mix of young families, local university students and young professionals and is very multi-cultural. The brief for the park indicates that it should \"embody the community spirit\" and \"encourage a fit and healthy lifestyle\". Develop a proposal that answers the brief and is both sustainable and ecological.\" Visual representation is a way to understand a problem. Which of the images best represents this problem?Refer to lesson 3.1a, 3.1b and 3.1cCheck one option. (a). (b). (c). (d).",
@@ -686,6 +686,10 @@
     },
     {
       "term": "2.3.5.8, Pattern recognition is a form of problem-solving with special cases. Let's see if you can apply it. What letters are missing from the sequence?ACE, GIK, M__ __, SUW Refer to lesson 3.3aCheck one option. (a). O and Q (b). N and P (c). A and O (d). O and O",
+      "definition": "(a). O and Q"
+    },
+    {
+      "term": "Quiz type: radio, Pattern recognition is a form of problem-solving with special cases. Let's see if you can apply it. What letters are missing from the sequence?ACE, GIK, M__ __, SUWRefer to lesson 3.3aCheck one option. | (a). O and Q | (b). N and P | (c). A and O | (d). O and O",
       "definition": "(a). O and Q"
     },
     {
@@ -1457,28 +1461,64 @@
       "definition": "Sentences 3 and 4."
     },
     {
-      "term": "4.4.1.1, What two pieces of advice does Dr Marie Stevenson give for writing a good first draft? Check two options. 1. Get started. 2. Make a plan and stick to it. 3. Make a plan and be flexible. 4. Focus on your language use.",
+      "term": "Quiz type: checkbox, What two pieces of advice does Dr Marie Stevenson give for writing a good first draft?Check two options. | a. Get started. | b. Make a plan and stick to it. | c. Make a plan and be flexible. | d. Focus on your language use.",
+      "definition": "a. Get started. | c. Make a plan and be flexible."
+    },
+    {
+      "term": "Quiz type: checkbox, What two pieces of advice does Dr Helen Drury give for refining and editing a first draft?Check two options. | a. Rewrite all your topic sentences. | b. Try to understand your topic better. | c. Check that your introduction matches your conclusion. | d. Read you topic sentences to make sure they predict the main idea of the paragraph.",
+      "definition": "d. Read you topic sentences to make sure they predict the main idea of the paragraph. | c. Check that your introduction matches your conclusion."
+    },
+    {
+      "term": "Quiz type: checkbox, How does Dr Alyssa O'Brien see use of visual aids at university as different from using visuals in other rhetorical situations?Check two options. | a. Visual aids serve as evidence for your argument. | b. They can be shared on social media. | c. Visual aids must be made by academics. | d. Visual aids must be cited correctly.",
+      "definition": "a. Visual aids serve as evidence for your argument. | d. Visual aids must be cited correctly."
+    },
+    {
+      "term": "4.4.1.1, What two pieces of advice does Dr Marie Stevenson give for writing a good first draft?Check two options. 1. Get started. 2. Make a plan and stick to it. 3. Make a plan and be flexible. 4. Focus on your language use.",
       "definition": "1. Get started. 3. Make a plan and be flexible."
     },
     {
-      "term": "4.4.1.2, What two pieces of advice does Dr Helen Drury give for refining and editing a first draft? Check two options. 1. Rewrite all your topic sentences. 2. Try to understand your topic better. 3. Check that your introduction matches your conclusion. 4. Read you topic sentences to make sure they predict the main idea of the paragraph.",
+      "term": "4.4.1.2, What two pieces of advice does Dr Helen Drury give for refining and editing a first draft?Check two options. 1. Rewrite all your topic sentences. 2. Try to understand your topic better. 3. Check that your introduction matches your conclusion. 4. Read you topic sentences to make sure they predict the main idea of the paragraph.",
       "definition": "3. Check that your introduction matches your conclusion. 4. Read you topic sentences to make sure they predict the main idea of the paragraph."
     },
     {
-      "term": "4.4.1.3, How does Dr Alyssa O'Brien see use of visual aids at university as different from using visuals in other rhetorical situations? Check two options. 1. Visual aids serve as evidence for your argument. 2. They can be shared on social media. 3. Visual aids must be made by academics. 4. Visual aids must be cited correctly.",
+      "term": "4.4.1.3, How does Dr Alyssa O'Brien see use of visual aids at university as different from using visuals in other rhetorical situations?Check two options. 1. Visual aids serve as evidence for your argument. 2. They can be shared on social media. 3. Visual aids must be made by academics. 4. Visual aids must be cited correctly.",
       "definition": "1. Visual aids serve as evidence for your argument. 4. Visual aids must be cited correctly."
     },
     {
-      "term": "4.4.2.1, According to Sowton (2012), what are the three functions of an essay introduction? Check 3 options. 1. A map 2. A mirror 3. A microphone 4. A marketing tool 5. A microscope 6. A microcosm",
+      "term": "Quiz type: checkbox, According to Sowton (2012), what are the three functions of an essay introduction?Check 3 options. | a. A map | b. A mirror | c. A microphone | d. A marketing tool | e. A microscope | f. A microcosm",
+      "definition": "a. A map | d. A marketing tool | f. A microcosm"
+    },
+    {
+      "term": "Quiz type: checkbox, Which of the following are characteristics of the language of professional reports?Check two options. | a. The sentences are less complex than in formal academic writing. | b. Use of recommendations | c. Long noun phrases | d. Passive verb forms",
+      "definition": "a. The sentences are less complex than in formal academic writing. | b. Use of recommendations"
+    },
+    {
+      "term": "Quiz type: radio, Consider the following excerpt from a university essay.Crop rotation changed considerably in the 18th century in Britain. Farmers in Flanders pioneered a four-field crop rotation system which meant fewer fields were left fallow. Charles Townsend introduced this to Britain, and, as a result, crop yields improved. The introduction of greater cultivation of turnips and clover also lead to a rise in the number of ruminant animals raised, and the use of these animals increased yields of meat and dairy products. What can this writer do to improve cohesion in this passage? Check one option. | a. Use word chains. | b. Use pronouns to refer to other parts of the text. | c. Use conjunctions. | d. Use Theme-New structures to connect sentences better.",
+      "definition": "d. Use Theme-New structures to connect sentences better."
+    },
+    {
+      "term": "4.4.2.1, According to Sowton (2012), what are the three functions of an essay introduction?Check 3 options. 1. A map 2. A mirror 3. A microphone 4. A marketing tool 5. A microscope 6. A microcosm",
       "definition": "1. A map 4. A marketing tool 6. A microcosm"
     },
     {
-      "term": "4.4.2.2, Which of the following are characteristics of the language of professional reports? Check two options. 1. The sentences are less complex than in formal academic writing. 2. Use of recommendations 3. Long noun phrases 4. Passive verb forms",
+      "term": "4.4.2.2, Which of the following are characteristics of the language of professional reports?Check two options. 1. The sentences are less complex than in formal academic writing. 2. Use of recommendations 3. Long noun phrases 4. Passive verb forms",
       "definition": "1. The sentences are less complex than in formal academic writing. 2. Use of recommendations"
     },
     {
       "term": "4.4.2.3, Consider the following excerpt from a university essay. Crop rotation changed considerably in the 18th century in Britain. Farmers in Flanders pioneered a four-field crop rotation system which meant fewer fields were left fallow. Charles Townsend introduced this to Britain, and, as a result, crop yields improved. The introduction of greater cultivation of turnips and clover also lead to a rise in the number of ruminant animals raised, and the use of these animals increased yields of meat and dairy products. What can this writer do to improve cohesion in this passage? a. Use word chains. b. Use pronouns to refer to other parts of the text. c. Use conjunctions. d. Use Theme-New structures to connect sentences better.",
       "definition": "Use Theme-New structures to connect sentences better."
+    },
+    {
+      "term": "Quiz type: radio, Consider the following essay question.Discuss the series of events that led to the First World War. What part did the system of alliances play in causing the conflict? Was a military arms race between the Great Powers a major influence? Did colonialism play a part in leading to the conflict?Here is a student's essay introduction and conclusion in response to this question.The First World War was one of the largest conflicts of the 20th century, leading to millions of deaths both in Europe and around the world. Unlike other conflicts in the 20th century, the causes of the conflict were many and various, and historians have had a difficult time deciding what the primary causes were. The system of alliances, rising militarism amongst the Great Powers, the politics surrounding a united Germany, and even the Industrial Revolution have been posited as short and long term causes of the war. However, it is two of these in particular - the system of alliances in Europe, and a military arms race in Europe - that were particularly prominent causes of the conflict.To sum up, the combination of the system of alliances and rising militarism amongst European countries - leading to an arms race amongst the countries - were the two main causes of the First World War. The system of alliances lead to an \"excessively rigid framework\" (Taylor, 1969), which was unable to deal with diplomatic events such as the assassination of Archduke Franz Ferdinand. Coupled with this was the immense military buildup and planning amongst the Great Powers, which created a great impetus for war. It is these two issues, in excess of others, that led to the bloodshed of the First World War.The student has unfortunately failed to address one part of the question. Which part of the question has the student failed to answer?Check one option. | a. The system of alliances amongst the Great Powers. | b. The role of colonialism in causing the First World War. | c. The military arms race as a cause of the First World War. | d. Domestic issues for the European Great Powers.",
+      "definition": "b. The role of colonialism in causing the First World War."
+    },
+    {
+      "term": "Quiz type: checkbox, Which of the following techniques for polishing and refining academic writing are usually specific to writing reports and proposals? Check two options. | a. Writing section headings. | b. Writing an abstract or executive summary. | c. Make a reverse outline. | d. Check that you have answered the question.",
+      "definition": "a. Writing section headings. | b. Writing an abstract or executive summary."
+    },
+    {
+      "term": "Quiz type: checkbox, Consider the following information graphic and corresponding text in a design specification report, detailing the creation and usage of an online resource for stroke survivors.\"Usage of the SmartSurvive site gradually increased throughout 2015. After its launch in January, the first quarter saw 325 visitors to the site. Usage plateaued in the second and third quarters at 450 and 475 visitors respectively, before jumping to 595 visitors in the last quarter.\"Which of the following statements about the visual aid and accompanying writing are true?Check two options. | a. The student has failed to adequately describe the main information from the visual aid in the writing. | b. The visual aid has not been properly labelled. | c. The wrong form of visual aid has been used. | d. The visual aid doesn't work together with the text.",
+      "definition": "c. The wrong form of visual aid has been used. | b. The visual aid has not been properly labelled."
     },
     {
       "term": "4.4.3.1, Consider the following essay question. \"Discuss the series of events that led to the First World War. What part did the system of alliances play in causing the conflict? Was a military arms race between the Great Powers a major influence? Did colonialism play a part in leading to the conflict?\" Here is a student's essay introduction and conclusion in response to this question. \"The First World War was one of the largest conflicts of the 20th century, leading to millions of deaths both in Europe and around the world. Unlike other conflicts in the 20th century, the causes of the conflict were many and various, and historians have had a difficult time deciding what the primary causes were. The system of alliances, rising militarism amongst the Great Powers, the politics surrounding a united Germany, and even the Industrial Revolution have been posited as short and long term causes of the war. However, it is two of these in particular - the system of alliances in Europe, and a military arms race in Europe - that were particularly prominent causes of the conflict. To sum up, the combination of the system of alliances and rising militarism amongst European countries - leading to an arms race amongst the countries - were the two main causes of the First World War. The system of alliances lead to an \"excessively rigid framework\" (Taylor, 1969), which was unable to deal with diplomatic events such as the assassination of Archduke Franz Ferdinand. Coupled with this was the immense military buildup and planning amongst the Great Powers, which created a great impetus for war. It is these two issues, in excess of others, that led to the bloodshed of the First World War.\" The student has unfortunately failed to address one part of the question. Which part of the question has the student failed to answer? a. The system of alliances amongst the Great Powers. b. The role of colonialism in causing the First World War. c. The military arms race as a cause of the First World War. d. Domestic issues for the European Great Powers.",
@@ -1503,6 +1543,18 @@
     {
       "term": "4.4.4.3, What question should you ask yourself first when checking the format of your writing? a. \"Are the paragraphs indented?\" b. \"What number paragraph is this?\" c. \"Have I followed my lecturer's formatting guide?\" d. \"Does this look like an essay/report?\"",
       "definition": "\"Does this look like an essay/report?\""
+    },
+    {
+      "term": "Quiz type: radio, Why does Sowton (2012) suggest reading your text backwards?Check one option. | a. To check the structure | b. To make a reverse outline | c. To check the grammar | d. To check for font use",
+      "definition": "c. To check the grammar"
+    },
+    {
+      "term": "Quiz type: radio, How can you use the search function on a word processor to check your writing before submission? Check one options. | a. To check for names in references | b. To check the formatting | c. To check for correct paragraph structure.",
+      "definition": "a. To check for names in references"
+    },
+    {
+      "term": "Quiz type: radio, What question should you ask yourself first when checking the format of your writing?Check one option. | a. \"Are the paragraphs indented?\" | b. \"What number paragraph is this?\" | c. \"Have I followed my lecturer's formatting guide?\" | d. \"Does this look like an essay/report?\"",
+      "definition": "d. \"Does this look like an essay/report?\""
     },
     {
       "term": "4.4.5.1, Consider the following text from a student essay. \"Performance management can be defined as the set of practices within an organisation designed to measure and improve staff performance (DeNisi &amp; Pritchard, 2006). The first element of performance management - to measure staff performance - is often termed performance appraisal. Performance management's second main part - to improve staff performance - is more commonly connected with human resource development. Performance management's role in measuring staff performance can be traced all the way back to the work of Frederick Taylor and scientific management. On the other hand, performance management's role in improving staff performance is more recent, deriving inspiration from the work of Elton Mayo and the influence of humanist psychology on the study of business.\" What element of coherence can be used to improve this writing? A. Don't use over-complicated grammar B. Clearly state their main ideas. C. Order the writing into chronological order. D. Use a logical division of ideas.",
@@ -1534,6 +1586,38 @@
     },
     {
       "term": "4.4.5.8, When you are checking that you have answered your question when polishing your essay, there are three steps suggested in lesson 4.3a. Here are the three steps presented out of order: 1. Highlight the sentences in your introduction and conclusion that address each part. 2. Highlight which topic sentences address each part. 3. Break down the question into its relevant parts What is the correct order for this process? A. 2, 3, 1 B. 3, 2, 1 C. 2, 1, 3 D. 1, 3, 2",
+      "definition": "1, 3, 2"
+    },
+    {
+      "term": "Quiz type: radio, Consider the following text from a student essay.Performance management can be defined as the set of practices within an organisation designed to measure and improve staff performance (DeNisi & Pritchard, 2006). The first element of performance management - to measure staff performance - is often termed performance appraisal. Performance management's second main part - to improve staff performance - is more commonly connected with human resource development. Performance management's role in measuring staff performance can be traced all the way back to the work of Frederick Taylor and scientific management. On the other hand, performance management's role in improving staff performance is more recent, deriving inspiration from the work of Elton Mayo and the influence of humanist psychology on the study of business.What element of coherence can be used to improve this writing?Choose one answer. | Don't use over-complicated grammar | Clearly state their main ideas. | Order the writing into chronological order. | Use a logical division of ideas.",
+      "definition": "Use a logical division of ideas."
+    },
+    {
+      "term": "Quiz type: radio, Consider the following text from a student essay.Performance management can be defined as the set of practices within an organisation designed to measure and improve staff performance (DeNisi & Pritchard, 2006). The first element of performance management - to measure staff performance - is often termed performance appraisal. Performance management's second main part - to improve staff performance - is more commonly connected with human resource development. Performance management's role in measuring staff performance can be traced all the way back to the work of Frederick Taylor and scientific management. On the other hand, performance management's role in improving staff performance is more recent, deriving inspiration from the work of Elton Mayo and the influence of humanist psychology on the study of business.What element of cohesion can be used to improve this writing?Choose one answer. | Use of pronouns to avoid repetition. | Greater use of conjunctions. | Greater use of word chains. | Use Theme-New structures to connect sentences.",
+      "definition": "Use of pronouns to avoid repetition."
+    },
+    {
+      "term": "Quiz type: radio, Is the following sentence more characteristic of research reports, or professional reports? Why? Check one option.\"The rapid development of the Chinese hybrid economic model may largely be attributed to the reforms initiated by Chen Yun in the late 1970s and early 1980s.\" | Professional report, because it is referring to business | Professional report, because it is making a recommendation. | Research report, because it is referring to historical findings. | Research report, because it uses passive forms and hedging.",
+      "definition": "Research report, because it uses passive forms and hedging."
+    },
+    {
+      "term": "Quiz type: checkbox, What are two pieces of advice about writing essays and reports that the academics in lesson 4.1 give?Check two options. | Make a plan but be flexible. | Cite any visual aids taken from other sources correctly. | Focus carefully on your language use when writing your first draft. | Write your executive summary first.",
+      "definition": "Make a plan but be flexible. | Cite any visual aids taken from other sources correctly."
+    },
+    {
+      "term": "Quiz type: radio, Consider the following data on the proportion of female employees in 6 companies.CompanyProportion of female employeesCompany 139%Company 229%Company 358%Company 448%Company 573%Company 645%Which form of data graphic would best represent this information?Check one option. | Bar chart. | Pie chart. | Line graph. | Venn diagram.",
+      "definition": "Bar chart."
+    },
+    {
+      "term": "Quiz type: radio, Consider the following excerpt taken from the final draft of an essay on leadership.The first form of leadership identified by Burns (cited in Hays, 2016), transactional leadership, is commonly associated with everyday management. Transactional leadership is largely seen as recruiting the participation of employees through material rewards, and in cases where employees do not follow directives, through punishments. The appeal of the transactional leader is attained by appealing to employees own self-interest through such things as incentives and job security. The transactional leader is seen as someone who is responsive to external threats and directives from leaders above, and largely works within the organizational culture. Their overall objective is to maintain the status quo. Many writers feel that the transactional leader is somehow inferior to the transformational leader outlined below, but in my opinion organisations need transactional leaders as much as transformational leaders. If an organisation had too many transformational leaders, it would be a case of 'too many chiefs not enough Indians'. In contrast with transactional leaders, transformational leaders are seen as proactive rather than just reactive. Transformational leaders inspire followers through their ideals, idea and morals rather than ....What structural issue does this excerpt have?Check one option. | The paragraphing is wrong. | It lacks cohesion. | It doesn't answer the question. | It lacks coherence.",
+      "definition": "The paragraphing is wrong."
+    },
+    {
+      "term": "Quiz type: checkbox, Consider the following excerpt taken from the final draft of an essay on leadership. The first form of leadership identified by Burns (cited in Hays, 2016), transactional leadership, is commonly associated with everyday management. Transactional leadership is largely seen as recruiting the participation of employees through material rewards, and in cases where employees do not follow directives, through punishments. The appeal of the transactional leader is attained by appealing to employees own self-interest through such things as incentives and job security. The transactional leader is seen as someone who is responsive to external threats and directives from leaders above, and largely works within the organizational culture. Their overall objective is to maintain the status quo. Many writers feel that the transactional leader is somehow inferior to the transformational leader outlined below, but in my opinion organisations need transactional leaders as much as transformational leaders. If an organisation had too many transformational leaders, it would be a case of 'too many chiefs not enough Indians'. In contrast with transactional leaders, transformational leaders are seen as proactive rather than just reactive. Transformational leaders inspire followers through their ideals, idea and morals rather than ....What language issues does this excerpt have?Check two options. | It contains some grammar errors. | It is sometimes too personal in tone. | It sometimes is more like spoken language. | It contains a double negative.",
+      "definition": "It is sometimes too personal in tone. | It sometimes is more like spoken language."
+    },
+    {
+      "term": "Quiz type: radio, When you are checking that you have answered your question when polishing your essay, there are three steps suggested in lesson 4.3a. Here are the three steps presented out of order:1. Highlight the sentences in your introduction and conclusion that address each part.2. Highlight which topic sentences address each part.3. Break down the question into its relevant partsWhat is the correct order for this process? | 1, 3, 2 | 3, 2, 1 | 2, 1, 3 | 2, 3, 1",
       "definition": "1, 3, 2"
     },
     {
